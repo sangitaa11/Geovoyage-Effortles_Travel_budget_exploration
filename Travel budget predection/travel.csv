@@ -1,0 +1,1001 @@
+user_id,age,gender,travel_preferences,destination,duration,purpose,user_budget,actual_expenses,current_location_latitude,current_location_longitude,destination_latitude,destination_longitude,distance,current_cost_of_living_index,destination_cost_of_living_index,accommodation_type,accommodation_cost_per_night,transportation_mode,transportation_cost,daily_meal_expenses,average_restaurant_prices,planned_activities,weather_data,local_events
+1,41,Male,adventure,Goa,30,business,₹15000,30098.04,30.292905,47.6479775,25.463597,94.6825,726096,226,975,hotel,₹1000,car,₹100,772.38,1491.13,sightseeing,cloudy,music festival
+2,55,Male,adventure,Telangana,25,vacation,₹100,11308.75,25.31393,95.3900288,14.682929,87.3164,122886,961,231,vacation rental,₹2000,plane,₹500,83.79,5101.77,shopping,rainy,music festival
+3,54,Female,relaxation,Manipur,7,family,₹5000,8384.31,30.476162,159.9728999,34.361992,90.2555,33935,691,664,hostel,₹2000,train,₹2000,829.98,1401.93,shopping,cloudy,art exhibition
+4,38,Female,adventure,Kerala,3,vacation,₹35000,38901.13,20.812208,-76.5112471,18.12573,88.582,1495244,497,131,hotel,₹1000,train,₹1000,3.61,3052.67,vacation,rainy,art exhibition
+5,49,Male,relaxation,Goa,4,vacation,₹10000,17386.41,18.34367,-84.38709,17.262588,89.3019,373961,929,59,vacation rental,₹500,car,₹100,461.96,3673.42,vacation,rainy,sports event
+6,50,Male,cultural,Andhra Pradesh,24,vacation,₹100,24561.15,26.212162,2.8797149,26.584117,76.9935,683826,530,108,hotel,₹2000,train,₹500,84.13,1822.95,hiking,cloudy,music festival
+7,36,Male,adventure,Manipur,3,family,₹5000,27873.55,28.567887,115.569092,16.745292,71.6102,1286935,191,735,vacation rental,₹100,car,₹2000,5.61,9050.49,vacation,sunny,art exhibition
+8,79,Male,cultural,Sikkim,8,vacation,₹25000,9761.41,11.147979,-8.6888467,18.841226,71.1535,649106,617,412,hotel,₹500,car,₹500,21.24,9454.85,vacation,rainy,music festival
+9,75,Female,adventure,Meghalaya,25,vacation,₹25000,41880.21,17.397323,-68.8605052,28.672418,87.3937,1343384,121,501,vacation rental,₹500,train,₹2000,991.38,8360.37,hiking,cloudy,sports event
+10,57,Male,adventure,Maharashtra,11,business,₹50000,5100.36,24.619749,118.592707,35.274178,90.1771,86341,982,104,hotel,₹500,plane,₹100,685.1,8068.35,education,rainy,sports event
+11,79,Female,cultural,Bihar,26,business,₹35000,24162.28,32.689081,113.300129,10.258733,73.0861,176707,526,989,hotel,₹1000,plane,₹2000,959.52,5083.01,vacation,cloudy,sports event
+12,45,Male,relaxation,Maharashtra,27,family,₹50000,44534.41,8.911428,114.565109,19.794319,76.6198,262245,872,460,vacation rental,₹100,car,₹2000,869.42,6972.03,sightseeing,cloudy,art exhibition
+13,68,Female,adventure,Mizoram,13,vacation,₹50000,15115.11,29.426282,124.6769673,21.56087,82.9437,669042,579,797,hotel,₹2000,plane,₹5000,259.13,4653.94,shopping,sunny,sports event
+14,77,Female,relaxation,Gujarat,29,business,₹500,24885.2,31.319921,8.5144352,20.819215,85.1427,186196,652,410,vacation rental,₹2000,car,₹500,400.82,9925.04,hiking,sunny,sports event
+15,43,Male,cultural,Madhya Pradesh,30,family,₹25000,29319.81,21.728432,-3.8553507,11.234218,73.0206,457238,864,412,hostel,₹100,car,₹1000,648.72,106.42,vacation,sunny,art exhibition
+16,84,Male,adventure,Madhya Pradesh,7,family,₹100,34302.71,24.296551,122.1619663,12.343742,82.8807,1338111,931,571,hostel,₹500,car,₹100,90.6,5357.22,vacation,cloudy,art exhibition
+17,70,Male,adventure,Haryana,22,business,₹50000,4213.77,22.300674,19.8369688,14.704527,86.7046,998551,540,832,vacation rental,₹100,plane,₹1000,767.9,6633.59,vacation,sunny,sports event
+18,63,Male,adventure,Maharashtra,12,family,"",6758.36,11.91361,24.2948622,26.288733,78.6495,1327666,94,285,vacation rental,₹500,car,₹500,671.14,3102.42,sightseeing,rainy,music festival
+19,74,Female,cultural,Mizoram,26,family,₹50000,48345.87,32.578876,17.1574569,17.059934,72.3261,497383,368,615,hostel,₹100,plane,₹2000,441.58,9109.65,vacation,rainy,sports event
+20,41,Female,cultural,Assam,22,business,₹2000,2647.98,33.180147,13.7914633,21.576251,96.7437,697594,842,945,vacation rental,₹500,train,₹2000,62.75,8583.11,sightseeing,sunny,sports event
+21,60,Male,cultural,Manipur,6,business,₹500,6874.72,13.380224,121.026941,12.96388,74.4132,709463,376,544,hostel,₹100,car,₹2000,635.99,4134.32,shopping,sunny,sports event
+22,22,Female,cultural,Karnataka,21,business,₹1000,43611.52,26.14065,44.4955531,15.280043,84.7671,601081,522,285,hostel,₹1000,plane,₹100,176.27,1189.2,sightseeing,rainy,sports event
+23,44,Male,cultural,Kerala,16,business,₹1000,24039.84,14.24458,-80.7023819,15.985863,95.2923,30997,832,739,vacation rental,₹100,car,₹100,106.51,2251.95,sightseeing,sunny,art exhibition
+24,68,Male,adventure,Bihar,18,family,₹35000,47959.69,31.585605,88.7878678,33.424682,79.2497,154846,184,211,vacation rental,₹100,train,₹500,440.56,8597.38,sightseeing,rainy,art exhibition
+25,56,Female,relaxation,Bihar,12,family,₹1000,44749.09,35.662773,82.433337,11.907765,79.6428,1343842,78,313,hotel,₹100,car,₹100,928.66,9546.98,shopping,cloudy,music festival
+26,83,Male,relaxation,Uttar Pradesh,28,vacation,₹5000,49091.96,29.441455,-75.7255192,14.945636,70.956,428206,790,321,hostel,₹500,train,₹5000,343.87,7765.97,sightseeing,sunny,art exhibition
+27,30,Female,cultural,Odisha,19,vacation,₹100,25301.57,30.747898,10.9469346,14.762751,93.8706,506662,549,830,hotel,₹2000,train,₹5000,145.1,474.42,vacation,cloudy,music festival
+28,33,Female,cultural,Karnataka,14,vacation,"",43923.66,25.394363,97.654811,22.89849,69.6081,1020161,991,505,vacation rental,₹100,plane,₹1000,853.0,8439.85,education,cloudy,art exhibition
+29,62,Male,cultural,Mizoram,23,family,₹35000,29924.0,11.386231,16.6212715,11.985645,72.0969,126870,889,72,vacation rental,₹1000,train,₹1000,851.19,4127.67,sightseeing,rainy,music festival
+30,28,Male,adventure,Karnataka,15,business,₹35000,20093.77,30.920162,-8.8661993,11.545509,75.159,1096266,71,273,hotel,₹2000,plane,₹500,234.18,5541.25,education,cloudy,music festival
+31,54,Male,cultural,Manipur,27,family,₹2000,27122.49,28.636426,44.9105417,28.498572,80.3512,329297,721,371,vacation rental,₹2000,car,₹2000,722.84,7979.34,vacation,rainy,sports event
+32,47,Male,adventure,Kerala,4,family,₹10000,30444.07,14.654706,124.364153,29.243149,73.5212,292859,850,197,hostel,₹2000,train,₹500,840.91,8520.89,education,cloudy,sports event
+33,78,Male,relaxation,Assam,9,family,₹5000,2334.66,30.399983,123.55867,17.638151,72.5323,66160,744,698,hotel,₹2000,train,₹500,292.19,5519.85,hiking,sunny,sports event
+34,64,Male,adventure,Bihar,12,family,₹25000,11832.11,31.684288,101.951925,19.218667,88.7602,467864,156,662,hostel,₹2000,car,₹500,314.33,2082.24,vacation,rainy,music festival
+35,21,Male,relaxation,Jharkhand,28,family,₹10000,34958.62,10.182614,-8.4162288,29.22433,69.4075,667729,125,710,hostel,₹1000,plane,₹1000,966.22,6178.56,shopping,sunny,art exhibition
+36,75,Female,cultural,Jharkhand,11,vacation,₹15000,1005.78,24.951323,-74.97611,22.175725,85.8726,558625,473,314,vacation rental,₹100,plane,₹100,505.98,597.26,hiking,rainy,sports event
+37,75,Male,adventure,Haryana,12,business,₹100,43028.39,22.004776,111.2874835,33.340227,95.7611,1342434,40,467,hostel,₹500,car,₹1000,475.93,3538.42,education,cloudy,art exhibition
+38,29,Polygender,cultural,Manipur,13,business,₹35000,18311.09,16.231555,37.553869,13.849658,73.3642,323626,930,234,hostel,₹1000,car,₹5000,370.54,2868.32,education,sunny,sports event
+39,39,Female,cultural,Madhya Pradesh,27,family,₹500,18512.44,22.964786,14.524558,28.58522,82.3133,1137349,868,876,vacation rental,₹500,train,₹100,378.35,7424.91,sightseeing,sunny,art exhibition
+40,35,Female,relaxation,Meghalaya,3,family,₹25000,46068.09,34.401047,-14.769285,13.179008,71.3662,359386,584,593,hostel,₹2000,car,₹1000,8.81,6561.22,education,cloudy,art exhibition
+41,59,Female,cultural,Haryana,10,vacation,₹500,3515.94,31.675784,42.8212218,21.865479,69.2292,1136596,338,383,hostel,₹100,train,₹5000,620.08,6222.38,sightseeing,cloudy,music festival
+42,57,Genderfluid,cultural,Andhra Pradesh,7,family,₹35000,26899.72,28.29571,47.2432976,9.808089,74.4404,1467384,549,389,hotel,₹100,car,₹5000,459.84,3629.37,shopping,sunny,sports event
+43,51,Male,adventure,Assam,12,family,₹100,39104.36,33.344026,106.7012968,10.268608,79.3321,974386,8,720,hostel,₹500,car,₹1000,388.93,3284.4,shopping,rainy,art exhibition
+44,49,Female,adventure,Rajasthan,13,family,₹500,23446.55,20.830434,134.1164564,33.415868,70.3582,1440180,487,610,hotel,₹500,car,₹5000,195.95,7910.74,sightseeing,cloudy,music festival
+45,29,Female,relaxation,Manipur,9,business,₹35000,6641.16,26.384696,12.7364962,32.482715,81.3463,117654,547,273,hotel,₹500,train,₹100,230.79,1431.68,shopping,cloudy,art exhibition
+46,64,Male,cultural,Kerala,27,business,₹25000,13352.03,26.984793,-9.0097102,32.306319,84.3672,28929,762,553,hostel,₹500,car,₹5000,109.14,612.97,education,sunny,sports event
+47,35,Male,relaxation,Jharkhand,27,vacation,₹10000,8554.99,24.642061,-37.4894776,20.326411,72.1755,774338,419,955,hotel,₹500,train,₹2000,782.73,3713.78,shopping,cloudy,art exhibition
+48,57,Female,adventure,Meghalaya,24,family,₹5000,39789.24,10.276074,-56.4488086,20.723062,87.7871,697008,876,998,vacation rental,₹1000,plane,₹2000,183.23,8845.72,shopping,sunny,art exhibition
+49,33,Male,adventure,Meghalaya,17,family,₹2000,44740.24,22.229154,30.734995,12.488932,73.1973,240393,679,155,vacation rental,₹1000,train,₹100,814.02,8252.07,education,rainy,music festival
+50,58,Male,adventure,Mizoram,21,vacation,₹100,16564.02,29.502453,35.48084,31.127201,93.0327,1301765,685,291,hostel,₹100,train,₹5000,154.12,3807.36,education,sunny,art exhibition
+51,18,Male,relaxation,Kerala,25,business,₹100,43003.81,13.678276,106.763842,13.06327,88.6785,329275,75,60,vacation rental,₹1000,train,₹500,343.62,7555.12,sightseeing,cloudy,music festival
+52,61,Male,adventure,Telangana,24,vacation,₹50000,1319.26,16.684792,21.3869552,12.967701,91.4108,956054,136,706,hostel,₹1000,train,₹100,739.9,6899.86,education,rainy,music festival
+53,71,Female,adventure,Maharashtra,30,vacation,₹10000,39232.6,22.067865,39.5170628,27.606355,74.4814,12325,48,180,vacation rental,₹100,plane,₹5000,108.72,8560.74,vacation,rainy,art exhibition
+54,50,Male,adventure,Meghalaya,4,family,₹35000,48396.66,36.426223,120.9638841,15.366017,94.7031,1083325,684,401,vacation rental,₹1000,car,₹500,129.37,8538.98,hiking,rainy,sports event
+55,29,Male,cultural,Gujarat,2,family,₹15000,14867.4,12.698586,106.8104633,12.766443,70.7712,128771,612,579,hostel,₹2000,car,₹2000,571.26,1761.72,shopping,cloudy,music festival
+56,41,Bigender,adventure,Karnataka,19,business,₹25000,20884.87,9.765784,121.0912149,9.17233,77.2178,847866,747,623,vacation rental,₹1000,plane,₹2000,953.61,9123.58,hiking,cloudy,sports event
+57,38,Female,adventure,Tamil Nadu,19,business,₹100,17241.88,8.191018,21.8727139,8.959153,83.7024,494836,223,744,hotel,₹1000,plane,₹2000,357.63,8889.34,education,sunny,music festival
+58,55,Female,cultural,Assam,24,family,₹50000,44919.14,14.519029,8.7649767,27.036422,88.4572,69281,648,955,vacation rental,₹2000,car,₹5000,660.22,7691.78,shopping,cloudy,art exhibition
+59,78,Male,adventure,Madhya Pradesh,19,family,₹25000,992.58,35.409651,19.65083,19.56448,71.5977,139240,940,649,hotel,₹100,plane,₹100,318.84,6182.63,sightseeing,sunny,art exhibition
+60,43,Female,relaxation,Assam,27,business,₹500,28427.98,34.640737,-68.23127,8.315045,70.6441,1150911,585,367,vacation rental,₹1000,plane,₹2000,14.98,3963.61,education,rainy,sports event
+61,44,Female,adventure,Manipur,16,family,"",9540.97,29.832932,-6.2823331,9.197968,93.6082,1409771,466,817,vacation rental,₹1000,plane,₹5000,853.82,8079.12,education,cloudy,art exhibition
+62,51,Female,relaxation,Nagaland,9,vacation,₹2000,41228.38,27.314698,107.04219,12.830536,72.1048,403851,280,77,hostel,₹500,car,₹500,404.21,3744.88,education,rainy,art exhibition
+63,72,Female,relaxation,Himachal Pradesh,17,vacation,₹500,15561.78,20.253807,118.382379,18.14251,72.8984,1103526,483,658,vacation rental,₹2000,plane,₹500,229.71,2017.06,hiking,rainy,art exhibition
+64,77,Female,cultural,Gujarat,13,business,"",39035.69,33.547562,121.7408654,33.952975,79.4461,1111219,627,360,hotel,₹100,car,₹1000,781.71,7619.38,hiking,cloudy,sports event
+65,30,Male,relaxation,Arunachal Pradesh,9,vacation,₹1000,6957.63,27.010854,44.6113601,28.006066,79.3611,605664,259,699,hotel,₹1000,train,₹5000,242.26,9805.36,hiking,rainy,music festival
+66,75,Female,relaxation,Andhra Pradesh,19,vacation,₹5000,18966.58,20.665538,-99.6487518,31.561781,71.5748,1205960,616,596,hostel,₹500,train,₹100,243.36,9989.01,education,sunny,music festival
+67,36,Female,adventure,Kerala,4,business,₹1000,40728.18,13.678112,114.353175,17.883326,75.116,728800,342,72,hotel,₹100,car,₹1000,784.07,8761.71,sightseeing,rainy,sports event
+68,36,Male,adventure,Bihar,17,vacation,"",2820.92,17.548506,-53.758612,29.518164,75.8214,989702,826,244,vacation rental,₹1000,car,₹500,686.24,6862.48,sightseeing,cloudy,sports event
+69,49,Male,relaxation,Kerala,4,business,₹1000,7349.59,23.212188,14.1351449,30.98846,94.1027,1492509,425,815,hotel,₹100,train,₹500,674.26,3654.11,vacation,cloudy,art exhibition
+70,78,Female,cultural,Karnataka,5,business,₹15000,38562.13,23.359206,37.4827996,28.081331,68.7135,220996,144,736,hostel,₹1000,train,₹5000,644.45,8710.09,education,rainy,music festival
+71,24,Polygender,adventure,Odisha,13,business,₹35000,4265.84,11.029376,110.2648159,8.95843,85.7155,322212,487,848,hostel,₹1000,train,₹500,380.24,5744.94,shopping,rainy,art exhibition
+72,21,Female,adventure,Assam,28,vacation,₹25000,3340.18,16.878903,30.451101,23.564614,93.2202,214943,584,886,hotel,₹1000,car,₹2000,364.05,1402.52,shopping,sunny,sports event
+73,65,Genderqueer,relaxation,Jharkhand,23,business,₹100,46884.66,19.507377,109.351019,23.053425,92.2028,614617,159,498,hotel,₹2000,train,₹2000,699.33,2356.03,education,rainy,sports event
+74,62,Female,relaxation,Arunachal Pradesh,12,business,₹1000,11228.77,30.991684,123.7727229,26.986241,95.7898,976830,23,149,hostel,₹2000,train,₹1000,541.79,5811.85,sightseeing,rainy,music festival
+75,63,Male,cultural,Jharkhand,9,family,₹35000,14924.66,25.874776,-100.3638252,36.019056,91.6775,428444,458,169,hotel,₹100,plane,₹2000,453.74,3208.12,sightseeing,rainy,music festival
+76,56,Female,cultural,Maharashtra,6,business,"",33179.54,31.517682,125.5562747,15.991385,92.0822,1110890,984,420,hotel,₹100,car,₹500,801.15,1912.87,shopping,rainy,sports event
+77,70,Non-binary,cultural,Nagaland,17,family,₹25000,8770.17,18.574904,18.6793794,29.352051,72.5347,1257759,571,862,hostel,₹1000,plane,₹500,553.82,69.57,vacation,cloudy,sports event
+78,52,Non-binary,adventure,Kerala,19,business,₹5000,16535.02,35.536616,107.0468263,27.779715,88.3973,979354,554,402,hostel,₹2000,plane,₹5000,170.51,4064.49,shopping,sunny,music festival
+79,27,Female,cultural,Bihar,13,vacation,₹35000,20697.43,18.270138,79.18447,30.433638,88.6932,736755,402,929,hostel,₹1000,train,₹1000,243.68,7468.51,sightseeing,sunny,music festival
+80,18,Male,relaxation,Kerala,16,vacation,₹1000,24538.12,32.832483,27.9542722,18.309744,78.4119,1148169,931,874,hotel,₹2000,car,₹100,622.65,3929.79,vacation,sunny,music festival
+81,45,Male,relaxation,Punjab,1,family,₹35000,2597.83,36.21032,114.236875,13.077178,92.8545,653487,308,563,vacation rental,₹500,plane,₹5000,960.54,8185.67,shopping,rainy,music festival
+82,74,Female,adventure,Assam,8,vacation,"",13178.74,18.353787,120.1821,20.686189,77.8366,1156136,682,290,hostel,₹100,car,₹1000,525.45,3317.27,hiking,sunny,art exhibition
+83,83,Female,adventure,Andhra Pradesh,4,vacation,₹35000,38244.18,18.989126,48.6763991,30.272543,76.6129,994356,65,604,vacation rental,₹2000,car,₹5000,197.99,5832.68,sightseeing,cloudy,sports event
+84,40,Male,cultural,Odisha,19,vacation,₹25000,33228.05,11.096809,23.8131306,9.395052,74.1947,762405,527,364,hostel,₹500,train,₹1000,149.72,1034.09,shopping,sunny,art exhibition
+85,56,Male,adventure,Madhya Pradesh,24,vacation,₹15000,48112.85,33.323294,111.982232,36.743751,90.4018,422695,628,59,hotel,₹2000,car,₹2000,560.54,5469.79,hiking,cloudy,art exhibition
+86,69,Male,relaxation,Meghalaya,19,business,₹500,8925.78,35.187677,-97.3199999,26.77364,70.014,1452482,440,749,hostel,₹100,train,₹1000,389.97,8502.29,hiking,rainy,music festival
+87,64,Polygender,adventure,Jharkhand,27,vacation,₹50000,49265.38,35.305913,-78.3006626,22.863665,69.8507,205719,202,245,hostel,₹2000,car,₹500,184.56,6472.92,education,sunny,art exhibition
+88,18,Female,cultural,Jharkhand,10,business,₹10000,24428.06,15.73358,104.618817,29.50942,76.5896,675100,760,935,hotel,₹1000,train,₹1000,576.94,4266.25,hiking,sunny,sports event
+89,41,Female,relaxation,Punjab,20,vacation,₹2000,10575.4,32.991838,1.5693759,30.670732,70.6753,176549,819,627,hostel,₹1000,car,₹500,834.89,3078.52,vacation,rainy,sports event
+90,60,Male,adventure,Nagaland,17,vacation,₹5000,38255.15,20.202864,21.4177608,32.084798,95.7196,89708,965,53,vacation rental,₹2000,train,₹2000,416.13,955.67,education,sunny,music festival
+91,20,Genderqueer,adventure,Rajasthan,12,family,₹1000,43535.67,14.199454,-79.8688837,20.136968,83.0917,289202,933,123,vacation rental,₹1000,car,₹100,184.4,9290.98,vacation,rainy,sports event
+92,35,Female,cultural,Bihar,5,business,₹500,18501.96,15.283056,130.3745544,13.041919,74.8157,371933,934,376,vacation rental,₹2000,train,₹5000,118.31,1334.82,shopping,sunny,sports event
+93,35,Male,relaxation,Haryana,5,business,₹25000,39214.9,10.550855,110.4153075,30.639723,80.597,618258,911,276,hotel,₹2000,train,₹500,822.51,7606.57,hiking,cloudy,sports event
+94,21,Female,adventure,Uttar Pradesh,22,vacation,₹15000,30401.71,28.98008,129.459707,28.315054,84.2096,655375,189,807,hostel,₹2000,train,₹5000,302.18,2086.85,hiking,rainy,music festival
+95,28,Male,adventure,Rajasthan,14,vacation,₹500,48303.71,26.709121,-45.0056921,10.092362,71.8691,401862,886,509,hostel,₹500,plane,₹500,157.54,5682.73,education,sunny,art exhibition
+96,85,Female,cultural,Manipur,5,family,₹25000,32306.24,34.344217,107.445334,14.876207,74.9944,1159305,367,754,hostel,₹100,car,₹1000,97.0,3268.87,vacation,sunny,music festival
+97,77,Female,adventure,Karnataka,12,family,₹25000,12667.04,34.283281,110.4269535,23.87994,88.1733,1068187,816,148,vacation rental,₹500,train,₹2000,405.35,2146.67,shopping,cloudy,art exhibition
+98,24,Male,relaxation,Chhattisgarh,5,family,₹1000,38740.52,9.720368,100.6365483,12.902938,88.5496,1361055,125,717,hostel,₹2000,car,₹1000,869.59,1651.52,hiking,cloudy,music festival
+99,81,Female,relaxation,Himachal Pradesh,20,family,₹15000,44917.96,14.562942,127.75061,26.26862,78.6478,1133999,749,23,hotel,₹2000,train,₹5000,915.32,364.76,vacation,sunny,music festival
+100,82,Male,relaxation,Nagaland,22,family,"",39290.03,33.158505,113.121435,18.846472,73.7531,635393,67,160,vacation rental,₹500,car,₹5000,421.51,348.81,sightseeing,cloudy,art exhibition
+101,61,Male,adventure,Punjab,4,family,₹2000,39783.1,34.155139,26.251617,17.382311,81.66,12241,419,216,hotel,₹100,car,₹500,720.74,4208.0,vacation,rainy,music festival
+102,65,Female,relaxation,Assam,11,vacation,₹500,10242.47,12.760216,119.572183,25.129399,76.3427,1148491,361,682,hostel,₹1000,car,₹500,244.52,7138.41,education,sunny,sports event
+103,41,Agender,cultural,Punjab,5,vacation,"",42444.21,28.298905,117.541917,32.133374,69.1453,640715,385,807,hostel,₹2000,car,₹2000,895.75,6026.7,education,cloudy,sports event
+104,85,Male,adventure,Goa,24,business,₹15000,48155.7,14.575315,112.615815,11.078297,92.2923,1008896,403,397,vacation rental,₹1000,train,₹100,853.04,152.79,sightseeing,rainy,art exhibition
+105,30,Male,cultural,Uttar Pradesh,11,vacation,₹50000,49303.28,13.105502,-86.59,15.933992,84.5996,82713,808,721,vacation rental,₹1000,train,₹5000,796.37,5731.18,shopping,cloudy,music festival
+106,55,Male,relaxation,Bihar,11,family,₹35000,38851.32,29.259675,131.4937793,18.595908,74.1279,1186433,216,107,vacation rental,₹2000,train,₹2000,570.2,3355.28,hiking,sunny,sports event
+107,36,Male,cultural,Maharashtra,16,family,"",32907.3,30.276762,35.398479,13.002366,85.9876,157444,16,509,hostel,₹2000,train,₹100,740.02,6998.79,hiking,rainy,art exhibition
+108,81,Male,adventure,Assam,19,family,₹500,25220.23,34.592262,113.273288,21.459978,71.4599,893962,169,767,hotel,₹2000,plane,₹1000,154.38,9508.44,sightseeing,sunny,sports event
+109,61,Male,relaxation,Arunachal Pradesh,21,vacation,₹100,1751.62,12.638364,69.6003357,21.791855,84.4037,1036306,966,164,hotel,₹1000,train,₹500,246.37,6353.22,vacation,cloudy,music festival
+110,35,Female,cultural,Jharkhand,26,vacation,₹35000,48977.94,32.981552,101.8109253,24.262268,70.0309,378199,232,478,vacation rental,₹100,train,₹500,5.43,5673.07,shopping,cloudy,art exhibition
+111,43,Male,cultural,Maharashtra,25,vacation,₹500,47940.82,25.101526,22.4259628,21.228396,84.2833,667592,532,150,hostel,₹2000,plane,₹2000,331.1,7723.69,vacation,rainy,art exhibition
+112,77,Female,adventure,Jharkhand,20,business,₹1000,1387.49,16.268845,113.4785837,14.624563,75.2519,625945,156,256,hostel,₹2000,plane,₹1000,923.14,6456.29,shopping,cloudy,sports event
+113,68,Female,relaxation,Andhra Pradesh,14,business,₹500,6023.88,23.784393,106.273576,35.500625,90.4855,475112,30,418,vacation rental,₹500,car,₹100,884.71,307.83,vacation,cloudy,music festival
+114,56,Male,adventure,Madhya Pradesh,29,business,₹35000,14124.49,23.587408,-75.341462,31.365221,90.4938,100925,921,891,vacation rental,₹100,train,₹500,398.23,7271.07,vacation,cloudy,art exhibition
+115,55,Female,relaxation,Rajasthan,2,vacation,₹50000,3018.48,33.240103,-22.0170973,30.280605,91.6114,545969,168,366,vacation rental,₹2000,plane,₹100,218.21,9261.06,education,sunny,sports event
+116,71,Female,relaxation,Manipur,9,family,₹5000,11101.17,10.183348,105.4448838,34.345122,92.7808,1034475,616,274,vacation rental,₹1000,train,₹1000,466.99,2266.55,hiking,rainy,art exhibition
+117,24,Female,relaxation,Jharkhand,26,vacation,₹100,34388.92,22.747329,-72.9485366,15.65127,75.7899,1002704,615,119,vacation rental,₹100,plane,₹2000,63.28,1588.27,sightseeing,sunny,music festival
+118,81,Male,adventure,Arunachal Pradesh,22,vacation,₹15000,33620.95,21.852031,123.7403542,15.873067,77.458,163042,140,965,hotel,₹2000,train,₹100,297.96,4263.42,education,cloudy,art exhibition
+119,68,Male,cultural,Uttar Pradesh,14,vacation,₹15000,15844.08,27.889424,121.3228399,33.364884,80.7947,175177,698,578,hotel,₹500,car,₹500,685.96,2157.47,vacation,cloudy,sports event
+120,78,Male,relaxation,Madhya Pradesh,15,vacation,₹10000,19989.07,8.702747,-71.7674379,27.941392,91.3847,150384,118,498,vacation rental,₹1000,train,₹500,100.62,8351.66,education,rainy,sports event
+121,27,Male,cultural,Jharkhand,17,vacation,₹500,24161.83,18.297779,18.78031,12.263978,88.5066,794270,476,194,vacation rental,₹2000,plane,₹2000,500.59,305.85,vacation,sunny,art exhibition
+122,48,Male,adventure,Karnataka,27,vacation,₹100,3611.03,15.350407,51.3705587,18.969167,78.0193,1487930,470,247,vacation rental,₹2000,train,₹2000,602.43,1174.63,sightseeing,sunny,sports event
+123,56,Female,adventure,Maharashtra,7,business,"",8050.23,24.736657,-9.3381766,25.033319,80.5076,1228079,492,605,vacation rental,₹2000,car,₹5000,988.21,9836.88,hiking,sunny,art exhibition
+124,73,Male,adventure,Jharkhand,30,business,₹500,8344.62,14.739311,26.6291023,21.285046,92.5315,1026118,28,303,vacation rental,₹500,car,₹5000,39.13,8963.84,sightseeing,cloudy,sports event
+125,28,Female,adventure,Odisha,19,business,₹5000,49913.82,21.000372,35.8958444,15.688023,82.1808,326104,801,342,vacation rental,₹500,car,₹1000,399.77,8783.74,shopping,cloudy,sports event
+126,52,Female,adventure,Himachal Pradesh,5,vacation,₹15000,4826.18,14.844529,38.856404,32.182116,93.0886,93305,943,688,vacation rental,₹2000,car,₹1000,517.9,4015.94,vacation,cloudy,music festival
+127,38,Male,cultural,Telangana,2,vacation,₹50000,12501.25,28.089948,107.083333,20.836804,71.3185,609108,653,812,vacation rental,₹100,plane,₹1000,738.36,169.68,vacation,cloudy,sports event
+128,65,Male,cultural,Telangana,30,family,₹50000,10172.19,22.165182,1.6639235,36.924836,70.1497,1014721,559,803,hostel,₹500,train,₹100,907.68,7956.61,vacation,cloudy,art exhibition
+129,35,Male,relaxation,Goa,6,vacation,₹15000,14501.82,12.237842,-74.2176156,13.999542,91.2488,413280,296,555,hostel,₹2000,train,₹500,337.15,9608.22,education,rainy,sports event
+130,32,Male,cultural,Chhattisgarh,6,business,₹50000,2911.55,29.222472,-97.3692131,16.056125,81.6826,1318607,128,121,hostel,₹100,car,₹2000,907.18,2852.5,vacation,sunny,music festival
+131,59,Male,relaxation,Nagaland,18,vacation,₹100,39367.72,25.610943,-69.7403955,22.474702,69.1742,756379,902,415,hostel,₹100,car,₹5000,174.04,5343.86,education,rainy,sports event
+132,35,Female,cultural,Kerala,11,family,₹25000,33771.21,30.337814,-90.73956,26.734588,88.226,631348,431,731,vacation rental,₹500,car,₹1000,366.44,1071.7,sightseeing,sunny,sports event
+133,51,Female,relaxation,Chhattisgarh,21,family,₹15000,30067.59,34.221378,127.75061,29.099377,87.4974,1016960,430,930,hotel,₹1000,train,₹2000,510.07,9670.55,sightseeing,rainy,music festival
+134,44,Female,relaxation,Andhra Pradesh,28,family,₹50000,14376.71,26.914101,126.2947741,10.051303,74.652,1407794,195,462,vacation rental,₹100,train,₹100,273.38,8014.13,shopping,sunny,sports event
+135,30,Male,adventure,Karnataka,30,business,₹2000,49527.09,15.245408,119.922796,28.921754,87.3342,1330897,668,760,hostel,₹1000,plane,₹1000,216.89,4278.91,sightseeing,cloudy,art exhibition
+136,19,Male,cultural,Tamil Nadu,23,family,₹35000,15748.77,27.538031,12.5751597,33.366021,68.819,855898,726,678,hotel,₹100,train,₹500,115.09,6077.72,hiking,rainy,sports event
+137,57,Male,relaxation,Chhattisgarh,5,vacation,₹1000,42413.73,21.41965,16.1685899,31.111472,73.6056,658742,72,879,hostel,₹2000,plane,₹2000,945.63,2899.56,hiking,cloudy,music festival
+138,57,Male,cultural,Sikkim,12,business,₹10000,36864.08,36.781285,118.297302,11.654225,84.0375,590415,725,875,vacation rental,₹100,car,₹5000,811.62,8118.88,education,sunny,music festival
+139,43,Female,adventure,Manipur,23,vacation,₹100,26150.91,17.110984,-44.301421,20.975746,70.6796,748216,631,907,vacation rental,₹500,plane,₹1000,840.31,2165.32,sightseeing,rainy,art exhibition
+140,71,Female,relaxation,Meghalaya,8,family,₹50000,5311.1,13.361623,121.4737021,24.655486,72.847,546181,603,1000,hostel,₹2000,plane,₹5000,568.63,7834.96,hiking,cloudy,art exhibition
+141,80,Female,adventure,Kerala,8,family,₹100,19693.32,18.651718,117.22473,25.391961,78.9114,631988,200,631,hostel,₹500,plane,₹5000,825.25,125.64,vacation,sunny,sports event
+142,78,Male,cultural,Telangana,3,business,₹25000,18181.97,12.653607,112.0804259,13.862386,73.9591,538802,482,391,hostel,₹100,train,₹2000,806.43,4377.23,sightseeing,rainy,art exhibition
+143,42,Female,cultural,Gujarat,3,vacation,₹500,7324.45,20.606815,16.259316,13.658835,76.9305,71520,329,217,hotel,₹500,plane,₹1000,409.15,8132.57,education,rainy,art exhibition
+144,45,Female,cultural,Punjab,4,family,₹100,12823.84,10.583183,-69.2304627,11.36273,94.987,729739,709,67,hostel,₹2000,car,₹500,480.51,3205.92,shopping,rainy,art exhibition
+145,53,Female,adventure,Mizoram,18,family,₹10000,48920.31,9.59001,21.05416,34.318903,93.0667,1486148,277,531,vacation rental,₹100,plane,₹2000,692.86,9965.58,education,cloudy,sports event
+146,34,Male,adventure,Meghalaya,28,vacation,₹50000,8849.28,10.149002,121.9160381,16.987271,77.7356,469889,870,551,vacation rental,₹100,train,₹5000,463.58,6106.84,sightseeing,sunny,sports event
+147,46,Male,relaxation,Andhra Pradesh,18,vacation,₹1000,2396.46,29.165574,22.2939742,21.77546,79.2951,462921,547,493,hotel,₹100,car,₹5000,742.57,437.38,vacation,sunny,art exhibition
+148,40,Female,relaxation,Madhya Pradesh,13,vacation,₹2000,29589.0,31.310184,19.6371484,27.214697,86.0301,1282344,479,553,vacation rental,₹500,plane,₹1000,438.25,5057.14,education,rainy,sports event
+149,28,Male,relaxation,Haryana,25,family,₹100,26481.52,27.719543,-75.508016,28.140453,94.5659,195320,594,585,hotel,₹1000,train,₹2000,239.3,1538.31,shopping,cloudy,art exhibition
+150,26,Male,adventure,Himachal Pradesh,16,business,₹100,35036.87,18.935934,49.7392575,23.364373,69.6381,405660,136,852,hotel,₹100,plane,₹5000,324.23,9533.66,hiking,rainy,music festival
+151,70,Male,adventure,Arunachal Pradesh,10,vacation,₹50000,16333.78,21.249299,-70.7578553,24.005264,91.1272,433489,645,385,hotel,₹100,car,₹100,342.46,4058.7,sightseeing,cloudy,art exhibition
+152,59,Male,relaxation,Arunachal Pradesh,23,vacation,₹5000,17026.51,26.60231,98.5940814,11.825654,72.0033,381227,384,882,hostel,₹1000,train,₹1000,36.64,4386.42,shopping,sunny,music festival
+153,70,Male,relaxation,Goa,21,business,₹15000,19110.25,24.490209,1.378056,31.097483,69.5769,615336,361,957,vacation rental,₹2000,plane,₹1000,993.43,4624.27,vacation,sunny,art exhibition
+154,52,Female,cultural,Rajasthan,21,vacation,₹15000,45208.72,14.697298,-55.7578403,33.050623,82.1563,182202,854,201,hostel,₹2000,train,₹500,477.57,8237.62,vacation,sunny,art exhibition
+155,37,Male,cultural,Himachal Pradesh,22,vacation,₹500,40842.88,22.947553,117.504737,15.922841,97.354,444434,83,447,hostel,₹1000,train,₹100,616.16,9778.58,sightseeing,sunny,music festival
+156,85,Female,cultural,Himachal Pradesh,5,business,₹1000,24390.56,13.167243,-75.4534081,21.751832,91.0156,289082,868,303,vacation rental,₹1000,plane,₹100,986.48,8296.55,shopping,rainy,music festival
+157,85,Female,adventure,Punjab,28,business,₹2000,5770.31,33.060562,115.484454,34.045287,96.4238,715614,314,102,hostel,₹500,train,₹5000,433.73,9735.95,shopping,cloudy,music festival
+158,82,Female,relaxation,Andhra Pradesh,15,business,₹5000,44666.33,14.82627,24.7380385,26.317684,93.3848,1354126,24,886,hotel,₹2000,train,₹100,190.1,3308.09,sightseeing,rainy,art exhibition
+159,33,Female,relaxation,Madhya Pradesh,3,vacation,₹10000,4236.61,27.408406,23.2195437,18.220244,81.2124,1424450,579,924,hotel,₹1000,train,₹5000,816.3,6148.63,sightseeing,sunny,sports event
+160,76,Female,adventure,Karnataka,14,vacation,₹35000,35354.67,16.608907,-7.4976536,24.647534,70.083,843350,888,177,vacation rental,₹2000,plane,₹5000,104.51,1576.94,education,cloudy,art exhibition
+161,74,Female,relaxation,Tamil Nadu,25,business,₹10000,17979.16,26.307291,22.72778,17.325054,83.6911,916084,399,579,hostel,₹500,car,₹2000,534.84,4523.05,vacation,cloudy,art exhibition
+162,37,Male,relaxation,Rajasthan,30,business,₹25000,43688.08,28.452975,-104.00092,19.603147,82.265,1092502,561,845,hotel,₹2000,car,₹100,56.1,3953.57,education,sunny,music festival
+163,65,Female,adventure,Manipur,16,vacation,₹15000,8990.38,12.479096,-38.2322028,25.974507,92.1086,167782,285,530,vacation rental,₹2000,car,₹2000,546.58,8685.68,vacation,cloudy,sports event
+164,51,Female,relaxation,Arunachal Pradesh,15,business,₹1000,47135.67,20.082814,108.273158,17.071306,83.7984,287969,150,360,vacation rental,₹1000,car,₹5000,533.4,6580.96,shopping,rainy,music festival
+165,35,Male,relaxation,Himachal Pradesh,29,family,₹50000,12543.86,23.637628,18.0702683,19.388176,72.1419,420624,653,825,vacation rental,₹2000,car,₹2000,849.52,3815.15,shopping,cloudy,music festival
+166,82,Male,adventure,Arunachal Pradesh,5,family,₹5000,2295.43,22.353467,34.905759,31.477294,83.9831,403842,490,169,hostel,₹2000,train,₹5000,116.97,3465.59,education,cloudy,music festival
+167,24,Male,adventure,Gujarat,20,vacation,₹35000,20911.94,9.677144,34.2866091,30.830187,95.37,300655,153,844,hostel,₹1000,train,₹100,645.31,3490.99,education,rainy,sports event
+168,75,Non-binary,adventure,Andhra Pradesh,23,vacation,₹25000,15236.63,22.512052,124.4239533,21.909541,74.9984,1435629,232,339,vacation rental,₹1000,car,₹100,316.02,5995.75,hiking,cloudy,sports event
+169,24,Female,cultural,Manipur,3,business,₹2000,38635.81,27.795317,110.2889917,32.584165,91.6498,1065741,324,826,hotel,₹1000,plane,₹500,694.71,6614.63,vacation,cloudy,music festival
+170,61,Female,cultural,Odisha,10,vacation,₹1000,45913.14,33.689327,127.5932189,10.500999,85.5244,418374,642,774,hotel,₹2000,train,₹100,871.73,9237.17,education,rainy,sports event
+171,21,Female,relaxation,Meghalaya,19,business,₹1000,23362.74,26.770743,43.5299495,30.62482,75.7,1056096,620,507,vacation rental,₹100,train,₹1000,118.78,5204.28,sightseeing,rainy,art exhibition
+172,30,Bigender,cultural,Himachal Pradesh,1,vacation,₹25000,13410.03,17.880724,1.375111,28.575768,70.3573,575633,607,336,hotel,₹100,plane,₹5000,783.06,1889.88,education,cloudy,art exhibition
+173,48,Female,relaxation,Maharashtra,20,vacation,₹25000,40093.45,9.345772,107.8034,35.680562,90.9625,701986,441,631,vacation rental,₹100,plane,₹5000,694.92,5861.06,vacation,cloudy,art exhibition
+174,30,Male,cultural,Tamil Nadu,22,business,₹25000,49972.77,34.189359,-38.2893787,8.42166,82.5526,43451,764,763,vacation rental,₹1000,train,₹500,607.33,8456.54,sightseeing,rainy,music festival
+175,70,Genderfluid,cultural,Gujarat,25,family,₹35000,4845.16,29.553737,6.0001426,19.389931,85.4678,150772,694,113,vacation rental,₹100,plane,₹100,209.1,3967.87,education,sunny,sports event
+176,66,Female,adventure,Jharkhand,14,business,₹25000,15453.05,31.090274,116.156645,26.732512,70.2567,1093127,954,652,hostel,₹1000,train,₹5000,188.49,5585.73,vacation,sunny,music festival
+177,31,Male,cultural,Karnataka,29,vacation,₹50000,44224.34,15.527074,15.6741931,20.477165,90.2299,238173,733,730,vacation rental,₹2000,car,₹100,911.33,4499.99,sightseeing,sunny,sports event
+178,54,Polygender,cultural,Haryana,12,family,₹50000,21695.94,11.924333,-49.2162908,17.520163,74.8651,396438,555,434,vacation rental,₹2000,train,₹100,64.45,3063.14,shopping,sunny,music festival
+179,43,Female,adventure,Meghalaya,27,family,₹15000,18106.56,35.903881,127.464602,8.78931,77.1564,554766,922,107,hotel,₹500,plane,₹2000,614.98,822.16,education,cloudy,sports event
+180,38,Female,cultural,Meghalaya,23,vacation,₹5000,622.75,21.890095,111.885002,20.343007,82.9426,1043012,553,746,hostel,₹100,plane,₹500,497.25,661.12,education,sunny,sports event
+181,33,Female,cultural,Chhattisgarh,3,family,₹500,25507.09,30.032009,27.0548658,24.325834,77.6307,823629,715,210,hostel,₹500,car,₹500,88.17,4527.06,hiking,sunny,art exhibition
+182,76,Male,cultural,Madhya Pradesh,11,business,₹100,11575.64,18.04789,110.241387,34.410421,89.9337,526371,987,763,hotel,₹100,car,₹2000,80.3,5067.1,hiking,rainy,sports event
+183,70,Male,cultural,Sikkim,24,family,₹500,31862.21,13.644531,136.7835269,19.717193,73.0602,187963,739,331,vacation rental,₹100,train,₹1000,688.33,5190.29,shopping,sunny,music festival
+184,74,Polygender,adventure,Mizoram,22,family,₹2000,42949.54,31.677196,121.7252,28.787101,71.2157,339542,762,900,hotel,₹2000,train,₹1000,453.87,3672.43,hiking,sunny,sports event
+185,32,Male,adventure,Haryana,18,family,₹2000,48999.71,8.431146,17.865273,29.172507,85.016,994404,540,987,vacation rental,₹1000,train,₹5000,326.0,7461.57,shopping,cloudy,sports event
+186,65,Male,cultural,Odisha,16,vacation,₹15000,39156.12,31.530582,47.9897691,35.8809,85.6996,536047,343,925,hostel,₹2000,plane,₹500,900.15,3599.58,hiking,rainy,art exhibition
+187,59,Female,adventure,Bihar,30,family,₹15000,22267.37,29.558458,19.1954375,30.451649,90.3045,364761,105,899,vacation rental,₹2000,car,₹100,204.38,5405.4,hiking,rainy,music festival
+188,76,Female,relaxation,Maharashtra,30,family,₹1000,46133.78,12.580462,11.9027428,35.408533,92.4337,1362493,578,382,hostel,₹2000,plane,₹500,125.48,1502.86,vacation,sunny,art exhibition
+189,41,Female,adventure,Arunachal Pradesh,1,vacation,₹10000,41181.1,9.69208,102.990108,25.12283,70.4113,2488,506,868,hotel,₹500,plane,₹2000,919.01,9679.88,shopping,cloudy,art exhibition
+190,27,Male,adventure,Maharashtra,17,vacation,₹35000,31867.24,36.004541,-99.1015181,24.331554,77.7626,279583,216,652,hostel,₹1000,plane,₹5000,173.2,1119.56,shopping,rainy,art exhibition
+191,84,Female,cultural,Bihar,23,vacation,₹15000,7763.77,36.515396,119.567195,15.166714,88.2513,836044,76,647,vacation rental,₹500,plane,₹500,537.29,1874.36,shopping,cloudy,art exhibition
+192,68,Male,relaxation,Andhra Pradesh,12,business,₹10000,46713.43,19.391879,116.179599,20.568299,77.243,202697,570,368,vacation rental,₹1000,plane,₹500,438.67,9073.21,hiking,rainy,art exhibition
+193,37,Female,adventure,Meghalaya,20,family,₹1000,12131.98,21.067369,11.20197,13.351321,83.9532,523314,2,640,vacation rental,₹2000,train,₹500,633.74,3011.23,sightseeing,rainy,art exhibition
+194,18,Female,adventure,Chhattisgarh,8,family,₹15000,2923.63,35.333216,12.0732915,22.99967,83.4758,367497,325,692,vacation rental,₹1000,car,₹5000,741.23,4794.52,shopping,sunny,music festival
+195,55,Female,cultural,Madhya Pradesh,30,business,"",20836.14,25.044915,2.2760839,31.974757,72.8097,1147803,589,237,hostel,₹500,train,₹5000,884.42,4644.52,shopping,sunny,art exhibition
+196,23,Male,relaxation,Madhya Pradesh,14,vacation,₹35000,29205.62,21.681038,41.1651836,14.461746,69.3873,1147815,132,994,vacation rental,₹1000,car,₹1000,473.45,1533.41,shopping,rainy,sports event
+197,42,Male,cultural,Goa,10,family,₹50000,28192.04,35.279387,117.173524,32.083295,94.2799,886873,675,263,hotel,₹100,car,₹1000,448.51,4327.57,sightseeing,rainy,sports event
+198,60,Male,relaxation,Arunachal Pradesh,22,vacation,₹35000,40444.94,18.439524,-74.3132878,14.557599,91.2027,509556,163,216,hotel,₹500,plane,₹1000,644.74,3699.38,hiking,cloudy,sports event
+199,58,Female,cultural,Bihar,10,business,₹2000,27442.03,9.432665,33.3037143,30.3197,76.0167,893269,384,473,hotel,₹1000,train,₹5000,43.59,4828.13,sightseeing,rainy,sports event
+200,73,Male,cultural,Mizoram,9,family,₹35000,6721.07,30.196003,5.380142,28.544545,77.4698,1359175,30,443,hotel,₹1000,plane,₹5000,697.33,3168.92,education,sunny,music festival
+201,75,Genderfluid,cultural,Uttar Pradesh,9,business,₹35000,29664.19,15.733459,14.4342708,13.854392,81.3184,130898,7,890,vacation rental,₹100,car,₹2000,898.96,1426.45,shopping,rainy,music festival
+202,54,Female,relaxation,Arunachal Pradesh,7,vacation,₹10000,19762.95,20.764109,17.99097,18.830967,89.6074,800036,521,993,hostel,₹500,plane,₹2000,310.87,8788.77,education,sunny,sports event
+203,52,Male,adventure,Tamil Nadu,19,business,₹35000,27688.45,23.657647,114.503413,12.730994,93.7873,887535,568,902,hostel,₹100,plane,₹2000,456.58,2120.12,shopping,rainy,art exhibition
+204,36,Genderfluid,cultural,Madhya Pradesh,12,business,₹5000,26003.91,26.98442,-96.1275175,16.350906,69.5272,510552,766,41,vacation rental,₹100,train,₹1000,176.29,4069.51,vacation,sunny,sports event
+205,59,Male,adventure,Rajasthan,9,vacation,₹2000,35635.49,21.633013,83.9124232,17.572724,87.3496,400592,933,869,hostel,₹100,plane,₹100,456.4,7051.34,education,sunny,music festival
+206,18,Female,cultural,Telangana,15,family,₹25000,16621.89,34.405318,29.8120795,33.360416,84.5717,463005,430,568,hotel,₹100,train,₹5000,847.89,2418.06,shopping,rainy,sports event
+207,78,Male,adventure,Goa,9,family,₹100,15107.21,9.127544,100.8282161,10.582654,71.5583,624502,387,827,hostel,₹1000,car,₹100,543.64,1526.51,sightseeing,rainy,art exhibition
+208,39,Female,relaxation,Odisha,19,family,₹1000,14271.58,20.721673,-74.2349232,11.531326,84.0548,983561,897,143,hotel,₹100,plane,₹5000,581.82,3877.8,sightseeing,rainy,art exhibition
+209,69,Female,relaxation,Assam,25,family,₹10000,20533.43,9.316927,-8.753421,13.493472,91.6785,556936,906,997,hostel,₹1000,train,₹5000,290.25,8840.59,shopping,cloudy,music festival
+210,74,Male,relaxation,Odisha,30,family,₹1000,19662.41,35.229809,-8.9052753,13.59132,88.9917,852141,924,846,vacation rental,₹500,car,₹100,614.51,7929.91,education,rainy,art exhibition
+211,75,Male,adventure,Uttar Pradesh,9,family,₹50000,12928.72,35.930584,37.6232011,14.258016,76.2498,294942,690,0,hotel,₹100,plane,₹2000,950.57,7492.55,hiking,cloudy,music festival
+212,24,Female,adventure,Jharkhand,2,vacation,₹2000,15735.11,17.296449,20.4489216,36.095197,76.191,383935,932,580,hotel,₹2000,car,₹1000,482.04,601.39,education,rainy,art exhibition
+213,45,Female,relaxation,Uttar Pradesh,30,business,₹5000,6423.1,32.041996,-17.0982397,29.949873,78.1373,142458,963,602,hotel,₹2000,car,₹2000,212.74,2247.58,shopping,rainy,music festival
+214,40,Female,cultural,Haryana,29,family,₹15000,13712.89,29.426271,-2.1008486,36.099691,75.2833,399340,715,884,hotel,₹500,car,₹2000,200.58,2348.44,vacation,rainy,music festival
+215,25,Female,relaxation,Madhya Pradesh,22,business,₹5000,21498.33,29.960007,2.3410371,13.004039,74.0229,820925,3,564,vacation rental,₹2000,car,₹5000,708.71,9560.5,education,sunny,art exhibition
+216,78,Female,cultural,Uttar Pradesh,19,vacation,₹15000,3976.4,31.243473,114.0369075,9.340398,79.5916,1298250,23,279,vacation rental,₹500,train,₹1000,525.81,2312.53,vacation,sunny,sports event
+217,72,Male,adventure,Sikkim,10,vacation,₹35000,46141.46,29.429872,75.3150685,23.874174,77.1266,67127,370,571,hotel,₹500,car,₹100,911.44,3187.05,hiking,sunny,sports event
+218,84,Female,cultural,Arunachal Pradesh,24,business,₹25000,34220.34,31.732793,48.61667,34.425171,79.0566,1468738,831,924,vacation rental,₹500,car,₹500,524.9,8853.12,education,sunny,sports event
+219,56,Male,cultural,Jharkhand,14,family,₹2000,43000.76,8.023765,112.122426,35.941837,73.5363,788643,864,880,hotel,₹2000,train,₹2000,177.07,820.73,vacation,cloudy,music festival
+220,19,Male,relaxation,Kerala,10,family,₹35000,16507.23,15.133227,116.504048,33.298017,71.8711,145182,182,991,vacation rental,₹500,car,₹5000,121.26,1746.12,vacation,rainy,sports event
+221,69,Male,cultural,Maharashtra,8,family,₹100,21964.88,19.564937,116.357581,30.058261,89.1983,329403,427,172,hostel,₹2000,train,₹1000,720.34,6716.53,education,sunny,sports event
+222,85,Male,adventure,Punjab,20,vacation,₹500,21303.39,33.192815,113.609286,31.354857,88.7629,1455919,772,609,vacation rental,₹2000,car,₹100,245.43,6324.63,vacation,sunny,art exhibition
+223,51,Female,relaxation,Rajasthan,11,business,₹1000,30371.53,29.770447,5.0840393,17.751932,69.4624,532476,835,105,vacation rental,₹100,plane,₹1000,783.95,6556.62,education,sunny,music festival
+224,64,Female,relaxation,Punjab,15,family,₹2000,23146.36,9.192107,-0.9009942,27.511945,94.9426,356881,957,199,hotel,₹1000,car,₹100,819.27,947.71,hiking,sunny,music festival
+225,30,Female,adventure,Himachal Pradesh,27,family,₹5000,25618.08,20.828753,-1.875716,28.018682,96.7385,181995,924,61,hostel,₹100,plane,₹500,466.22,4815.8,vacation,sunny,music festival
+226,66,Male,cultural,Punjab,17,family,₹35000,5732.98,32.827002,114.879239,30.54117,82.7243,1269289,851,869,hostel,₹500,plane,₹1000,943.07,1905.86,sightseeing,sunny,art exhibition
+227,62,Male,adventure,Andhra Pradesh,11,business,₹5000,37342.24,9.696785,123.0925437,15.713339,71.1077,848331,920,143,hostel,₹1000,train,₹1000,605.92,5803.78,sightseeing,sunny,music festival
+228,18,Female,relaxation,Jharkhand,19,business,₹50000,23033.38,8.681304,107.7873095,34.855701,84.9364,1471164,300,652,hostel,₹500,plane,₹5000,506.53,3569.74,shopping,rainy,music festival
+229,54,Female,adventure,Goa,1,business,₹50000,40476.21,10.947741,-8.3877778,12.743576,88.1572,1226097,609,374,hotel,₹1000,car,₹500,299.22,7710.73,hiking,cloudy,music festival
+230,19,Female,adventure,Kerala,5,business,₹100,40274.82,8.220335,20.3941836,15.72915,77.308,1253503,669,557,hotel,₹1000,car,₹2000,948.53,3316.74,vacation,sunny,music festival
+231,59,Male,relaxation,Odisha,17,business,₹35000,37591.76,12.766451,114.514893,14.019525,84.6827,560320,377,305,hotel,₹1000,plane,₹5000,725.81,1302.24,shopping,cloudy,sports event
+232,47,Female,cultural,Tamil Nadu,20,family,₹15000,17310.77,31.465473,116.809657,28.126607,74.5964,122294,238,978,vacation rental,₹100,train,₹2000,491.63,8677.15,sightseeing,rainy,art exhibition
+233,63,Female,adventure,Mizoram,11,vacation,"",40089.98,22.498435,-7.787823,24.693931,69.1933,1381342,805,566,hostel,₹2000,car,₹100,316.45,8904.84,sightseeing,rainy,music festival
+234,23,Male,cultural,Assam,19,business,₹100,23524.22,17.366099,98.6270628,8.995617,80.581,23876,438,1000,vacation rental,₹1000,train,₹2000,472.95,4678.38,education,cloudy,art exhibition
+235,60,Female,adventure,Mizoram,18,vacation,"",39550.26,35.764715,57.612388,21.237365,84.2362,1256657,87,74,hotel,₹500,plane,₹1000,784.03,3278.98,sightseeing,sunny,sports event
+236,22,Male,adventure,Arunachal Pradesh,22,business,₹1000,26973.4,15.838683,-46.6512239,24.251899,89.9187,439829,669,707,vacation rental,₹2000,train,₹1000,289.37,6961.53,vacation,sunny,art exhibition
+237,67,Male,cultural,Rajasthan,22,business,₹1000,3452.4,29.318153,115.135507,14.845359,80.2619,1369788,296,287,vacation rental,₹1000,car,₹100,342.01,5620.98,vacation,cloudy,art exhibition
+238,20,Female,relaxation,Nagaland,13,family,₹50000,4537.68,28.38715,110.084789,30.360383,82.4304,415707,698,541,vacation rental,₹2000,car,₹500,235.61,3463.56,hiking,cloudy,music festival
+239,37,Female,cultural,Nagaland,18,family,₹10000,8252.73,29.029691,133.0298493,11.032979,80.1272,547476,245,898,vacation rental,₹2000,plane,₹100,563.56,6497.38,education,rainy,art exhibition
+240,80,Female,cultural,Uttar Pradesh,21,family,₹5000,14368.18,17.279758,-61.5252827,35.697176,78.8547,1282879,548,570,hotel,₹1000,train,₹100,339.53,1336.04,hiking,sunny,art exhibition
+241,44,Female,relaxation,Tamil Nadu,16,vacation,₹1000,22200.32,25.598765,15.2180188,11.303409,70.8397,749539,285,809,hotel,₹2000,plane,₹2000,520.54,2018.97,education,cloudy,music festival
+242,61,Bigender,adventure,Andhra Pradesh,8,family,₹10000,22064.22,20.068417,-8.2971003,9.911132,72.3113,351075,150,290,hostel,₹1000,train,₹1000,795.18,9692.36,education,rainy,sports event
+243,49,Female,cultural,Odisha,21,vacation,₹25000,43584.05,21.531831,101.7637775,21.267167,95.7655,671824,970,419,vacation rental,₹500,train,₹1000,883.26,9969.22,shopping,rainy,sports event
+244,22,Female,cultural,Karnataka,3,family,₹50000,10073.81,36.825708,125.3297787,23.033683,75.2724,1153804,665,533,vacation rental,₹2000,car,₹500,932.3,8583.89,vacation,cloudy,art exhibition
+245,61,Bigender,cultural,Kerala,27,vacation,₹1000,47669.35,25.023473,-8.9140418,16.710711,79.8502,487750,176,143,hotel,₹100,train,₹100,320.22,1481.27,vacation,cloudy,art exhibition
+246,59,Male,relaxation,Madhya Pradesh,18,business,₹500,18694.14,25.266676,118.200692,24.754839,96.165,1022045,997,341,hostel,₹2000,car,₹100,49.85,3680.0,shopping,cloudy,sports event
+247,79,Female,adventure,Nagaland,5,family,₹35000,3454.58,33.476427,-6.4887534,32.443766,85.1162,222127,914,363,hostel,₹2000,plane,₹500,240.12,195.96,vacation,sunny,music festival
+248,30,Male,adventure,Haryana,5,family,₹1000,37177.84,25.547928,-77.6106512,10.681729,97.0249,251707,653,773,vacation rental,₹100,plane,₹1000,761.64,8890.78,shopping,sunny,sports event
+249,48,Male,adventure,Tamil Nadu,4,business,₹35000,42442.94,21.762835,2.7425682,20.568617,94.0676,15465,384,46,hotel,₹1000,train,₹2000,218.62,9912.88,hiking,rainy,sports event
+250,56,Male,cultural,Himachal Pradesh,8,family,₹25000,31360.93,31.208732,120.585289,36.846461,82.2011,670369,288,879,hostel,₹1000,train,₹5000,208.34,2337.8,education,sunny,art exhibition
+251,61,Female,adventure,Chhattisgarh,23,family,₹50000,18495.26,24.403761,124.9997742,29.641596,77.1418,172140,209,455,hotel,₹1000,plane,₹1000,417.67,9655.56,education,sunny,music festival
+252,40,Female,cultural,Nagaland,15,vacation,₹100,48625.97,33.350132,59.6086,16.547321,82.2995,33699,252,675,hotel,₹1000,car,₹500,874.57,6171.84,sightseeing,rainy,sports event
+253,31,Male,adventure,Mizoram,9,family,₹50000,35935.24,17.530065,26.8600648,28.275052,76.9898,920157,505,297,vacation rental,₹100,plane,₹1000,52.61,667.53,hiking,sunny,art exhibition
+254,81,Male,cultural,Odisha,18,business,"",37739.06,28.038722,-3.4044187,15.84865,91.7316,1136032,187,49,vacation rental,₹500,plane,₹1000,327.18,9443.37,vacation,rainy,music festival
+255,21,Female,relaxation,Bihar,16,family,"",45387.57,9.86813,10.0863269,31.780753,74.2609,362368,580,176,hotel,₹1000,train,₹500,548.21,4393.95,shopping,sunny,music festival
+256,21,Male,cultural,Andhra Pradesh,9,family,₹50000,38035.67,36.894244,-82.855251,20.426918,70.5657,1027894,980,345,vacation rental,₹500,car,₹1000,734.78,6656.9,education,rainy,music festival
+257,55,Female,adventure,Andhra Pradesh,24,business,"",11400.7,8.602143,23.4060228,18.636323,95.5094,428825,638,81,hostel,₹2000,plane,₹5000,454.64,4042.83,shopping,sunny,art exhibition
+258,41,Genderqueer,cultural,Bihar,15,business,₹25000,32818.27,15.455205,-2.5098914,17.638652,93.0725,923289,84,260,vacation rental,₹500,plane,₹1000,398.21,2518.2,sightseeing,rainy,sports event
+259,56,Male,cultural,Nagaland,4,family,₹10000,1140.11,13.187842,105.8510132,10.366074,85.7612,1393147,480,932,hostel,₹500,car,₹5000,818.09,1585.57,shopping,sunny,art exhibition
+260,75,Genderqueer,cultural,Haryana,2,family,₹35000,42723.24,34.061826,47.2957582,26.019208,76.3378,930836,741,621,vacation rental,₹100,car,₹2000,632.88,1963.04,sightseeing,sunny,music festival
+261,56,Male,cultural,Madhya Pradesh,16,business,₹50000,14161.42,8.976303,24.9390156,34.892002,77.5967,37570,523,251,hostel,₹500,plane,₹500,933.03,4766.92,education,sunny,sports event
+262,72,Male,relaxation,Manipur,7,family,₹500,27444.67,11.738734,107.569381,26.716369,91.0289,848011,568,699,hotel,₹2000,train,₹2000,846.88,1834.49,vacation,cloudy,music festival
+263,57,Male,cultural,Assam,30,vacation,₹10000,31950.53,26.969647,20.3036711,22.48164,88.6364,893622,559,157,hotel,₹100,plane,₹500,786.46,6502.25,vacation,cloudy,sports event
+264,72,Female,cultural,Kerala,21,family,₹1000,1879.49,28.265088,97.7525352,13.711393,78.5185,843613,602,561,hostel,₹2000,plane,₹5000,526.49,6953.92,hiking,cloudy,sports event
+265,27,Female,cultural,Uttar Pradesh,9,business,₹35000,28388.47,21.071135,-83.504629,16.312704,88.1407,1067207,695,790,hostel,₹100,car,₹500,488.86,8135.79,hiking,cloudy,art exhibition
+266,56,Female,adventure,Kerala,20,business,₹25000,35680.74,12.964876,-0.1550173,20.631484,73.557,1288045,639,139,vacation rental,₹1000,train,₹1000,388.92,2717.98,education,rainy,sports event
+267,78,Female,adventure,Chhattisgarh,2,family,₹15000,10841.65,31.624464,-73.327532,31.887881,92.8074,311099,293,936,hostel,₹2000,train,₹100,536.63,5968.32,vacation,cloudy,sports event
+268,35,Male,relaxation,Arunachal Pradesh,11,business,₹15000,42822.32,33.123817,106.4019733,20.389067,89.3451,395698,103,620,hostel,₹500,train,₹5000,942.19,7451.82,hiking,cloudy,sports event
+269,37,Female,cultural,Kerala,15,family,₹35000,21344.35,33.271667,85.2774207,29.99032,72.1709,1359997,483,114,vacation rental,₹500,plane,₹100,986.6,1794.58,education,cloudy,sports event
+270,83,Female,cultural,Madhya Pradesh,16,business,"",32576.48,19.783919,104.0134362,30.404698,86.5383,87874,721,563,hostel,₹2000,plane,₹5000,704.81,8153.19,vacation,cloudy,art exhibition
+271,55,Male,cultural,Madhya Pradesh,25,family,₹50000,12551.05,8.39004,2.8898334,28.957641,92.288,835884,226,828,vacation rental,₹2000,plane,₹5000,781.7,6380.26,vacation,rainy,art exhibition
+272,82,Male,relaxation,Himachal Pradesh,29,business,₹50000,8722.29,10.616712,20.3755648,34.512186,81.4243,339931,742,612,hostel,₹500,train,₹500,540.8,324.41,shopping,sunny,sports event
+273,47,Female,cultural,Sikkim,15,vacation,₹35000,18653.12,20.330004,123.5403713,26.344665,75.4435,832749,945,754,hostel,₹500,car,₹500,485.93,6666.72,hiking,rainy,sports event
+274,67,Female,adventure,Bihar,20,business,"",46990.82,34.627019,120.349903,24.194507,90.1005,1393060,334,568,hostel,₹1000,train,₹500,93.39,784.93,sightseeing,sunny,sports event
+275,85,Female,relaxation,Assam,30,business,₹50000,46085.19,10.046594,106.8104633,16.868463,94.8632,591135,307,257,hostel,₹500,train,₹500,65.02,4614.84,shopping,rainy,art exhibition
+276,30,Male,cultural,Meghalaya,28,family,₹35000,15695.12,15.560588,-104.61768,29.042,88.6319,464690,554,986,hostel,₹100,car,₹100,532.64,8888.36,hiking,cloudy,art exhibition
+277,69,Female,adventure,Goa,18,business,"",9123.43,21.394167,112.834114,31.250957,95.7365,991173,631,686,vacation rental,₹100,plane,₹100,885.41,4013.26,shopping,rainy,music festival
+278,64,Female,adventure,Goa,28,family,₹1000,2979.9,34.640872,-122.38,25.269476,97.051,931972,118,437,hotel,₹100,train,₹5000,961.1,7112.63,education,cloudy,art exhibition
+279,69,Male,cultural,Andhra Pradesh,6,vacation,₹50000,25838.21,32.194646,115.610077,24.655009,77.9162,591047,647,711,hotel,₹100,car,₹500,738.09,3430.14,shopping,rainy,music festival
+280,71,Male,adventure,Madhya Pradesh,23,vacation,₹100,22156.81,36.248049,-88.5945715,18.44747,81.9694,789147,81,970,vacation rental,₹2000,plane,₹100,915.67,4848.65,shopping,rainy,art exhibition
+281,64,Male,cultural,Madhya Pradesh,17,business,₹50000,47844.62,32.159088,-86.4187308,23.053949,77.6215,1309086,52,965,hotel,₹2000,train,₹1000,413.25,5736.1,education,rainy,sports event
+282,85,Female,adventure,Madhya Pradesh,8,vacation,₹15000,15918.88,14.305168,7.81191,29.892495,83.9589,811820,182,709,hotel,₹2000,plane,₹1000,261.55,9925.62,education,rainy,art exhibition
+283,47,Non-binary,relaxation,Maharashtra,24,business,₹15000,1401.5,13.982239,-9.0471651,9.391189,89.9835,356196,776,56,hotel,₹500,train,₹500,548.45,6331.66,education,cloudy,art exhibition
+284,36,Female,relaxation,Nagaland,15,family,"",26537.75,26.05888,88.3994723,25.602306,89.4105,879538,941,256,hostel,₹500,plane,₹500,900.19,6388.0,sightseeing,sunny,music festival
+285,29,Male,cultural,Haryana,15,family,₹25000,39648.94,25.644073,141.8559579,20.517986,93.2908,1064666,366,462,hostel,₹500,car,₹1000,404.93,3320.28,education,rainy,music festival
+286,33,Genderfluid,relaxation,Punjab,5,vacation,₹35000,43350.56,31.191035,49.7613122,35.872797,83.2445,741072,574,246,hostel,₹500,plane,₹2000,453.32,1101.73,vacation,cloudy,art exhibition
+287,85,Female,adventure,Chhattisgarh,13,family,₹1000,2514.81,11.538077,43.8464971,30.13902,77.6074,754629,860,968,hostel,₹1000,train,₹100,380.18,8051.26,education,cloudy,music festival
+288,30,Male,adventure,Madhya Pradesh,26,family,₹15000,13307.61,25.135011,1.0598119,14.141481,93.4658,622532,744,301,vacation rental,₹1000,car,₹2000,12.42,5778.75,sightseeing,cloudy,art exhibition
+289,27,Male,relaxation,Assam,20,vacation,"",48380.75,25.419976,-7.3462545,34.08146,74.289,1186351,897,9,hotel,₹2000,car,₹5000,636.2,17.44,vacation,cloudy,music festival
+290,79,Female,relaxation,Arunachal Pradesh,4,business,₹25000,13676.24,11.659059,-87.6,12.791705,84.24,276247,722,583,hotel,₹1000,car,₹2000,595.46,5079.8,vacation,cloudy,art exhibition
+291,24,Female,adventure,Sikkim,6,business,₹15000,44403.81,14.060816,17.9557436,20.177912,71.3181,495469,312,481,vacation rental,₹500,car,₹100,30.97,1766.24,sightseeing,rainy,art exhibition
+292,44,Female,adventure,Uttar Pradesh,8,business,"",27553.98,22.498598,17.1711587,11.751988,90.0169,652705,55,186,hostel,₹100,plane,₹5000,835.71,7393.2,shopping,cloudy,sports event
+293,77,Female,adventure,Chhattisgarh,21,vacation,₹15000,37694.07,16.956864,120.482198,21.440868,74.7129,751282,352,737,vacation rental,₹100,train,₹2000,740.02,1505.55,education,sunny,music festival
+294,36,Male,relaxation,Nagaland,14,vacation,₹100,8944.43,34.694068,115.2413041,17.932168,96.9384,1136471,199,218,vacation rental,₹2000,train,₹100,226.09,685.55,sightseeing,rainy,music festival
+295,84,Female,relaxation,Meghalaya,16,business,₹500,944.24,29.438419,18.188947,8.223952,94.555,1143397,293,152,hostel,₹500,plane,₹500,738.5,2118.96,shopping,rainy,music festival
+296,22,Male,adventure,Madhya Pradesh,2,business,₹2000,36508.71,12.486327,6.7329389,22.555346,76.4303,1364932,56,382,hotel,₹100,plane,₹1000,122.25,6812.79,hiking,cloudy,sports event
+297,72,Male,cultural,Himachal Pradesh,22,business,"",35590.92,19.936369,20.3244146,33.707129,84.3556,1383950,228,481,vacation rental,₹2000,train,₹100,152.59,7318.26,hiking,cloudy,music festival
+298,77,Female,adventure,Bihar,6,business,₹50000,38531.43,17.465702,23.8408158,11.518581,88.9023,306976,608,195,vacation rental,₹1000,train,₹500,138.37,6302.56,hiking,rainy,sports event
+299,71,Male,relaxation,Rajasthan,2,business,₹50000,1550.05,8.428876,55.2695622,24.495139,87.2912,1363692,146,375,hostel,₹500,plane,₹100,91.25,1040.33,hiking,sunny,art exhibition
+300,37,Male,adventure,Telangana,29,family,₹2000,25828.33,18.418209,113.02064,28.648396,70.4821,926847,136,120,hostel,₹500,car,₹1000,212.08,7293.18,shopping,rainy,sports event
+301,68,Female,relaxation,Karnataka,6,business,₹500,45932.19,17.742212,-90.5279231,11.213291,94.6948,27771,603,778,vacation rental,₹100,plane,₹1000,366.57,1914.95,sightseeing,sunny,art exhibition
+302,53,Male,cultural,Goa,4,vacation,₹100,20539.89,17.209215,25.4459308,22.662863,94.2772,1374253,862,90,hotel,₹1000,plane,₹5000,858.62,5743.81,hiking,rainy,art exhibition
+303,33,Female,relaxation,Himachal Pradesh,7,vacation,₹35000,43592.55,11.223415,39.72516,24.308748,87.3158,285610,354,233,hostel,₹2000,car,₹2000,216.18,9880.46,sightseeing,cloudy,sports event
+304,20,Male,cultural,Arunachal Pradesh,23,family,₹500,28009.91,21.878546,23.6168485,26.940126,79.6133,1413816,839,927,vacation rental,₹2000,plane,₹1000,778.87,7721.32,education,sunny,art exhibition
+305,21,Male,adventure,Gujarat,4,family,₹100,43857.0,33.860174,99.617119,21.922499,85.48,24385,929,6,hotel,₹500,car,₹5000,530.8,2120.9,hiking,cloudy,music festival
+306,77,Female,relaxation,Chhattisgarh,4,family,₹2000,40832.37,9.65315,83.2934086,19.89487,78.9867,428772,793,220,vacation rental,₹1000,train,₹100,738.73,6472.59,shopping,cloudy,music festival
+307,43,Male,cultural,Himachal Pradesh,12,business,₹35000,37183.95,26.460507,14.197982,12.115647,91.2711,888564,959,978,hostel,₹2000,train,₹1000,390.86,4572.78,education,rainy,sports event
+308,37,Male,cultural,Maharashtra,1,business,₹500,45507.78,32.411439,47.8699039,36.39847,91.6032,79924,421,264,hostel,₹2000,car,₹5000,653.0,9029.96,shopping,cloudy,art exhibition
+309,57,Female,relaxation,Nagaland,1,family,₹5000,6765.6,15.496689,85.8919042,30.988199,77.8524,1447355,395,289,hostel,₹100,car,₹2000,470.32,8831.93,vacation,cloudy,art exhibition
+310,79,Female,relaxation,Tamil Nadu,30,vacation,₹15000,24653.58,28.022072,-6.2634596,17.095549,80.2366,578002,222,393,hostel,₹1000,train,₹100,814.16,7042.25,vacation,sunny,art exhibition
+311,52,Female,cultural,Meghalaya,26,business,₹5000,39624.33,13.903886,21.5989599,28.608275,95.5455,510226,951,470,hotel,₹500,train,₹500,879.98,5243.45,sightseeing,sunny,music festival
+312,36,Female,adventure,Haryana,22,vacation,₹100,22053.97,32.824889,-3.1629063,18.614227,86.526,177436,341,100,vacation rental,₹2000,plane,₹100,369.73,3603.9,hiking,rainy,art exhibition
+313,79,Female,relaxation,Chhattisgarh,26,vacation,₹10000,45569.09,35.535112,80.6202033,15.752622,94.7883,436800,649,963,hostel,₹1000,train,₹2000,595.33,6815.0,hiking,sunny,sports event
+314,69,Male,relaxation,Meghalaya,1,vacation,₹1000,31473.44,10.955208,122.8333359,26.057437,88.0118,907727,392,154,vacation rental,₹1000,train,₹1000,475.13,3277.18,education,cloudy,music festival
+315,50,Female,adventure,Meghalaya,18,vacation,₹50000,1165.7,29.192625,17.3811959,8.754999,90.7176,384637,268,924,vacation rental,₹100,plane,₹100,705.73,60.69,vacation,cloudy,sports event
+316,52,Female,cultural,Bihar,9,business,₹50000,31869.15,26.967459,-9.1030431,17.255263,91.2919,1177702,104,591,hostel,₹100,plane,₹2000,799.46,6463.22,hiking,sunny,music festival
+317,63,Male,cultural,Nagaland,4,vacation,₹500,6687.85,29.080633,106.554468,15.736629,72.4951,768752,423,925,vacation rental,₹100,train,₹500,116.63,6945.71,shopping,rainy,art exhibition
+318,35,Bigender,relaxation,Assam,7,vacation,₹100,22402.3,26.853409,-73.868176,23.749462,91.9258,761739,817,457,hotel,₹100,plane,₹100,30.05,5659.8,vacation,sunny,art exhibition
+319,57,Bigender,relaxation,Arunachal Pradesh,7,business,₹35000,21024.76,11.585411,121.74074,26.269365,78.6628,1225907,552,700,vacation rental,₹1000,plane,₹5000,268.2,6795.42,shopping,rainy,art exhibition
+320,66,Female,cultural,Haryana,19,vacation,₹5000,20456.74,19.667793,107.8034,35.062535,85.0871,218204,720,975,hostel,₹100,plane,₹2000,15.0,2337.05,shopping,rainy,art exhibition
+321,66,Male,adventure,Punjab,27,business,₹2000,42824.35,30.841814,151.2502275,31.786812,83.4636,64075,642,518,hostel,₹2000,train,₹5000,86.34,5860.65,vacation,rainy,music festival
+322,29,Female,cultural,Goa,13,vacation,₹35000,24449.48,17.722562,10.4494906,16.282546,79.1194,4531,388,231,hotel,₹100,car,₹5000,899.0,8303.15,hiking,rainy,sports event
+323,38,Male,relaxation,Assam,17,vacation,₹50000,41095.46,28.522397,106.0243,15.862818,88.8252,890263,313,137,vacation rental,₹100,train,₹100,256.53,2934.59,sightseeing,cloudy,art exhibition
+324,74,Female,cultural,Bihar,16,business,₹50000,32703.2,26.566926,78.3407084,8.3944,75.814,1498882,171,435,hotel,₹2000,plane,₹1000,197.43,6691.64,education,cloudy,sports event
+325,72,Male,relaxation,Chhattisgarh,27,family,₹35000,40715.83,33.102603,44.7564274,23.505281,81.3996,1388418,591,652,hotel,₹500,train,₹500,708.27,4108.85,hiking,rainy,music festival
+326,75,Male,relaxation,Meghalaya,26,vacation,₹15000,10707.99,28.541995,17.9485065,13.174179,75.4392,415278,346,529,hostel,₹2000,train,₹1000,482.91,1321.72,education,rainy,sports event
+327,53,Female,cultural,Manipur,21,business,₹5000,7053.9,14.073329,46.3582371,32.405559,76.9883,503107,725,948,hostel,₹500,car,₹5000,615.73,3073.01,vacation,sunny,art exhibition
+328,21,Female,relaxation,Karnataka,28,family,₹100,8277.63,13.349833,-43.0971625,29.964904,73.4434,602352,997,365,vacation rental,₹500,car,₹1000,506.08,7453.94,shopping,sunny,music festival
+329,48,Female,relaxation,Arunachal Pradesh,25,family,₹10000,49413.78,15.253709,43.8709284,32.020484,95.2067,1253369,715,984,hostel,₹500,car,₹100,101.0,7862.79,education,rainy,sports event
+330,65,Male,relaxation,Nagaland,30,vacation,₹100,2150.41,19.025858,118.534841,10.426955,90.7297,707650,355,772,hotel,₹2000,plane,₹500,14.43,5201.45,hiking,rainy,music festival
+331,41,Female,relaxation,Meghalaya,5,business,₹35000,14453.05,32.911652,-65.5975218,31.585442,87.0425,731453,54,922,vacation rental,₹500,car,₹1000,374.78,3176.38,education,cloudy,sports event
+332,63,Male,adventure,Nagaland,6,vacation,₹5000,8349.47,12.205154,103.5083998,12.224426,79.4732,1173911,877,367,vacation rental,₹1000,train,₹100,81.66,4315.2,hiking,sunny,art exhibition
+333,80,Male,cultural,Kerala,22,business,₹1000,48991.72,14.756315,16.5104253,29.304337,94.7479,850922,856,993,hostel,₹1000,car,₹500,684.39,7262.25,sightseeing,rainy,sports event
+334,32,Male,adventure,Odisha,21,vacation,₹35000,6033.27,33.423991,87.2120599,24.382096,75.8455,690827,742,409,hostel,₹1000,car,₹5000,55.71,5200.68,vacation,cloudy,music festival
+335,36,Bigender,adventure,Rajasthan,17,family,₹5000,40561.88,31.101118,107.4010519,26.251339,73.0225,715766,254,945,hostel,₹500,car,₹2000,380.29,786.54,sightseeing,rainy,sports event
+336,21,Male,relaxation,Assam,7,vacation,₹25000,43976.24,31.931703,122.9860159,15.531972,86.7887,702456,636,63,vacation rental,₹2000,plane,₹100,492.14,2103.84,education,cloudy,sports event
+337,81,Female,cultural,Assam,1,business,₹50000,45659.58,20.531237,87.5395855,36.300857,70.3073,532569,57,293,vacation rental,₹500,car,₹2000,918.48,3176.78,education,rainy,music festival
+338,40,Male,adventure,Gujarat,21,family,₹35000,5866.03,29.569956,-1.0263278,8.459592,81.1895,368053,240,931,vacation rental,₹100,train,₹500,301.85,8705.57,shopping,rainy,music festival
+339,18,Female,adventure,Goa,27,family,₹35000,20963.23,19.495315,102.4235298,30.28255,68.9615,184695,116,22,vacation rental,₹1000,car,₹5000,597.97,5002.92,hiking,rainy,art exhibition
+340,38,Male,adventure,Mizoram,16,business,₹25000,41647.11,30.993734,39.4129061,13.076649,97.2894,612686,442,513,hotel,₹100,plane,₹5000,720.94,3821.77,vacation,cloudy,music festival
+341,75,Male,cultural,Manipur,26,vacation,₹5000,8289.91,9.069234,120.944359,26.748439,69.8223,385362,866,536,hotel,₹2000,plane,₹100,691.48,9712.84,vacation,sunny,art exhibition
+342,22,Male,relaxation,Manipur,18,family,₹10000,42511.16,10.380588,121.7483586,33.400158,95.7065,956281,816,755,vacation rental,₹100,train,₹5000,461.62,5851.7,vacation,rainy,music festival
+343,33,Male,cultural,Manipur,30,family,₹100,16944.58,32.100756,113.016085,10.291817,84.5191,676785,978,863,vacation rental,₹1000,car,₹2000,622.89,6307.58,hiking,sunny,sports event
+344,32,Female,adventure,Goa,5,family,₹50000,44134.37,27.331827,4.7639811,30.197878,83.331,1437896,843,113,hotel,₹2000,car,₹100,166.28,7749.47,shopping,sunny,sports event
+345,51,Non-binary,adventure,Telangana,7,family,₹25000,48679.92,26.577098,-4.6605581,9.193974,76.2076,554521,379,8,hostel,₹2000,car,₹2000,109.45,1031.11,vacation,sunny,sports event
+346,23,Male,relaxation,Rajasthan,5,family,₹1000,15981.32,26.785848,-53.024918,14.837334,74.6763,657891,101,52,vacation rental,₹500,car,₹500,297.15,4930.47,vacation,sunny,sports event
+347,19,Male,relaxation,Bihar,23,business,₹15000,47147.34,26.736385,30.734995,29.546927,83.5932,334561,907,431,hostel,₹1000,car,₹2000,57.18,830.63,shopping,cloudy,sports event
+348,39,Agender,adventure,Maharashtra,27,vacation,₹5000,44136.62,9.234605,120.181069,19.134266,83.8984,1078866,971,403,hostel,₹1000,plane,₹1000,640.09,2916.48,shopping,rainy,art exhibition
+349,63,Male,cultural,Telangana,2,business,₹50000,41817.56,12.143126,-94.6864991,22.781312,79.8834,535179,845,601,vacation rental,₹2000,plane,₹500,225.99,8948.25,sightseeing,rainy,music festival
+350,71,Bigender,adventure,Kerala,20,vacation,"",31902.67,16.547324,26.6261976,28.115888,72.5965,482315,301,965,hotel,₹100,plane,₹5000,769.22,2387.52,shopping,cloudy,sports event
+351,50,Agender,adventure,Karnataka,17,vacation,₹25000,10374.65,20.287481,119.745363,8.536792,95.3081,336584,839,191,hotel,₹1000,plane,₹100,890.59,4943.32,sightseeing,sunny,sports event
+352,37,Female,cultural,Uttar Pradesh,16,family,₹500,41634.11,8.312243,134.2087936,24.63314,74.1035,442929,756,551,hotel,₹500,plane,₹500,61.92,2794.11,vacation,rainy,sports event
+353,60,Female,relaxation,Tamil Nadu,30,family,₹25000,15879.97,30.858175,15.427113,27.17806,71.6214,219142,281,975,vacation rental,₹1000,train,₹500,457.05,9712.68,hiking,rainy,music festival
+354,34,Bigender,cultural,Rajasthan,16,vacation,₹50000,13659.18,31.171493,4.861724,21.381277,71.9246,202281,866,327,vacation rental,₹500,plane,₹1000,27.65,9538.88,education,sunny,music festival
+355,53,Female,cultural,Chhattisgarh,11,vacation,₹1000,48510.65,18.861312,121.7508912,17.08929,69.7666,960095,861,590,hostel,₹2000,plane,₹500,177.8,6198.85,vacation,sunny,art exhibition
+356,82,Female,cultural,Himachal Pradesh,18,business,₹100,47314.08,33.435206,-68.796194,31.400909,81.0546,1091210,645,923,hostel,₹500,plane,₹1000,743.81,9849.95,education,sunny,music festival
+357,36,Male,relaxation,Kerala,7,business,₹5000,19309.72,36.640931,121.1136216,16.391948,87.9221,771227,478,523,hostel,₹2000,car,₹5000,67.62,5221.72,hiking,cloudy,music festival
+358,73,Male,adventure,Manipur,29,business,₹10000,33382.28,9.04468,-49.609512,9.078306,87.4518,1100899,224,994,hostel,₹2000,car,₹2000,384.13,1251.95,vacation,rainy,sports event
+359,82,Female,adventure,Punjab,1,vacation,₹10000,36108.33,10.46864,109.2196634,12.330882,85.1795,1194472,418,76,hotel,₹100,plane,₹5000,252.42,5234.94,vacation,sunny,art exhibition
+360,66,Female,relaxation,Himachal Pradesh,28,family,₹25000,19479.39,34.067508,112.375491,30.639312,70.2101,1356510,707,986,vacation rental,₹1000,car,₹1000,156.28,6430.81,education,sunny,art exhibition
+361,59,Female,adventure,Himachal Pradesh,29,business,₹35000,31899.22,33.905167,100.486253,8.171669,84.7558,658533,101,137,hotel,₹500,car,₹1000,371.6,1907.37,sightseeing,rainy,music festival
+362,70,Male,relaxation,Telangana,13,family,₹2000,27455.72,30.497964,-83.00685,34.45707,86.2771,21541,601,704,hotel,₹2000,car,₹2000,520.37,4853.34,sightseeing,cloudy,music festival
+363,59,Agender,relaxation,Haryana,17,family,₹5000,27251.28,23.395018,113.091683,23.313479,83.2775,380081,898,273,hotel,₹100,plane,₹1000,288.23,5509.39,sightseeing,sunny,music festival
+364,34,Male,adventure,Nagaland,10,vacation,₹10000,17613.57,10.758894,85.9779314,25.85901,73.785,615025,561,728,hotel,₹2000,plane,₹100,674.71,6660.44,hiking,cloudy,art exhibition
+365,25,Male,relaxation,Uttar Pradesh,12,family,₹10000,18241.69,13.722,26.4532856,34.792319,95.1572,25186,995,995,vacation rental,₹500,car,₹1000,198.7,16.48,education,cloudy,music festival
+366,73,Male,relaxation,Kerala,11,business,₹35000,1781.9,13.688231,45.0629902,26.571262,76.8758,396654,637,234,vacation rental,₹500,plane,₹5000,920.49,6764.35,shopping,sunny,sports event
+367,44,Male,relaxation,Arunachal Pradesh,10,family,₹500,14084.29,23.449996,120.4087,27.875535,96.1618,652085,133,173,vacation rental,₹2000,car,₹100,33.6,3169.81,shopping,cloudy,art exhibition
+368,55,Female,cultural,Kerala,7,business,₹1000,5259.27,34.349852,158.5752259,25.030654,95.5714,1444092,188,956,vacation rental,₹1000,train,₹5000,222.14,4620.79,education,sunny,art exhibition
+369,82,Male,relaxation,Meghalaya,21,vacation,₹35000,23023.49,23.593481,0.8648422,10.659011,86.4663,1372847,963,33,hotel,₹2000,car,₹2000,71.08,8527.45,hiking,cloudy,music festival
+370,73,Male,cultural,Maharashtra,8,business,"",40464.09,23.408291,37.8304992,34.321701,85.4846,1415885,783,692,hostel,₹2000,car,₹1000,627.18,6707.92,vacation,cloudy,sports event
+371,50,Genderfluid,adventure,Assam,19,vacation,₹35000,27236.01,31.048453,120.9950071,32.456737,69.9502,261971,804,294,vacation rental,₹1000,train,₹5000,547.2,9856.52,vacation,cloudy,sports event
+372,84,Female,cultural,Maharashtra,5,vacation,₹35000,7619.55,20.046955,108.0272646,14.31498,83.648,1259225,112,97,hostel,₹100,car,₹500,162.99,8528.21,education,sunny,music festival
+373,51,Female,adventure,Goa,20,family,₹500,12163.82,29.281445,-35.2537836,24.415433,73.0321,1297625,541,195,vacation rental,₹2000,plane,₹500,238.39,2405.82,hiking,cloudy,music festival
+374,23,Male,cultural,Meghalaya,2,vacation,₹15000,24620.6,29.298588,5.5510411,27.028368,76.9239,1179450,918,530,vacation rental,₹1000,train,₹100,358.93,3991.47,shopping,rainy,sports event
+375,62,Female,relaxation,Arunachal Pradesh,2,business,₹100,46909.44,17.770078,60.398557,35.439868,89.3997,1390616,408,466,hostel,₹100,train,₹100,304.5,6166.46,education,cloudy,music festival
+376,69,Male,cultural,Karnataka,5,business,₹2000,38092.66,8.813158,110.898783,8.040327,93.8617,874552,572,875,vacation rental,₹500,plane,₹100,155.31,2072.13,education,sunny,sports event
+377,74,Agender,relaxation,Sikkim,14,business,₹35000,29290.44,34.588172,23.8724272,15.712603,89.9579,1173569,352,394,hotel,₹100,car,₹2000,491.22,3639.5,shopping,sunny,sports event
+378,25,Male,adventure,Punjab,9,vacation,₹50000,27419.54,26.294501,-76.9095647,33.553576,82.56,232289,904,782,vacation rental,₹500,car,₹500,566.05,6031.37,education,sunny,music festival
+379,64,Female,adventure,Jharkhand,25,business,₹10000,37950.27,30.623277,79.960149,10.106476,70.3918,919668,909,449,hostel,₹500,train,₹2000,91.86,6105.23,hiking,sunny,music festival
+380,73,Male,adventure,Punjab,21,vacation,"",209.59,9.817304,119.9745295,16.673362,77.0778,715592,381,502,hotel,₹500,plane,₹500,668.86,8679.8,sightseeing,rainy,sports event
+381,55,Male,relaxation,Andhra Pradesh,12,family,"",19430.35,8.302317,112.758414,35.434604,91.0201,1286765,77,261,hostel,₹2000,plane,₹1000,5.39,2022.96,vacation,cloudy,sports event
+382,69,Male,adventure,Karnataka,14,vacation,₹15000,1198.51,20.833765,114.462061,16.231441,71.4314,1287948,136,229,vacation rental,₹1000,car,₹2000,475.33,4877.35,shopping,cloudy,sports event
+383,55,Female,relaxation,Haryana,28,family,₹100,22481.42,14.100388,120.5273983,10.047765,95.1378,296646,764,656,hostel,₹1000,car,₹500,569.82,2215.07,hiking,rainy,music festival
+384,54,Female,cultural,Punjab,20,vacation,₹2000,20487.97,36.810624,135.4627446,10.337779,91.5602,634832,642,755,hotel,₹100,plane,₹100,154.23,1752.28,vacation,cloudy,art exhibition
+385,18,Female,cultural,Meghalaya,25,vacation,₹100,18167.53,8.899105,106.8060388,11.671036,88.783,566986,264,616,hotel,₹100,train,₹500,308.76,6441.69,hiking,cloudy,music festival
+386,40,Male,relaxation,Sikkim,23,business,"",45006.81,25.479929,-52.7455935,36.682259,79.4514,536356,806,346,hostel,₹100,car,₹1000,214.42,2026.12,hiking,cloudy,music festival
+387,69,Male,adventure,Uttar Pradesh,4,family,₹50000,37720.89,15.63835,4.8867899,23.382517,79.271,398287,302,771,hotel,₹1000,car,₹500,512.91,3340.31,shopping,rainy,music festival
+388,47,Male,cultural,Karnataka,10,vacation,₹5000,29507.79,29.40413,35.396231,15.795256,93.6313,251072,209,938,hostel,₹2000,plane,₹5000,235.63,1377.13,vacation,rainy,art exhibition
+389,44,Male,adventure,Meghalaya,23,family,₹2000,28947.21,19.106485,20.8433709,34.447278,71.0287,1360477,63,979,vacation rental,₹500,plane,₹5000,517.96,5555.04,education,rainy,sports event
+390,68,Female,relaxation,Manipur,9,business,₹50000,21605.55,20.22636,118.469281,29.259189,81.534,742272,957,3,hotel,₹100,car,₹2000,286.43,1856.25,shopping,sunny,sports event
+391,19,Female,relaxation,Punjab,16,family,₹35000,26964.06,35.746746,67.8812063,12.735101,91.0037,70717,211,883,vacation rental,₹1000,car,₹2000,99.88,5753.63,education,cloudy,art exhibition
+392,22,Polygender,cultural,Jharkhand,30,vacation,₹5000,2908.08,14.353793,22.4387178,15.753046,81.7851,452535,293,137,hotel,₹1000,plane,₹500,878.38,1588.57,sightseeing,sunny,art exhibition
+393,60,Male,cultural,Haryana,26,family,₹35000,4666.55,13.872492,115.008163,35.716471,92.8843,792538,277,44,hotel,₹500,car,₹1000,992.17,2289.85,hiking,sunny,art exhibition
+394,78,Female,relaxation,Himachal Pradesh,30,business,₹35000,36871.1,9.301771,10.7830826,21.809392,83.3132,756883,670,940,hostel,₹1000,car,₹500,905.28,8759.68,sightseeing,sunny,art exhibition
+395,69,Male,cultural,Bihar,8,vacation,₹100,19566.76,29.202021,124.3556,18.63299,88.1415,1112577,789,362,vacation rental,₹2000,car,₹100,183.16,7157.92,sightseeing,sunny,music festival
+396,78,Female,relaxation,Himachal Pradesh,6,vacation,₹1000,23401.14,32.545307,107.0303221,15.853988,89.0176,851052,174,506,vacation rental,₹2000,plane,₹2000,284.32,9405.21,hiking,cloudy,art exhibition
+397,68,Male,relaxation,Maharashtra,26,family,₹100,11471.73,18.915082,28.8480284,18.890005,79.8398,700281,309,619,hotel,₹100,plane,₹100,12.59,521.98,vacation,cloudy,music festival
+398,53,Male,relaxation,Tamil Nadu,5,family,"",16764.57,12.528235,82.353656,18.306523,82.864,113789,5,313,hostel,₹2000,train,₹2000,322.18,8627.0,hiking,sunny,music festival
+399,45,Female,relaxation,Kerala,2,business,"",4357.54,26.909752,-7.7912472,25.102133,74.5216,1179239,232,681,vacation rental,₹1000,car,₹2000,537.48,1538.04,vacation,sunny,sports event
+400,56,Female,adventure,Sikkim,21,vacation,₹1000,10263.36,27.720652,119.8699982,10.514935,79.7259,158523,492,792,hostel,₹100,train,₹500,163.88,5209.0,vacation,cloudy,sports event
+401,73,Female,relaxation,Odisha,25,vacation,₹500,42125.89,25.183608,120.404904,17.591373,71.2141,1033627,636,881,vacation rental,₹2000,plane,₹100,979.96,6189.59,sightseeing,cloudy,art exhibition
+402,55,Male,adventure,Tamil Nadu,9,business,₹2000,32231.2,22.68358,129.3209986,32.414376,94.241,1031601,960,985,hostel,₹2000,train,₹100,387.18,4822.64,vacation,rainy,music festival
+403,77,Female,relaxation,Arunachal Pradesh,2,vacation,₹50000,41064.73,11.147611,11.5322563,26.127988,89.5501,813551,366,67,vacation rental,₹2000,train,₹1000,313.33,6465.74,education,cloudy,art exhibition
+404,79,Male,adventure,Madhya Pradesh,12,vacation,₹100,25175.72,35.629584,37.58333,16.608564,73.0739,227890,278,423,hotel,₹100,car,₹1000,324.03,215.54,vacation,cloudy,art exhibition
+405,56,Female,cultural,Kerala,2,vacation,₹15000,15059.68,8.219572,36.7442377,27.222033,91.1601,176071,385,22,hotel,₹100,car,₹1000,33.75,3112.2,education,rainy,music festival
+406,28,Female,relaxation,Odisha,9,business,₹35000,30537.25,21.043347,-99.1653351,29.648202,94.2745,437354,542,13,hostel,₹100,plane,₹2000,386.45,6063.27,sightseeing,sunny,music festival
+407,33,Female,cultural,Nagaland,6,business,₹500,41687.26,24.668868,13.9786808,26.920737,71.0308,797866,384,951,vacation rental,₹500,car,₹1000,822.05,7569.74,hiking,rainy,sports event
+408,48,Female,adventure,Manipur,6,business,₹1000,37508.6,27.014284,-99.079824,25.55975,73.8584,1449235,771,479,hostel,₹2000,car,₹5000,682.36,1539.76,sightseeing,rainy,sports event
+409,81,Male,relaxation,Arunachal Pradesh,29,family,₹35000,24037.23,34.12368,117.116756,34.000739,95.6508,804162,753,775,hostel,₹500,plane,₹5000,790.49,4379.92,sightseeing,sunny,music festival
+410,35,Female,relaxation,Odisha,12,business,₹100,15304.02,25.993167,113.829667,16.79103,88.4771,239667,811,21,vacation rental,₹100,car,₹5000,559.74,4149.34,education,cloudy,art exhibition
+411,20,Male,cultural,Tamil Nadu,1,business,₹15000,45950.9,31.637867,111.6394,31.746078,84.8177,79108,940,3,hostel,₹100,plane,₹500,280.88,1970.66,vacation,sunny,art exhibition
+412,25,Female,cultural,Nagaland,11,vacation,₹2000,34592.24,36.899692,39.4991783,20.2628,96.4597,697719,718,282,vacation rental,₹500,plane,₹5000,770.06,8164.02,shopping,rainy,art exhibition
+413,40,Polygender,cultural,Assam,13,family,₹2000,6448.39,13.681482,121.193945,9.052523,86.05,1325437,508,257,hostel,₹100,plane,₹500,571.38,4939.34,vacation,rainy,music festival
+414,61,Male,cultural,Andhra Pradesh,12,business,₹25000,27651.75,15.55781,-8.718171,25.47607,84.3437,1073718,777,286,vacation rental,₹500,train,₹2000,853.35,1614.99,vacation,cloudy,music festival
+415,24,Female,cultural,Maharashtra,10,family,₹35000,6817.61,11.365998,-47.5275422,29.063436,93.5621,41715,244,574,vacation rental,₹2000,plane,₹1000,758.07,5914.4,vacation,cloudy,art exhibition
+416,30,Male,adventure,Bihar,2,business,₹10000,15841.36,22.892407,-79.621117,10.642543,77.0594,737054,891,547,hostel,₹2000,car,₹2000,349.57,9350.23,shopping,rainy,art exhibition
+417,66,Female,relaxation,Goa,1,business,₹35000,41695.1,21.829955,107.759245,35.96612,86.9662,51782,969,900,hotel,₹500,car,₹500,623.86,4261.85,education,cloudy,art exhibition
+418,67,Female,adventure,Maharashtra,6,business,₹10000,22279.43,18.657612,102.133622,24.418185,95.2523,787615,335,668,vacation rental,₹500,train,₹500,489.58,1428.06,hiking,cloudy,art exhibition
+419,37,Male,cultural,Sikkim,13,business,₹15000,10426.83,27.22727,18.0669126,27.30847,73.8114,1021715,448,752,hotel,₹2000,plane,₹1000,620.44,6228.32,hiking,sunny,sports event
+420,53,Female,adventure,Jharkhand,3,business,₹10000,4503.36,35.87304,140.6058841,17.994699,80.5729,532993,1,921,hostel,₹1000,train,₹5000,371.42,8774.75,shopping,rainy,music festival
+421,35,Male,adventure,Andhra Pradesh,27,family,"",30506.57,18.144311,23.3143163,36.79451,93.2887,1342615,418,641,hotel,₹1000,car,₹500,380.67,9886.68,shopping,rainy,music festival
+422,77,Female,adventure,Odisha,10,family,₹15000,369.64,22.041929,17.6545551,16.748904,83.8859,195247,397,463,hostel,₹1000,plane,₹1000,983.48,1361.13,education,rainy,sports event
+423,25,Female,relaxation,Odisha,12,business,₹50000,10623.5,31.198952,44.1646857,15.817451,96.173,552673,769,10,hotel,₹1000,train,₹500,923.7,9833.36,shopping,sunny,sports event
+424,45,Female,cultural,Jharkhand,18,vacation,₹10000,21000.89,32.773337,36.770859,29.294734,94.1342,607038,261,681,hotel,₹100,car,₹1000,457.07,4207.41,vacation,cloudy,music festival
+425,73,Female,cultural,Tamil Nadu,1,vacation,₹25000,46104.64,13.144319,112.734174,10.488853,70.8377,1399794,391,151,hostel,₹1000,plane,₹1000,69.58,5576.28,hiking,cloudy,art exhibition
+426,30,Female,cultural,Arunachal Pradesh,15,vacation,₹50000,38978.78,8.42244,113.0284,23.738421,82.9844,842253,265,205,hotel,₹100,train,₹5000,415.64,1012.33,education,rainy,art exhibition
+427,85,Female,adventure,Madhya Pradesh,29,business,₹10000,28960.7,11.80807,105.697472,21.303915,83.2434,878936,262,797,vacation rental,₹100,plane,₹500,581.87,2000.52,shopping,sunny,art exhibition
+428,67,Female,cultural,Jharkhand,25,family,₹10000,7538.83,17.069876,-102.1943485,30.689322,96.5815,1088373,803,368,hostel,₹100,train,₹500,663.4,6387.61,shopping,cloudy,sports event
+429,78,Female,relaxation,Haryana,1,vacation,₹25000,35277.72,22.352417,120.392977,12.808744,80.9199,1136204,31,992,hotel,₹500,plane,₹100,927.19,4762.89,hiking,sunny,art exhibition
+430,28,Female,cultural,Gujarat,1,family,₹2000,19809.73,13.97585,13.2448535,22.42556,96.3722,1370552,470,107,hostel,₹1000,car,₹500,492.68,7317.7,shopping,cloudy,music festival
+431,73,Male,cultural,Maharashtra,26,vacation,₹25000,38701.61,23.190346,5.8978018,23.142207,80.393,847097,963,731,vacation rental,₹1000,train,₹5000,590.03,512.4,vacation,rainy,music festival
+432,78,Female,cultural,Uttar Pradesh,16,vacation,₹10000,23762.82,32.719834,-11.0987374,31.18416,78.5046,1042539,828,767,vacation rental,₹100,train,₹500,976.73,7349.44,vacation,sunny,art exhibition
+433,25,Male,relaxation,Meghalaya,22,vacation,₹2000,14418.76,27.758313,-78.5970229,11.331381,95.5708,226433,86,345,hostel,₹100,plane,₹1000,468.47,4657.64,vacation,sunny,sports event
+434,69,Male,adventure,Uttar Pradesh,14,family,₹1000,49214.11,21.403384,-56.2063312,17.465632,93.6597,363439,473,971,vacation rental,₹500,plane,₹5000,289.85,5711.76,shopping,cloudy,sports event
+435,51,Female,cultural,Kerala,30,business,₹15000,34964.29,36.870658,114.382541,16.422666,90.3756,1203352,284,564,hostel,₹2000,train,₹5000,586.6,5774.48,sightseeing,sunny,art exhibition
+436,41,Male,cultural,Assam,13,business,₹5000,44636.03,14.902057,106.8806295,13.552094,96.1257,1017374,132,973,hotel,₹1000,plane,₹500,984.1,5155.2,sightseeing,sunny,art exhibition
+437,32,Female,relaxation,Karnataka,1,business,₹15000,9326.68,31.848855,12.2490697,34.217867,79.4426,704324,1,294,hotel,₹100,car,₹100,655.99,6076.41,education,cloudy,music festival
+438,28,Male,cultural,Haryana,14,vacation,₹1000,32802.3,19.313017,112.7211714,35.705462,86.8816,1355706,169,546,vacation rental,₹2000,car,₹2000,184.89,2764.69,hiking,cloudy,music festival
+439,38,Male,relaxation,Karnataka,14,business,₹100,48948.66,19.440171,-58.5577501,8.942128,93.2294,54842,879,621,vacation rental,₹2000,train,₹2000,988.72,1818.27,education,rainy,art exhibition
+440,53,Male,relaxation,Bihar,24,vacation,₹10000,18708.13,14.648846,10.7013332,30.851608,95.5546,1457865,688,66,vacation rental,₹100,train,₹1000,266.79,6199.42,sightseeing,sunny,sports event
+441,75,Female,cultural,Sikkim,24,business,₹15000,45747.89,34.178945,34.9561748,34.640722,71.6742,1236457,210,237,hostel,₹100,plane,₹5000,632.42,1983.77,sightseeing,rainy,art exhibition
+442,44,Genderfluid,relaxation,Maharashtra,22,business,₹10000,26010.84,21.563758,34.6341859,21.781657,77.7767,501268,722,734,vacation rental,₹100,car,₹5000,483.63,3999.79,vacation,cloudy,music festival
+443,60,Female,adventure,Chhattisgarh,13,family,₹10000,11581.47,14.219815,44.0033056,35.565542,75.9899,1091486,549,513,hotel,₹100,plane,₹500,328.64,3609.58,education,rainy,art exhibition
+444,56,Female,relaxation,Uttar Pradesh,24,family,₹100,35539.54,31.628694,-50.265662,18.998702,68.7401,1352412,615,865,hostel,₹2000,plane,₹5000,183.73,4959.34,sightseeing,sunny,music festival
+445,53,Female,relaxation,Sikkim,19,family,"",25836.36,35.703614,-6.2057463,14.390477,93.9748,769719,216,350,vacation rental,₹2000,car,₹5000,992.33,4177.5,shopping,cloudy,music festival
+446,42,Male,adventure,Gujarat,5,vacation,₹50000,6830.96,8.088863,6.121072,30.866581,82.6872,640820,815,638,vacation rental,₹500,car,₹5000,800.29,9675.09,shopping,rainy,music festival
+447,37,Genderqueer,relaxation,Punjab,16,vacation,₹2000,25731.81,9.499004,121.5045889,23.51862,91.438,633344,636,113,hotel,₹100,car,₹5000,841.16,893.76,sightseeing,cloudy,art exhibition
+448,79,Female,adventure,Gujarat,4,business,₹35000,16764.58,15.753757,-49.609512,20.315044,84.6663,124069,71,790,hostel,₹100,plane,₹5000,561.95,6766.53,sightseeing,sunny,sports event
+449,49,Female,relaxation,Telangana,13,business,₹100,5595.45,23.028454,35.268988,9.290496,97.1583,274994,415,50,vacation rental,₹2000,train,₹1000,590.68,2514.3,vacation,sunny,music festival
+450,28,Genderqueer,cultural,Goa,5,business,₹50000,2144.83,28.864568,89.1366848,8.617585,94.9334,1074841,208,331,hotel,₹500,plane,₹100,414.84,7634.66,sightseeing,rainy,music festival
+451,51,Female,cultural,Telangana,29,family,₹35000,10098.56,20.066042,2.2582125,15.899412,95.2426,518931,292,339,hotel,₹2000,train,₹1000,35.6,8799.78,education,cloudy,art exhibition
+452,56,Male,adventure,Gujarat,29,business,₹50000,35071.83,32.911189,110.797759,26.84152,84.0853,598050,375,241,vacation rental,₹500,plane,₹5000,939.06,1275.91,sightseeing,rainy,music festival
+453,65,Male,cultural,Manipur,23,business,₹5000,19198.85,30.547207,140.6715934,31.838744,91.1875,726284,618,279,hostel,₹1000,train,₹2000,503.78,9946.47,vacation,sunny,sports event
+454,40,Female,cultural,Mizoram,14,vacation,₹2000,43976.23,9.951346,-103.4649786,33.464202,96.1861,342981,600,530,hotel,₹2000,car,₹1000,298.34,9510.58,shopping,rainy,art exhibition
+455,82,Non-binary,relaxation,Himachal Pradesh,18,vacation,₹25000,33936.13,9.212095,119.326773,30.108963,70.4954,564527,176,801,vacation rental,₹500,car,₹5000,590.48,1204.02,education,rainy,sports event
+456,52,Male,cultural,Sikkim,5,business,₹35000,34989.48,17.631901,108.389861,33.656959,95.689,590276,871,902,hostel,₹2000,train,₹2000,381.2,6270.23,education,rainy,art exhibition
+457,84,Male,relaxation,Andhra Pradesh,8,business,₹1000,49045.29,30.322732,12.5516206,23.515603,89.3334,783271,477,965,hotel,₹500,plane,₹2000,473.75,5743.3,shopping,cloudy,art exhibition
+458,55,Female,relaxation,Assam,8,family,"",43945.34,17.046919,130.5635665,33.334627,92.2548,664345,838,723,hostel,₹1000,plane,₹500,414.08,9449.54,sightseeing,rainy,art exhibition
+459,54,Male,relaxation,Mizoram,8,business,₹5000,11526.97,25.191167,125.663981,23.806547,95.9507,600286,694,562,hostel,₹1000,plane,₹5000,57.74,7930.33,vacation,cloudy,music festival
+460,68,Female,relaxation,Himachal Pradesh,12,business,₹35000,3584.01,25.669778,124.3040904,12.639608,69.7135,1074807,111,247,vacation rental,₹2000,train,₹5000,98.85,971.87,hiking,sunny,sports event
+461,46,Female,adventure,Uttar Pradesh,1,business,₹35000,34808.92,31.205698,-95.9964783,28.58103,82.7453,178810,528,147,hostel,₹100,car,₹5000,708.08,503.92,hiking,rainy,art exhibition
+462,60,Male,relaxation,Karnataka,5,vacation,₹10000,47793.11,28.848605,-75.4102538,24.822073,85.0787,311230,29,790,hostel,₹100,train,₹5000,700.82,4139.04,shopping,rainy,art exhibition
+463,85,Female,cultural,Mizoram,3,vacation,₹1000,9426.15,17.715247,-52.6449937,35.130117,95.681,149005,836,784,hotel,₹100,train,₹500,190.75,4475.03,education,sunny,sports event
+464,79,Male,adventure,Assam,2,business,₹100,13564.07,23.716158,-75.128872,25.017368,78.9989,565362,469,112,hostel,₹500,train,₹2000,12.97,7295.76,education,rainy,art exhibition
+465,30,Male,cultural,Punjab,21,business,₹100,42038.52,20.299246,28.3622933,12.028038,72.1598,1063702,313,34,hostel,₹2000,car,₹5000,733.25,3371.36,shopping,cloudy,art exhibition
+466,82,Male,relaxation,Manipur,13,vacation,₹500,4253.74,22.592076,136.6477771,17.474535,90.4516,591063,376,577,vacation rental,₹1000,plane,₹2000,167.31,1066.29,shopping,cloudy,sports event
+467,68,Male,relaxation,Gujarat,14,family,₹50000,34452.61,33.877844,120.167297,11.68397,95.428,482434,875,424,vacation rental,₹2000,car,₹500,61.26,4010.3,shopping,cloudy,music festival
+468,85,Bigender,relaxation,Karnataka,2,family,₹50000,3496.55,15.401317,-8.3584177,12.310527,74.7937,820998,119,285,vacation rental,₹2000,car,₹100,195.49,6074.96,education,rainy,sports event
+469,21,Female,adventure,Himachal Pradesh,28,business,₹50000,34683.97,18.411236,-78.016667,13.780137,77.371,133944,113,375,hostel,₹100,train,₹5000,865.29,9747.07,shopping,sunny,art exhibition
+470,73,Male,adventure,Uttar Pradesh,17,vacation,₹10000,4249.39,20.718101,18.0191452,25.90391,79.5731,1351000,602,814,hotel,₹2000,car,₹100,58.54,9176.35,education,rainy,music festival
+471,42,Female,relaxation,Himachal Pradesh,13,vacation,₹500,17337.96,16.837852,60.8150629,21.891402,90.6709,393915,516,269,hotel,₹1000,train,₹1000,316.09,4517.53,shopping,sunny,sports event
+472,57,Male,adventure,Manipur,10,business,₹2000,35141.29,17.103281,19.3967389,8.141419,78.7597,1264106,712,759,hotel,₹100,car,₹100,438.04,8157.71,shopping,cloudy,art exhibition
+473,84,Female,adventure,Kerala,17,vacation,₹50000,39703.67,18.681235,121.0893745,24.357741,94.402,646382,756,591,vacation rental,₹2000,train,₹100,175.09,7637.02,sightseeing,sunny,sports event
+474,36,Male,cultural,Goa,29,family,₹1000,4026.64,28.854552,-1.0155385,27.818568,83.9228,1117981,69,877,hotel,₹100,car,₹1000,305.23,2989.09,education,rainy,music festival
+475,45,Female,cultural,Jharkhand,16,business,₹1000,46789.29,20.677488,110.5215459,19.231494,87.9103,1451053,124,741,hostel,₹100,plane,₹1000,778.32,4760.77,vacation,rainy,art exhibition
+476,75,Female,cultural,Odisha,26,vacation,"",30933.77,27.004942,123.9914417,20.2536,86.875,306308,858,387,vacation rental,₹500,car,₹2000,888.7,4115.45,education,rainy,sports event
+477,61,Female,cultural,Maharashtra,30,vacation,₹1000,12465.26,19.474246,113.082216,29.680038,91.2169,1111864,765,115,hostel,₹2000,plane,₹5000,672.9,6991.96,vacation,sunny,music festival
+478,46,Female,cultural,Arunachal Pradesh,18,family,₹35000,12622.14,18.925583,47.1792159,30.875327,97.0038,391354,492,163,vacation rental,₹2000,car,₹1000,120.02,9749.49,shopping,cloudy,art exhibition
+479,26,Male,adventure,Uttar Pradesh,9,vacation,₹35000,18751.96,21.131919,-82.8317486,25.911878,75.1692,1265879,509,975,vacation rental,₹1000,train,₹100,476.69,5234.65,hiking,sunny,art exhibition
+480,22,Female,relaxation,Bihar,20,family,₹15000,33144.62,36.346929,46.570133,13.470117,68.9223,641965,663,791,vacation rental,₹100,car,₹100,186.45,472.07,shopping,cloudy,art exhibition
+481,59,Female,cultural,Uttar Pradesh,30,vacation,₹1000,30518.27,8.737068,32.531617,28.841699,84.0865,1382253,527,34,hotel,₹100,plane,₹1000,616.28,8202.79,education,rainy,art exhibition
+482,71,Male,adventure,Tamil Nadu,22,business,₹35000,8421.8,17.055205,-65.9958004,27.074178,91.4464,540203,445,951,vacation rental,₹2000,train,₹100,429.76,8434.03,hiking,rainy,music festival
+483,76,Female,relaxation,Arunachal Pradesh,20,family,₹25000,31286.99,34.739494,-40.1862129,26.215899,95.2947,686888,123,836,vacation rental,₹100,train,₹100,859.57,3886.77,hiking,cloudy,sports event
+484,34,Female,relaxation,Nagaland,3,family,₹35000,45834.53,22.798174,-62.2106241,9.022878,96.0815,817912,269,184,hotel,₹2000,train,₹1000,88.81,2185.03,shopping,cloudy,art exhibition
+485,52,Polygender,adventure,Madhya Pradesh,17,family,"",27551.68,27.475479,85.232941,17.277957,70.8724,133109,395,398,hotel,₹2000,plane,₹2000,879.86,778.51,hiking,cloudy,art exhibition
+486,28,Female,relaxation,Mizoram,21,vacation,₹2000,20541.15,23.22722,22.753461,14.606466,84.3377,387548,377,48,hotel,₹100,train,₹500,378.29,2165.63,education,cloudy,sports event
+487,18,Female,adventure,Sikkim,10,business,₹100,24820.72,27.26462,106.9057439,33.115069,80.2633,1453391,600,328,vacation rental,₹100,train,₹500,26.07,2721.84,hiking,sunny,art exhibition
+488,57,Female,relaxation,Gujarat,15,family,₹35000,23597.13,19.433607,-87.1996084,10.668057,93.3331,1287450,661,651,hotel,₹500,train,₹1000,607.02,3954.47,sightseeing,cloudy,art exhibition
+489,44,Male,adventure,Nagaland,20,business,₹35000,15292.22,28.954889,-117.5664384,23.755756,72.1958,1067967,344,738,hotel,₹500,train,₹5000,785.59,635.67,shopping,cloudy,art exhibition
+490,49,Female,cultural,Punjab,23,family,₹50000,7720.58,11.892983,106.79719,23.488551,93.4575,997001,223,687,hostel,₹1000,car,₹5000,77.86,7054.21,vacation,cloudy,music festival
+491,72,Male,adventure,Jharkhand,7,vacation,₹35000,40209.2,16.236683,-66.2575425,19.698736,75.8953,1463154,188,998,hotel,₹1000,car,₹100,886.83,7771.39,sightseeing,cloudy,sports event
+492,44,Female,relaxation,Tamil Nadu,17,business,₹100,26714.11,16.21539,120.482198,35.040956,93.8413,1471351,564,644,vacation rental,₹2000,car,₹500,364.16,9699.47,hiking,cloudy,art exhibition
+493,46,Female,adventure,Kerala,20,family,₹25000,42525.01,15.440307,46.9368047,14.600682,89.1108,1421650,521,336,vacation rental,₹1000,train,₹2000,648.21,2337.95,shopping,rainy,art exhibition
+494,37,Female,relaxation,Manipur,23,business,₹5000,48140.55,12.88454,100.7724281,35.120096,82.2349,577992,988,834,hostel,₹1000,car,₹100,801.7,2070.88,vacation,rainy,music festival
+495,64,Male,adventure,Manipur,11,business,₹15000,9183.2,25.068155,-7.0390904,16.815807,79.709,881848,974,465,hotel,₹500,car,₹500,736.43,7250.95,education,sunny,art exhibition
+496,62,Female,cultural,Punjab,26,business,₹50000,26553.75,18.082631,108.708991,23.044159,80.1508,656833,146,278,vacation rental,₹1000,plane,₹100,124.3,7018.93,hiking,rainy,art exhibition
+497,22,Female,adventure,Arunachal Pradesh,15,business,₹2000,44486.55,15.825168,121.532286,36.018836,76.0475,450193,891,253,vacation rental,₹1000,train,₹5000,924.01,5107.23,vacation,sunny,art exhibition
+498,71,Male,cultural,Goa,10,business,₹100,22805.64,31.161455,2.0598182,27.164608,88.7151,594466,5,886,hostel,₹2000,plane,₹500,319.19,4005.54,hiking,cloudy,sports event
+499,72,Male,relaxation,Himachal Pradesh,17,business,₹100,34293.81,16.60472,108.4187029,13.79684,76.4724,1130375,191,109,vacation rental,₹500,plane,₹1000,686.74,775.18,education,sunny,music festival
+500,34,Male,adventure,Nagaland,8,family,₹1000,22290.69,14.190836,-78.9,36.744007,74.8252,1280078,514,552,hostel,₹100,plane,₹1000,664.57,2605.3,shopping,sunny,art exhibition
+501,36,Female,relaxation,Haryana,29,vacation,₹10000,7247.79,17.933586,67.44046,31.538476,82.268,1231612,370,687,hostel,₹1000,train,₹500,833.0,1591.8,shopping,rainy,music festival
+502,25,Polygender,relaxation,Uttar Pradesh,4,vacation,"",1932.52,8.145025,112.9884237,18.635569,85.249,260845,644,203,hostel,₹500,train,₹500,125.6,8722.8,hiking,cloudy,music festival
+503,51,Female,cultural,Kerala,29,family,₹25000,33931.64,32.00915,112.9827091,10.602425,73.5281,101440,441,146,hostel,₹1000,plane,₹2000,797.78,9498.61,hiking,rainy,music festival
+504,47,Male,adventure,Uttar Pradesh,12,vacation,₹2000,41972.28,34.437863,56.2482277,27.701313,86.088,1207473,885,460,vacation rental,₹1000,plane,₹500,656.9,7878.93,sightseeing,cloudy,sports event
+505,64,Male,relaxation,Madhya Pradesh,21,family,₹5000,2175.71,22.077043,100.222545,31.911956,94.9873,1078752,815,801,vacation rental,₹500,plane,₹100,747.82,8511.43,education,cloudy,music festival
+506,64,Female,adventure,Mizoram,18,family,₹10000,25169.79,26.074815,27.776119,29.136015,89.7186,1438032,307,920,vacation rental,₹1000,train,₹100,829.14,4025.74,shopping,sunny,music festival
+507,19,Male,relaxation,Madhya Pradesh,4,family,₹15000,20228.33,34.82371,123.5810068,12.128591,82.4555,1276827,112,273,hostel,₹500,car,₹100,29.08,9483.72,education,rainy,music festival
+508,74,Female,adventure,Odisha,7,vacation,"",39910.21,24.63042,112.6326321,18.133715,72.1552,1037826,830,52,vacation rental,₹1000,car,₹1000,158.81,3692.0,shopping,cloudy,sports event
+509,60,Female,cultural,Karnataka,28,family,₹1000,35100.33,34.955816,21.0143445,18.248836,85.1062,353334,949,937,vacation rental,₹1000,car,₹2000,573.06,1204.62,sightseeing,rainy,sports event
+510,64,Female,cultural,Gujarat,27,business,₹100,41324.36,9.543164,139.2821897,31.126188,90.9337,1094317,467,449,hotel,₹2000,car,₹1000,974.17,9829.57,education,cloudy,art exhibition
+511,21,Female,relaxation,Nagaland,8,vacation,₹2000,20187.99,18.215271,-9.3430272,12.904068,85.5461,930027,867,890,hotel,₹1000,car,₹5000,174.03,65.16,sightseeing,sunny,music festival
+512,56,Male,adventure,Arunachal Pradesh,28,business,₹2000,44220.71,16.363998,106.8915008,30.079939,93.4371,762885,426,512,hostel,₹1000,plane,₹5000,848.74,8923.12,education,sunny,sports event
+513,68,Female,adventure,Punjab,5,vacation,₹100,21258.54,29.603879,-5.4057358,20.498362,93.2672,175237,3,976,vacation rental,₹1000,train,₹5000,784.12,8269.57,sightseeing,rainy,music festival
+514,81,Female,relaxation,Jharkhand,6,family,₹35000,23276.98,17.862335,-7.5572231,28.502495,83.9918,774593,935,557,hostel,₹2000,car,₹1000,136.8,1787.51,shopping,rainy,sports event
+515,26,Female,relaxation,Tamil Nadu,15,vacation,₹35000,29073.28,19.393473,34.7518631,23.434719,83.5746,888095,694,536,hostel,₹2000,train,₹2000,36.23,8329.03,hiking,sunny,sports event
+516,74,Genderqueer,adventure,Kerala,19,business,₹5000,3206.64,33.557246,-71.936914,16.051317,94.9227,1226867,835,23,hostel,₹500,train,₹1000,930.56,6194.09,hiking,sunny,music festival
+517,42,Male,cultural,Chhattisgarh,21,family,₹35000,12234.25,25.855465,16.5231662,9.562801,73.1425,979278,988,828,hostel,₹2000,train,₹1000,620.25,3780.88,hiking,sunny,sports event
+518,29,Female,relaxation,Himachal Pradesh,4,vacation,₹500,35544.24,24.847306,35.364922,26.384852,87.5491,811054,696,745,hotel,₹500,plane,₹2000,383.49,4930.29,sightseeing,cloudy,sports event
+519,46,Female,relaxation,Himachal Pradesh,6,business,₹500,12468.67,20.178309,6.5319506,22.173667,96.8695,596185,134,567,hostel,₹1000,train,₹2000,271.47,9517.12,hiking,cloudy,sports event
+520,67,Female,adventure,Mizoram,9,business,"",14815.59,22.266306,116.231416,12.648005,78.8282,935004,263,505,vacation rental,₹100,car,₹100,845.28,4204.77,shopping,cloudy,music festival
+521,20,Male,adventure,Assam,23,vacation,₹35000,46288.11,27.905908,113.240664,22.810817,90.9189,1049052,622,76,hostel,₹2000,train,₹1000,559.74,8661.86,hiking,sunny,art exhibition
+522,48,Female,cultural,Assam,25,business,"",10099.22,17.050496,33.6035054,11.218529,88.7053,1367335,162,565,hostel,₹500,train,₹5000,177.49,3728.61,sightseeing,cloudy,music festival
+523,19,Female,cultural,Tamil Nadu,19,vacation,₹2000,6803.57,17.807997,110.494385,24.241995,70.1165,1248937,808,297,hostel,₹100,car,₹500,303.18,5499.66,hiking,rainy,music festival
+524,67,Female,cultural,Odisha,24,family,₹35000,8959.35,9.016928,15.1073919,18.042532,96.8484,521059,668,91,vacation rental,₹100,train,₹100,860.34,1502.33,sightseeing,cloudy,sports event
+525,66,Male,relaxation,Kerala,3,business,₹50000,10191.44,36.524383,103.40391,32.171726,84.9628,678794,747,335,hotel,₹2000,train,₹5000,787.48,5945.3,vacation,rainy,art exhibition
+526,46,Male,relaxation,Telangana,23,family,₹100,35578.24,9.857961,120.3086809,14.264094,83.6562,1408838,83,254,hostel,₹2000,car,₹5000,820.65,6929.99,vacation,cloudy,art exhibition
+527,48,Agender,relaxation,Punjab,24,family,₹1000,29530.4,28.627597,32.0837445,14.72801,97.0836,308826,919,258,hotel,₹1000,train,₹100,487.49,1914.16,sightseeing,rainy,music festival
+528,50,Male,relaxation,Rajasthan,25,family,₹25000,14542.15,33.184128,126.3921664,35.809459,93.1759,1088815,73,605,vacation rental,₹2000,car,₹500,713.76,4730.62,sightseeing,rainy,music festival
+529,18,Male,cultural,Punjab,18,family,₹5000,17561.48,17.123208,23.2844139,26.6642,95.1437,1479457,365,650,hotel,₹2000,car,₹1000,375.52,3175.41,hiking,cloudy,music festival
+530,60,Female,relaxation,Mizoram,18,business,₹25000,16778.68,34.634611,12.4765885,33.082816,97.2954,446569,278,522,vacation rental,₹1000,plane,₹500,569.01,9418.2,sightseeing,sunny,sports event
+531,33,Female,cultural,Mizoram,1,family,₹1000,25026.77,25.590383,104.627636,11.320784,91.0647,777759,51,415,hotel,₹500,train,₹5000,240.38,3759.27,hiking,rainy,music festival
+532,80,Male,adventure,Punjab,9,family,₹1000,48389.9,32.566116,111.1682495,32.362847,93.9071,352180,344,738,hotel,₹1000,car,₹500,217.93,7785.47,hiking,rainy,music festival
+533,51,Female,cultural,Goa,22,family,₹15000,4265.19,19.639254,120.7806412,11.282891,79.9851,1363394,796,356,vacation rental,₹100,plane,₹5000,131.61,2717.04,vacation,rainy,sports event
+534,66,Male,relaxation,Gujarat,2,family,₹2000,41028.18,33.236627,116.083951,27.27247,88.8456,1061057,452,337,hostel,₹500,train,₹100,294.36,7635.16,vacation,cloudy,art exhibition
+535,49,Female,adventure,Bihar,6,vacation,₹35000,40230.98,25.510934,123.7669004,22.094893,69.805,1210305,55,730,hotel,₹100,plane,₹2000,319.54,925.35,hiking,cloudy,sports event
+536,57,Polygender,cultural,Telangana,15,business,₹35000,38449.57,13.104907,25.15,15.183203,87.9402,17601,661,524,vacation rental,₹100,plane,₹2000,959.82,3100.42,shopping,rainy,music festival
+537,75,Male,cultural,Madhya Pradesh,29,business,₹100,47573.19,14.317057,39.645666,36.170278,89.4768,610153,65,177,hostel,₹500,car,₹100,361.39,8257.6,shopping,rainy,sports event
+538,81,Female,adventure,Mizoram,20,family,"",37798.57,11.816692,107.8487279,24.692427,75.436,159158,136,910,hotel,₹100,car,₹500,900.6,5699.98,education,sunny,sports event
+539,82,Male,cultural,Nagaland,3,vacation,₹50000,8766.27,8.434616,113.2193846,21.844159,84.0558,333204,887,724,hotel,₹100,train,₹500,614.67,1779.51,hiking,rainy,art exhibition
+540,19,Male,cultural,Rajasthan,13,vacation,₹5000,38696.3,20.294048,-91.5078771,27.834009,79.4743,1414564,995,63,hotel,₹1000,plane,₹100,113.5,910.46,sightseeing,sunny,art exhibition
+541,21,Male,cultural,Goa,28,vacation,₹25000,29440.22,36.268115,-85.75,23.590517,72.7312,707321,260,424,hotel,₹2000,car,₹1000,495.91,8522.23,education,rainy,music festival
+542,50,Male,adventure,Madhya Pradesh,21,family,₹10000,46617.83,21.514573,168.3312156,22.290054,77.3679,189217,993,872,hostel,₹500,train,₹5000,722.26,5877.77,hiking,sunny,art exhibition
+543,33,Non-binary,adventure,Tamil Nadu,7,business,₹100,46256.49,19.25448,-73.8563741,24.20645,91.8863,913550,639,27,hotel,₹500,car,₹2000,540.01,4047.37,education,rainy,art exhibition
+544,66,Female,adventure,Manipur,21,vacation,₹10000,7884.2,34.782178,-8.4531054,26.302542,72.1463,997397,432,572,hotel,₹1000,car,₹1000,508.37,2830.96,sightseeing,rainy,sports event
+545,31,Agender,cultural,Manipur,13,business,₹25000,28330.29,9.169281,115.751364,18.217226,70.7867,1052806,376,148,vacation rental,₹1000,train,₹500,411.31,3123.84,shopping,cloudy,music festival
+546,34,Male,adventure,Bihar,8,business,₹50000,47501.54,35.11066,111.2695981,34.867485,94.4481,971242,819,959,vacation rental,₹100,car,₹2000,885.81,5641.03,education,cloudy,art exhibition
+547,57,Bigender,relaxation,Kerala,15,vacation,₹50000,19021.8,35.25266,117.430061,34.447608,80.3682,935166,291,82,hostel,₹1000,plane,₹1000,788.04,8673.84,sightseeing,rainy,sports event
+548,30,Female,relaxation,Madhya Pradesh,30,vacation,₹2000,31900.65,17.387715,121.738421,36.568833,81.6959,782518,843,876,vacation rental,₹1000,car,₹5000,291.18,7257.46,hiking,rainy,sports event
+549,59,Female,relaxation,Karnataka,18,vacation,₹35000,2416.29,19.367304,-42.1572702,36.565143,84.3091,456433,327,590,hotel,₹1000,plane,₹2000,522.26,4456.39,hiking,cloudy,music festival
+550,54,Polygender,relaxation,Maharashtra,30,business,₹2000,2704.74,33.575288,-58.5017947,24.109815,88.1531,551781,724,624,hotel,₹2000,car,₹2000,661.93,2199.44,sightseeing,cloudy,sports event
+551,29,Female,adventure,Jharkhand,17,vacation,₹10000,45621.04,11.321314,28.0739477,29.574763,78.7074,369918,403,428,hotel,₹500,plane,₹2000,817.06,6661.78,shopping,sunny,music festival
+552,20,Male,adventure,Chhattisgarh,5,business,"",32566.54,27.787208,38.9381031,18.947033,93.6363,1467590,368,797,hostel,₹1000,plane,₹5000,102.76,2117.47,sightseeing,rainy,art exhibition
+553,80,Male,cultural,Mizoram,29,family,₹10000,24562.6,22.087834,81.239566,23.122086,82.3223,428514,428,782,hotel,₹500,train,₹100,798.92,7764.41,education,rainy,sports event
+554,35,Female,cultural,Meghalaya,29,family,"",1615.62,12.486323,117.702372,28.004263,82.2796,1149297,652,83,vacation rental,₹2000,train,₹5000,439.6,6148.91,sightseeing,cloudy,art exhibition
+555,74,Male,relaxation,Himachal Pradesh,19,vacation,₹35000,4045.52,31.118196,-157.7019881,25.890742,88.373,1432381,200,628,vacation rental,₹500,plane,₹1000,333.02,5180.03,hiking,cloudy,art exhibition
+556,18,Female,cultural,Maharashtra,25,business,₹5000,37545.63,15.302185,127.4872135,13.129595,93.4076,492548,727,91,vacation rental,₹500,train,₹100,492.92,5895.66,hiking,sunny,sports event
+557,58,Female,cultural,Telangana,18,family,₹35000,5803.24,20.268347,-51.1695824,36.571862,76.4234,52906,932,561,hotel,₹500,car,₹100,940.21,5717.9,hiking,rainy,sports event
+558,55,Male,relaxation,Telangana,30,family,₹15000,40535.58,15.705374,107.6200524,11.619547,92.8908,1043505,170,374,hotel,₹500,plane,₹100,436.66,9356.07,shopping,cloudy,music festival
+559,36,Male,cultural,Gujarat,17,family,₹25000,37698.01,31.929517,12.5720689,19.912342,74.5487,447490,916,474,vacation rental,₹100,car,₹1000,570.29,5557.25,education,rainy,art exhibition
+560,26,Male,cultural,Gujarat,4,vacation,₹35000,7175.49,21.703107,112.851831,8.937047,75.3361,1261652,351,788,vacation rental,₹500,car,₹2000,46.75,8870.65,shopping,sunny,music festival
+561,61,Female,adventure,Mizoram,20,vacation,₹50000,20767.2,27.047483,120.765351,30.878024,75.3615,1049350,256,294,hotel,₹100,plane,₹5000,572.27,414.33,shopping,sunny,music festival
+562,43,Non-binary,relaxation,Goa,13,vacation,"",35057.21,20.454722,120.7050032,16.89144,88.9539,913408,741,685,hostel,₹2000,train,₹1000,269.17,2333.1,vacation,cloudy,music festival
+563,37,Male,adventure,Manipur,5,vacation,₹500,36843.49,30.421739,113.12873,30.865783,91.8087,1170414,862,1,hotel,₹2000,plane,₹5000,169.48,4791.81,sightseeing,rainy,music festival
+564,58,Female,relaxation,Manipur,20,vacation,₹50000,17762.99,32.602357,12.8778526,27.217123,72.5181,910961,41,336,vacation rental,₹2000,train,₹2000,459.64,2963.82,hiking,cloudy,sports event
+565,48,Male,adventure,Kerala,23,business,₹50000,9993.59,11.143968,81.7131828,34.176069,96.7476,1180711,152,335,hotel,₹500,car,₹500,454.31,1894.75,shopping,sunny,sports event
+566,37,Female,adventure,Chhattisgarh,19,business,₹100,17612.29,20.396998,33.0817144,9.477118,76.134,1117625,651,372,vacation rental,₹100,train,₹500,629.48,2745.13,hiking,cloudy,sports event
+567,82,Female,cultural,Punjab,5,family,₹1000,35398.46,17.489749,17.9981495,35.185786,76.6198,1369189,754,886,vacation rental,₹2000,plane,₹5000,925.06,1770.75,sightseeing,cloudy,music festival
+568,33,Male,relaxation,Andhra Pradesh,18,vacation,₹15000,41587.92,18.813963,-67.329117,25.15136,74.9902,823734,191,327,vacation rental,₹2000,train,₹500,353.74,7585.07,hiking,cloudy,sports event
+569,22,Male,cultural,Karnataka,14,business,₹50000,4459.74,23.470868,94.571633,26.596696,72.8598,971153,959,443,vacation rental,₹100,train,₹500,687.71,4652.73,hiking,sunny,music festival
+570,21,Female,relaxation,Odisha,19,vacation,₹35000,31302.77,21.839112,-7.7452871,8.061233,69.3222,697318,925,720,vacation rental,₹1000,car,₹500,981.59,65.51,education,rainy,art exhibition
+571,18,Female,relaxation,Kerala,14,family,₹100,5145.95,34.319758,106.9235943,17.980472,93.6442,873409,599,802,hotel,₹1000,plane,₹2000,561.89,475.26,sightseeing,rainy,art exhibition
+572,56,Male,cultural,Madhya Pradesh,5,vacation,₹35000,14482.87,19.024048,-11.951925,35.75119,91.424,1381372,662,70,vacation rental,₹1000,car,₹100,956.51,7524.11,education,cloudy,art exhibition
+573,79,Male,adventure,Bihar,10,vacation,₹100,29111.0,20.304084,92.2039933,33.992256,72.0011,489002,386,611,hostel,₹1000,plane,₹1000,118.77,5840.98,shopping,sunny,sports event
+574,84,Male,cultural,Meghalaya,10,business,₹500,30520.86,36.686075,118.803753,10.517704,71.8722,455514,359,562,hotel,₹1000,car,₹5000,745.15,1867.42,education,rainy,art exhibition
+575,44,Female,cultural,Maharashtra,17,vacation,₹1000,23232.89,21.600666,9.9637931,8.433966,84.0395,1104664,230,154,hotel,₹500,car,₹5000,946.3,5810.44,shopping,sunny,sports event
+576,19,Male,relaxation,Andhra Pradesh,6,family,₹35000,49641.97,26.389834,47.9897691,13.714575,73.4957,1345812,744,596,hotel,₹2000,car,₹100,4.2,9655.33,hiking,rainy,sports event
+577,69,Female,adventure,Kerala,20,family,₹100,18348.74,32.571044,126.9568209,24.347288,91.8124,922188,250,476,vacation rental,₹2000,car,₹500,963.67,5028.06,vacation,rainy,art exhibition
+578,84,Male,cultural,Telangana,17,family,₹100,43523.07,17.32189,17.3316667,31.096596,93.7824,707174,701,336,hostel,₹500,car,₹100,350.9,2677.31,shopping,rainy,music festival
+579,18,Non-binary,cultural,Uttar Pradesh,25,family,₹10000,4062.71,15.558891,121.0589081,18.832432,69.7605,1229202,163,96,hostel,₹500,car,₹100,700.42,1722.61,shopping,rainy,music festival
+580,48,Male,adventure,Madhya Pradesh,19,vacation,₹5000,17517.98,35.928043,68.6593883,34.898874,86.083,911719,3,432,hostel,₹2000,plane,₹1000,268.04,1597.12,education,cloudy,sports event
+581,23,Female,cultural,Mizoram,4,business,₹10000,27923.56,31.941889,32.5004914,25.139406,95.698,762874,449,356,vacation rental,₹500,car,₹100,728.6,976.41,sightseeing,rainy,sports event
+582,73,Male,relaxation,Arunachal Pradesh,29,vacation,₹50000,30475.06,21.636759,120.5160702,18.981863,69.5642,1163183,88,878,vacation rental,₹100,car,₹5000,572.85,8227.83,shopping,sunny,music festival
+583,83,Female,adventure,Tamil Nadu,27,business,₹2000,2028.59,33.561432,15.9193188,11.068903,85.0844,1368083,188,845,vacation rental,₹1000,car,₹1000,283.14,8710.68,shopping,cloudy,art exhibition
+584,28,Male,cultural,Assam,18,vacation,₹35000,24643.19,36.210619,20.6832469,25.964003,96.415,822317,919,651,hotel,₹1000,plane,₹100,152.53,4571.93,sightseeing,cloudy,sports event
+585,77,Female,adventure,Haryana,7,vacation,₹50000,11188.45,16.254164,116.451187,24.978452,88.3464,1077978,470,934,hotel,₹2000,train,₹500,922.39,8758.33,vacation,sunny,art exhibition
+586,34,Male,adventure,Tamil Nadu,20,family,₹100,48136.75,32.008742,7.6710889,25.718852,95.8895,576009,518,315,vacation rental,₹500,train,₹1000,12.77,5726.04,vacation,cloudy,art exhibition
+587,27,Male,cultural,Maharashtra,14,business,₹1000,46442.57,28.085273,100.330856,13.956409,71.5112,1006987,442,556,hotel,₹100,train,₹2000,468.08,8524.97,shopping,rainy,music festival
+588,34,Female,adventure,Manipur,19,business,₹35000,34900.23,29.030335,45.6316463,23.175073,94.7056,475796,165,144,vacation rental,₹1000,train,₹1000,245.37,7251.64,education,sunny,art exhibition
+589,68,Male,relaxation,Assam,27,family,₹10000,14650.92,35.348277,106.2522143,8.43668,74.5637,1133837,486,981,vacation rental,₹2000,train,₹1000,370.15,2440.41,shopping,sunny,sports event
+590,81,Male,cultural,Bihar,20,vacation,₹10000,14028.75,10.795451,2.2558072,31.128133,80.0933,681313,835,549,vacation rental,₹500,car,₹100,761.36,6845.85,sightseeing,cloudy,art exhibition
+591,63,Male,adventure,Rajasthan,21,vacation,₹5000,10991.96,31.950788,120.764679,24.022278,81.0613,1380774,124,954,hotel,₹500,plane,₹500,52.56,390.21,sightseeing,cloudy,music festival
+592,55,Male,relaxation,Uttar Pradesh,11,vacation,₹50000,31478.51,35.774898,120.5989577,18.354758,78.5629,132358,946,503,hostel,₹100,plane,₹1000,384.18,398.59,shopping,rainy,art exhibition
+593,39,Female,adventure,Andhra Pradesh,25,vacation,₹50000,33062.25,14.196196,103.929926,10.849506,76.7398,90920,109,97,vacation rental,₹1000,plane,₹100,323.07,9856.37,sightseeing,rainy,music festival
+594,46,Female,adventure,Kerala,11,business,₹5000,5319.18,11.014552,1.032621,24.550619,79.8083,843154,308,934,vacation rental,₹500,train,₹100,792.56,2234.63,sightseeing,cloudy,music festival
+595,42,Male,relaxation,Tamil Nadu,12,vacation,₹1000,31246.15,22.324098,15.8099824,11.48203,78.9919,964234,946,22,hostel,₹1000,train,₹5000,336.93,6249.23,sightseeing,sunny,sports event
+596,19,Polygender,adventure,Himachal Pradesh,16,family,"",40141.86,16.211216,120.9617948,18.19573,79.9945,1220202,101,880,hostel,₹2000,train,₹1000,808.95,7608.09,hiking,rainy,music festival
+597,81,Female,cultural,Assam,9,business,₹15000,44363.93,8.316046,132.8288963,32.658762,70.6772,470111,972,814,vacation rental,₹2000,train,₹100,537.89,9855.85,sightseeing,cloudy,art exhibition
+598,76,Female,cultural,Madhya Pradesh,5,family,₹100,46852.71,21.939294,120.8889291,16.457185,78.534,235046,71,80,vacation rental,₹1000,plane,₹5000,457.02,4683.08,sightseeing,cloudy,music festival
+599,69,Female,relaxation,Nagaland,22,business,₹5000,44871.05,34.790049,107.0716609,10.206614,80.0659,988309,125,822,vacation rental,₹500,train,₹500,308.45,6898.49,shopping,cloudy,art exhibition
+600,19,Female,adventure,Maharashtra,27,business,₹10000,4715.3,11.687549,-41.6809724,22.836688,77.7409,83270,437,484,hotel,₹100,car,₹5000,490.48,8085.5,vacation,rainy,sports event
+601,69,Male,relaxation,Sikkim,19,vacation,₹100,35706.69,26.178763,-64.2145666,9.706862,91.6233,1278750,935,470,hostel,₹100,car,₹100,887.48,6196.23,shopping,cloudy,sports event
+602,48,Male,relaxation,Jharkhand,29,vacation,₹2000,47531.3,18.869223,22.9223719,27.537826,70.5527,724099,306,949,vacation rental,₹100,plane,₹2000,308.63,7314.94,shopping,cloudy,sports event
+603,24,Male,relaxation,Kerala,10,vacation,₹10000,47741.08,29.132259,112.132488,31.61654,77.89,1491250,104,762,vacation rental,₹2000,plane,₹100,998.0,9828.13,hiking,sunny,art exhibition
+604,64,Female,relaxation,Kerala,6,vacation,₹25000,13812.49,33.818088,117.3616476,30.0207,73.6776,871595,520,783,hostel,₹100,car,₹100,151.56,7.24,vacation,rainy,art exhibition
+605,55,Female,cultural,Kerala,8,family,₹100,20962.96,28.440836,103.0010752,13.776005,95.1997,33739,439,954,vacation rental,₹500,plane,₹2000,312.4,3910.7,hiking,sunny,sports event
+606,62,Male,relaxation,Meghalaya,29,family,₹1000,10620.28,21.13127,115.2199829,8.692904,87.1107,620821,264,386,hotel,₹2000,train,₹100,816.05,2424.48,shopping,rainy,sports event
+607,36,Female,relaxation,Arunachal Pradesh,19,family,₹10000,8209.14,22.593266,-62.6480207,34.434072,73.7394,1220982,59,114,hostel,₹2000,train,₹2000,104.32,4512.41,vacation,sunny,music festival
+608,48,Agender,relaxation,Chhattisgarh,20,family,₹35000,38184.5,30.517705,112.4678779,28.863422,87.3776,1184296,414,580,hotel,₹100,plane,₹5000,294.72,9763.84,sightseeing,cloudy,music festival
+609,75,Male,adventure,Meghalaya,26,vacation,₹25000,8054.67,8.487413,-54.9322782,28.369414,96.0457,1312733,5,696,hotel,₹500,car,₹1000,824.06,8464.17,shopping,cloudy,art exhibition
+610,78,Female,adventure,Bihar,21,family,₹35000,29629.3,16.27178,110.6168921,20.782489,75.2637,1049410,683,342,hostel,₹500,train,₹500,936.38,2119.57,hiking,sunny,music festival
+611,67,Male,cultural,Gujarat,5,business,₹500,19021.94,21.353463,112.232692,19.587982,97.3591,1474527,347,544,hostel,₹500,plane,₹1000,588.12,9996.35,hiking,cloudy,art exhibition
+612,27,Female,cultural,Gujarat,16,vacation,₹10000,30622.3,35.804029,34.0641419,22.68428,81.4478,380335,787,986,vacation rental,₹100,plane,₹2000,982.43,3223.99,shopping,sunny,art exhibition
+613,31,Polygender,relaxation,Goa,6,family,₹2000,37510.06,20.179713,99.8991604,30.350245,69.2151,1221571,32,898,vacation rental,₹1000,train,₹5000,504.63,5332.26,vacation,cloudy,sports event
+614,32,Female,cultural,Chhattisgarh,13,business,₹5000,34890.04,21.22278,112.4716488,26.863614,79.6557,730370,168,636,hotel,₹2000,plane,₹5000,130.39,5129.37,vacation,sunny,sports event
+615,52,Male,adventure,Uttar Pradesh,13,vacation,₹35000,29403.92,34.93088,108.6353764,36.700969,72.9488,1167940,760,963,hotel,₹1000,plane,₹500,62.32,5073.67,shopping,sunny,music festival
+616,37,Female,relaxation,Haryana,24,vacation,₹50000,49061.48,30.64599,119.9306863,11.788929,71.9733,530463,996,372,hotel,₹500,train,₹1000,192.24,9493.13,vacation,sunny,art exhibition
+617,55,Male,relaxation,Assam,30,family,₹35000,1212.97,11.76172,118.6702302,12.710439,79.6788,649314,566,907,vacation rental,₹2000,train,₹500,235.5,3148.38,vacation,sunny,art exhibition
+618,23,Female,relaxation,Punjab,20,vacation,₹500,365.47,31.134859,124.4319309,9.950901,78.6423,607233,89,464,hotel,₹100,car,₹5000,986.48,8990.19,sightseeing,rainy,music festival
+619,40,Female,adventure,Karnataka,4,family,₹100,7779.63,8.743702,54.8763087,30.739363,83.0023,420462,398,212,hotel,₹2000,plane,₹1000,795.79,6815.13,sightseeing,sunny,art exhibition
+620,18,Female,adventure,Gujarat,27,vacation,₹2000,39566.68,8.295343,23.5966577,28.140419,95.0433,993634,888,639,hotel,₹1000,car,₹100,419.49,9720.31,sightseeing,sunny,music festival
+621,65,Male,adventure,Haryana,26,family,₹2000,30055.91,26.992699,121.4494622,27.249782,71.3363,576521,658,366,hostel,₹1000,train,₹5000,432.44,4778.34,sightseeing,rainy,music festival
+622,81,Polygender,relaxation,Meghalaya,30,family,₹5000,437.85,26.19904,111.467674,22.065582,82.7584,1083480,585,640,hostel,₹100,car,₹500,901.08,2827.68,sightseeing,cloudy,sports event
+623,79,Female,relaxation,Bihar,23,business,"",31511.92,33.089544,45.8303591,33.643266,76.6556,1091126,427,73,vacation rental,₹500,train,₹5000,906.39,2036.06,vacation,sunny,art exhibition
+624,60,Female,relaxation,Sikkim,2,business,₹5000,44516.89,17.83743,-7.8210803,32.311783,72.6165,226090,10,345,hostel,₹500,plane,₹100,856.86,7316.02,hiking,cloudy,art exhibition
+625,33,Genderfluid,relaxation,Haryana,12,business,"",34349.37,32.289444,122.0752224,25.060441,88.6651,1484600,762,973,vacation rental,₹1000,train,₹5000,914.24,7721.93,education,rainy,sports event
+626,63,Female,cultural,Haryana,30,business,₹50000,35650.24,31.549074,23.7282719,36.413825,86.1392,523911,982,299,vacation rental,₹2000,train,₹2000,754.17,7300.41,hiking,rainy,art exhibition
+627,69,Male,cultural,Bihar,8,vacation,₹500,33368.61,12.44567,17.2093329,14.490579,83.9923,863794,9,376,hostel,₹500,car,₹2000,452.65,8416.22,sightseeing,rainy,sports event
+628,33,Male,adventure,Gujarat,1,vacation,₹2000,41116.04,27.735422,42.5044843,34.337069,73.1871,609067,579,524,vacation rental,₹100,plane,₹100,610.13,4789.02,sightseeing,cloudy,music festival
+629,33,Male,adventure,Sikkim,16,vacation,₹15000,39779.74,31.222321,123.2854675,28.141211,72.5593,262798,962,746,vacation rental,₹2000,plane,₹2000,875.31,3037.13,sightseeing,sunny,sports event
+630,39,Male,relaxation,Meghalaya,30,family,₹10000,49277.33,33.533386,-69.8932436,10.884543,75.1017,1145168,400,950,vacation rental,₹500,train,₹500,816.56,9096.98,sightseeing,rainy,art exhibition
+631,61,Female,adventure,Uttar Pradesh,19,business,₹50000,35269.28,35.384411,137.0128051,25.89232,96.2374,519890,652,357,vacation rental,₹500,plane,₹500,962.33,3455.91,education,cloudy,sports event
+632,22,Male,adventure,Andhra Pradesh,24,vacation,₹5000,38876.36,30.515217,-9.0774591,32.377466,93.7286,624361,547,897,hotel,₹2000,car,₹5000,437.25,6639.49,sightseeing,cloudy,music festival
+633,56,Genderqueer,adventure,Assam,1,family,₹10000,32107.43,16.518625,140.3438019,13.072573,95.3556,1052779,490,655,hostel,₹2000,train,₹2000,720.9,5503.43,hiking,sunny,music festival
+634,27,Bigender,relaxation,Himachal Pradesh,20,business,₹50000,23522.64,15.60434,113.875245,33.731062,97.2939,530948,344,709,vacation rental,₹1000,train,₹5000,444.2,7245.74,education,sunny,art exhibition
+635,59,Agender,relaxation,Madhya Pradesh,8,family,₹1000,404.58,16.751367,117.393358,17.697933,83.3815,977586,903,298,hostel,₹1000,car,₹1000,604.01,953.81,vacation,cloudy,art exhibition
+636,83,Female,adventure,Haryana,27,family,₹35000,21869.02,19.187306,-52.6711356,34.054706,88.2426,43464,901,385,hotel,₹1000,car,₹100,780.61,9694.21,vacation,cloudy,sports event
+637,22,Female,relaxation,Meghalaya,21,family,₹1000,44754.65,26.859817,20.2030313,16.589294,69.5838,1318576,695,441,hostel,₹1000,car,₹5000,548.72,9050.63,education,rainy,music festival
+638,56,Female,relaxation,Madhya Pradesh,23,business,₹5000,11078.95,29.034823,20.2599325,34.147318,87.2229,1165946,77,786,hotel,₹2000,plane,₹500,312.28,9641.89,education,cloudy,sports event
+639,82,Female,cultural,Karnataka,22,business,₹35000,23434.04,27.466208,45.4045219,11.64631,91.3978,156117,626,890,vacation rental,₹500,train,₹2000,205.1,5950.04,shopping,rainy,music festival
+640,28,Male,cultural,Manipur,12,family,"",8903.28,26.469546,41.1157847,32.23139,90.5514,479596,231,119,hotel,₹100,train,₹1000,742.87,231.5,sightseeing,sunny,sports event
+641,61,Female,adventure,Manipur,15,business,₹15000,18544.14,8.668606,121.362315,9.385981,73.1258,1461865,783,207,vacation rental,₹2000,train,₹100,616.16,4557.77,education,rainy,art exhibition
+642,71,Male,adventure,Sikkim,7,family,₹10000,26977.44,18.287591,-46.4970116,29.328986,82.1059,1007375,211,887,vacation rental,₹100,train,₹1000,903.92,9315.1,education,cloudy,sports event
+643,49,Male,adventure,Assam,4,vacation,"",28063.78,12.901592,-77.6079126,23.464834,80.6784,257345,35,427,hostel,₹500,plane,₹500,836.17,3835.73,hiking,cloudy,art exhibition
+644,72,Bigender,cultural,Chhattisgarh,22,business,₹35000,29643.69,15.626141,-9.3854336,12.658913,71.6853,739664,344,245,hostel,₹500,car,₹2000,690.5,1963.25,hiking,rainy,art exhibition
+645,70,Male,relaxation,Odisha,21,family,₹1000,7134.19,27.095397,-81.8115051,32.809461,96.9024,191646,979,984,hotel,₹100,car,₹1000,597.0,3072.52,education,cloudy,sports event
+646,37,Male,relaxation,Meghalaya,4,vacation,₹2000,38746.73,15.975385,124.302017,20.704574,92.2174,917469,355,296,vacation rental,₹100,train,₹100,759.81,7882.43,sightseeing,rainy,music festival
+647,74,Male,relaxation,Maharashtra,5,business,₹35000,3399.44,36.814791,121.261886,31.9859,80.4284,454212,311,723,hotel,₹100,car,₹1000,836.87,9487.9,education,rainy,music festival
+648,44,Female,relaxation,Mizoram,2,family,₹1000,16579.73,24.098772,22.38333,9.342002,85.817,985789,689,814,vacation rental,₹1000,plane,₹100,807.72,4374.42,education,rainy,music festival
+649,35,Female,cultural,Madhya Pradesh,5,family,₹10000,47982.24,11.05464,8.9354031,9.529211,83.8202,905494,17,394,hostel,₹1000,car,₹500,129.17,194.67,vacation,rainy,sports event
+650,67,Female,cultural,Himachal Pradesh,25,vacation,₹25000,26133.37,32.922669,120.7293,21.428969,77.4492,330061,33,840,vacation rental,₹2000,car,₹2000,734.01,840.92,education,rainy,sports event
+651,50,Female,cultural,Assam,9,vacation,₹500,49214.21,24.530814,-84.5050878,19.759442,90.2876,314343,972,147,hotel,₹500,car,₹5000,385.24,8796.43,sightseeing,rainy,sports event
+652,84,Male,relaxation,Maharashtra,10,family,₹5000,17144.97,22.032835,99.1677572,32.454479,89.0055,988220,649,491,hotel,₹2000,train,₹500,869.78,2606.04,vacation,sunny,art exhibition
+653,71,Bigender,relaxation,Goa,1,business,₹25000,39355.96,33.117738,15.4900234,11.864913,91.6113,81820,508,934,hostel,₹100,train,₹500,198.03,8009.36,vacation,cloudy,sports event
+654,19,Female,adventure,Mizoram,27,vacation,₹15000,16935.47,29.398388,-54.2673083,18.845592,71.44,52486,78,591,hotel,₹1000,plane,₹5000,98.31,5040.47,education,sunny,music festival
+655,75,Female,cultural,Bihar,21,business,₹100,48457.38,29.570446,33.366867,30.758664,75.7194,1018048,740,74,hostel,₹500,car,₹5000,242.63,254.89,sightseeing,sunny,art exhibition
+656,51,Agender,cultural,Goa,1,business,₹35000,38788.6,23.029294,2.16667,31.832458,80.2135,625394,622,295,vacation rental,₹100,plane,₹100,43.3,2216.57,vacation,sunny,music festival
+657,32,Female,adventure,Himachal Pradesh,17,vacation,₹5000,805.95,13.277505,118.627894,14.260844,88.5203,1270088,10,277,hotel,₹2000,plane,₹2000,42.55,89.21,education,rainy,music festival
+658,42,Polygender,relaxation,Bihar,3,business,"",15047.2,26.472564,106.4641459,25.745604,72.7034,585613,544,232,hotel,₹1000,train,₹5000,537.02,386.58,hiking,cloudy,music festival
+659,60,Female,cultural,Assam,7,business,₹35000,12780.25,32.044404,5.2893597,11.551083,72.9802,588771,914,57,vacation rental,₹500,train,₹100,148.47,434.76,shopping,rainy,art exhibition
+660,52,Female,adventure,Chhattisgarh,16,business,₹2000,38089.25,14.065101,-77.3882908,26.737594,69.7659,829821,492,289,hostel,₹1000,train,₹500,206.43,8029.25,hiking,cloudy,sports event
+661,44,Non-binary,adventure,Telangana,20,family,₹500,39697.08,14.681266,130.785523,36.780297,75.4486,40681,748,430,vacation rental,₹2000,train,₹500,916.87,2188.63,education,cloudy,art exhibition
+662,70,Female,relaxation,Telangana,17,vacation,₹15000,39375.2,28.282654,8.4760154,24.753,82.7233,1065351,372,641,vacation rental,₹100,plane,₹500,822.92,9988.02,education,cloudy,music festival
+663,78,Male,adventure,Madhya Pradesh,21,family,₹25000,36211.63,30.166755,59.0072317,19.84165,73.393,450923,617,201,vacation rental,₹500,train,₹500,517.83,2749.38,education,cloudy,music festival
+664,60,Male,relaxation,Telangana,23,vacation,₹5000,8849.36,15.205877,121.0312325,15.166164,70.1291,1478889,185,368,hostel,₹1000,plane,₹5000,907.33,8861.81,education,sunny,sports event
+665,51,Non-binary,adventure,Uttar Pradesh,22,vacation,₹15000,39574.7,32.242003,5.55,14.458089,73.0444,283023,639,202,hostel,₹2000,train,₹100,729.32,4562.74,shopping,sunny,music festival
+666,41,Male,cultural,Andhra Pradesh,27,business,₹500,15934.64,26.99715,69.1809574,25.728552,71.6903,436416,923,86,hostel,₹2000,train,₹500,453.02,2355.16,hiking,cloudy,sports event
+667,49,Male,adventure,Chhattisgarh,27,business,₹50000,11924.01,15.171325,6.624795,9.20205,90.689,617142,297,274,hostel,₹2000,train,₹1000,923.08,2095.26,hiking,sunny,art exhibition
+668,84,Male,relaxation,Gujarat,27,business,₹100,24944.04,34.969133,26.2103909,13.024823,90.8675,814,280,533,hostel,₹1000,train,₹2000,644.79,5939.97,education,sunny,sports event
+669,24,Male,cultural,Rajasthan,16,vacation,₹2000,42058.37,23.482142,2.3394209,18.142207,83.3243,34607,263,326,vacation rental,₹500,car,₹5000,396.33,9997.78,sightseeing,rainy,sports event
+670,85,Female,relaxation,Sikkim,6,vacation,₹25000,42096.13,10.782861,2.8002946,13.124415,92.9243,1064364,918,992,vacation rental,₹500,car,₹2000,574.6,3401.0,education,sunny,art exhibition
+671,53,Female,relaxation,Chhattisgarh,21,business,₹1000,46334.43,31.074966,0.5465548,14.637451,87.7165,298117,265,21,hostel,₹1000,car,₹1000,392.41,7592.33,shopping,sunny,art exhibition
+672,56,Male,relaxation,Telangana,6,family,₹2000,45847.27,36.259619,108.273158,14.14701,80.7218,1340180,95,117,hotel,₹1000,car,₹500,653.96,3324.15,vacation,sunny,art exhibition
+673,79,Male,cultural,Bihar,9,family,₹15000,6661.32,13.428496,-57.4655544,34.34148,80.1414,746525,470,423,vacation rental,₹1000,car,₹1000,781.19,2047.87,education,sunny,art exhibition
+674,50,Male,cultural,Rajasthan,22,vacation,₹35000,2897.94,11.404921,82.8518405,19.885989,89.9368,709713,399,427,vacation rental,₹2000,plane,₹2000,212.36,5492.44,education,rainy,art exhibition
+675,36,Male,cultural,Haryana,11,family,₹1000,41661.72,34.974896,18.0754478,23.143073,80.8088,1217706,891,296,hotel,₹2000,train,₹5000,4.72,7311.61,shopping,rainy,sports event
+676,19,Male,relaxation,Kerala,7,vacation,₹1000,25942.95,25.542229,116.42675,28.518125,81.6332,314308,475,776,vacation rental,₹100,car,₹500,824.86,3337.47,sightseeing,rainy,sports event
+677,34,Female,cultural,Nagaland,7,vacation,₹50000,34564.98,25.863298,120.9428802,19.862507,72.6826,854214,237,48,hotel,₹1000,plane,₹2000,800.89,2337.41,education,rainy,music festival
+678,29,Male,cultural,Punjab,20,business,₹2000,49568.01,12.800157,115.858361,9.138637,69.8107,1398232,519,996,vacation rental,₹500,train,₹5000,674.88,2628.86,hiking,cloudy,music festival
+679,48,Female,adventure,Maharashtra,26,family,₹1000,27174.05,34.899501,47.6489641,23.8922,86.5168,84055,733,406,hotel,₹2000,car,₹5000,411.19,5517.51,sightseeing,rainy,sports event
+680,39,Bigender,cultural,Haryana,30,vacation,"",37325.81,22.295449,12.5742882,9.447731,86.2867,580752,194,901,vacation rental,₹2000,car,₹500,716.07,2297.41,education,sunny,art exhibition
+681,45,Male,cultural,Maharashtra,18,business,₹1000,31347.31,17.674173,111.945153,9.126217,93.8069,432156,706,410,hotel,₹500,car,₹2000,952.23,5431.27,hiking,rainy,art exhibition
+682,37,Female,adventure,Bihar,11,business,₹5000,34263.73,24.870361,9.8627243,36.233272,88.1217,421616,377,481,hotel,₹1000,plane,₹5000,246.9,8054.71,hiking,sunny,music festival
+683,25,Female,relaxation,Andhra Pradesh,11,business,₹35000,12201.3,14.715628,-67.4686475,24.984377,72.5836,340345,537,676,vacation rental,₹2000,train,₹1000,791.92,4044.08,education,rainy,sports event
+684,20,Female,relaxation,Haryana,4,family,₹35000,14067.4,30.44595,-47.8448116,31.511673,88.8541,1247577,403,290,hotel,₹100,train,₹1000,573.53,1064.37,sightseeing,rainy,art exhibition
+685,36,Male,cultural,Madhya Pradesh,19,business,₹10000,4001.31,12.203389,123.086276,13.892063,69.6214,865346,750,860,vacation rental,₹2000,train,₹500,358.35,8586.16,vacation,rainy,art exhibition
+686,85,Male,cultural,Chhattisgarh,17,business,₹35000,28283.81,34.623607,136.1957329,30.023697,93.4541,3430,445,543,hostel,₹2000,plane,₹2000,530.0,2664.9,shopping,rainy,art exhibition
+687,32,Female,adventure,Haryana,26,vacation,₹100,42787.92,14.760235,-48.6891129,9.950606,84.0126,519409,717,949,hostel,₹500,car,₹100,721.38,3263.35,shopping,rainy,music festival
+688,37,Male,cultural,Madhya Pradesh,11,vacation,₹500,11561.42,27.498277,-74.4584245,28.327316,87.6996,360674,32,163,vacation rental,₹100,car,₹500,808.0,860.13,vacation,rainy,art exhibition
+689,32,Female,cultural,Meghalaya,8,vacation,₹100,40012.06,19.904046,23.7240855,27.547056,88.8924,1053128,144,81,hostel,₹100,car,₹500,593.61,3888.37,education,rainy,art exhibition
+690,67,Polygender,cultural,Maharashtra,5,family,"",48639.88,12.132661,82.353656,29.89689,74.4548,1426191,911,447,vacation rental,₹100,train,₹1000,106.95,2887.98,vacation,rainy,art exhibition
+691,26,Polygender,adventure,Goa,14,business,₹25000,11299.82,18.11306,89.099242,18.685658,81.0974,785954,491,848,hostel,₹2000,plane,₹500,780.64,5782.05,shopping,cloudy,art exhibition
+692,23,Genderfluid,cultural,Andhra Pradesh,3,vacation,₹5000,7530.85,18.838888,-1.8090692,14.621445,69.1516,542750,790,674,vacation rental,₹500,train,₹100,913.39,8663.25,sightseeing,cloudy,sports event
+693,56,Female,adventure,Tamil Nadu,29,business,"",47926.78,14.248394,121.712226,16.979667,81.1761,101701,914,770,vacation rental,₹1000,plane,₹5000,916.42,1794.5,shopping,rainy,sports event
+694,19,Female,relaxation,Mizoram,20,business,₹1000,49918.41,30.854191,43.6723087,26.530353,82.4721,461311,412,644,vacation rental,₹1000,plane,₹5000,867.05,9036.49,shopping,cloudy,sports event
+695,64,Female,cultural,Manipur,12,vacation,₹500,36491.56,11.020853,109.742421,10.69727,72.043,286275,133,663,hotel,₹1000,plane,₹5000,100.26,211.27,vacation,cloudy,art exhibition
+696,21,Female,adventure,Punjab,9,business,₹15000,7811.9,21.278772,25.9257256,24.669547,91.3117,1062598,414,427,hostel,₹2000,car,₹1000,361.07,4776.04,sightseeing,rainy,art exhibition
+697,60,Polygender,cultural,Nagaland,25,vacation,₹35000,4219.38,19.605806,114.987561,33.618464,70.7059,1360388,833,361,hotel,₹500,plane,₹500,920.39,9548.4,shopping,cloudy,music festival
+698,57,Male,adventure,Sikkim,5,family,₹100,4993.16,19.777526,122.9634852,22.37861,74.7809,184950,810,289,hotel,₹1000,train,₹2000,820.29,5854.95,education,sunny,music festival
+699,47,Male,relaxation,Telangana,13,family,₹15000,19427.02,19.947744,-133.72181,31.923744,87.792,1230360,872,807,hostel,₹500,car,₹500,545.08,6551.11,vacation,cloudy,sports event
+700,50,Female,adventure,Uttar Pradesh,13,business,₹10000,45849.84,30.56697,33.5490078,26.347529,75.9634,306189,235,94,hostel,₹2000,car,₹100,322.31,6434.91,shopping,rainy,sports event
+701,56,Male,adventure,Kerala,13,vacation,₹35000,49293.71,26.937408,121.0589081,36.03483,88.5427,246116,408,451,hostel,₹1000,train,₹5000,293.85,5489.1,education,sunny,art exhibition
+702,21,Male,adventure,Nagaland,25,vacation,₹5000,21992.13,26.615839,43.1936525,15.52017,97.0615,555266,149,145,vacation rental,₹2000,car,₹100,592.36,6287.16,sightseeing,rainy,music festival
+703,50,Agender,relaxation,Haryana,14,business,₹35000,38772.4,33.268463,121.3009798,32.108455,91.5085,849198,179,278,vacation rental,₹2000,car,₹500,572.96,2048.62,shopping,cloudy,sports event
+704,68,Female,relaxation,Assam,13,family,₹50000,21766.5,18.792885,120.6626572,13.13954,70.2328,310187,770,962,hotel,₹500,train,₹5000,175.14,9824.15,sightseeing,cloudy,sports event
+705,72,Female,adventure,Assam,17,vacation,₹5000,104.43,36.154743,20.1563519,31.317412,81.5947,809664,84,735,hostel,₹2000,car,₹1000,638.38,4314.18,vacation,rainy,music festival
+706,43,Bigender,relaxation,Telangana,29,vacation,₹15000,28160.01,28.388149,53.873969,9.702642,92.0551,396591,439,406,hotel,₹2000,train,₹1000,341.67,8215.46,hiking,sunny,art exhibition
+707,22,Female,relaxation,Jharkhand,15,family,₹35000,32429.2,16.081237,100.0135929,22.652044,72.8586,1314051,736,272,hostel,₹100,train,₹2000,9.94,4182.07,sightseeing,sunny,sports event
+708,82,Male,cultural,Madhya Pradesh,24,business,₹25000,14865.56,28.261337,-0.3907558,17.102543,85.1685,905646,313,11,vacation rental,₹500,car,₹2000,34.27,538.6,sightseeing,rainy,music festival
+709,19,Male,relaxation,Nagaland,9,family,"",41198.88,29.462278,115.134207,15.6527,86.1623,332769,836,92,vacation rental,₹2000,train,₹500,791.71,5200.58,vacation,rainy,sports event
+710,71,Female,cultural,Andhra Pradesh,28,family,₹10000,25966.62,16.879943,27.4772798,34.177519,84.0908,555741,666,107,hotel,₹100,train,₹5000,530.89,3018.2,education,sunny,sports event
+711,33,Female,relaxation,Manipur,18,family,₹500,33090.01,15.681513,37.1414146,32.636349,81.0978,897757,650,323,hostel,₹500,train,₹2000,919.22,4234.85,education,rainy,art exhibition
+712,33,Male,adventure,Andhra Pradesh,11,family,₹25000,14944.83,16.37803,-77.9530942,23.901628,79.1205,962964,258,996,hostel,₹100,train,₹1000,901.56,3230.36,vacation,rainy,art exhibition
+713,27,Female,relaxation,Odisha,16,business,₹25000,24333.31,8.343482,32.4212424,13.978231,70.821,1395131,123,560,hotel,₹1000,car,₹5000,542.34,7834.82,education,sunny,sports event
+714,51,Male,cultural,Assam,7,family,₹5000,45443.65,36.314047,-49.1166441,9.44322,86.9993,33645,861,705,hotel,₹1000,train,₹2000,809.55,221.2,sightseeing,rainy,music festival
+715,54,Genderqueer,relaxation,Uttar Pradesh,13,family,₹35000,31376.9,9.55287,117.742101,9.99746,70.2164,129179,421,423,hotel,₹100,train,₹2000,8.97,4117.13,vacation,cloudy,art exhibition
+716,23,Female,adventure,Assam,23,business,₹5000,32851.55,31.809112,19.00874,24.882758,80.1065,749996,151,339,hotel,₹2000,plane,₹500,71.55,3204.34,hiking,sunny,music festival
+717,54,Non-binary,cultural,Sikkim,15,family,₹500,22965.32,24.894969,99.0571089,18.729149,86.4683,1260830,136,575,hotel,₹2000,plane,₹100,366.41,8384.07,education,sunny,art exhibition
+718,25,Female,adventure,Punjab,20,vacation,₹50000,36215.56,16.748852,14.666088,27.102497,72.5569,1460129,386,917,vacation rental,₹100,car,₹5000,956.81,9904.27,shopping,sunny,art exhibition
+719,39,Male,relaxation,Andhra Pradesh,4,vacation,₹500,25150.85,21.183687,37.5826719,35.397695,95.6783,1461908,31,190,hotel,₹1000,train,₹2000,227.24,6939.93,hiking,cloudy,music festival
+720,56,Female,cultural,Punjab,2,family,₹25000,8597.74,28.25318,31.9925717,20.390131,88.4456,1380920,625,144,hotel,₹500,car,₹100,761.26,4521.59,education,rainy,music festival
+721,43,Female,relaxation,Chhattisgarh,7,family,₹500,49550.59,16.567062,15.4902722,9.755276,72.5874,343318,399,856,hostel,₹2000,car,₹100,647.21,559.67,sightseeing,rainy,sports event
+722,51,Female,relaxation,Himachal Pradesh,12,family,₹500,24569.93,13.811115,61.7405126,36.728128,69.6873,38046,841,54,hostel,₹100,plane,₹5000,744.28,8980.09,education,rainy,sports event
+723,41,Non-binary,cultural,Telangana,15,family,₹100,349.06,36.051684,3.3941571,32.975798,74.5393,434265,92,417,hostel,₹1000,train,₹1000,828.77,8433.6,vacation,sunny,art exhibition
+724,76,Male,relaxation,Rajasthan,29,business,₹5000,1475.64,20.522233,-7.5927209,22.177168,95.4607,699504,821,587,hotel,₹1000,car,₹2000,993.4,1648.02,education,sunny,art exhibition
+725,82,Female,adventure,Andhra Pradesh,20,business,₹35000,38041.65,13.835153,-51.3906526,23.01226,93.8114,1433546,82,184,hotel,₹2000,train,₹2000,422.08,9267.58,hiking,cloudy,art exhibition
+726,58,Male,adventure,Jharkhand,26,business,"",29235.29,19.946572,112.836668,15.211537,91.5564,687086,661,818,hotel,₹1000,train,₹5000,355.72,6830.98,sightseeing,sunny,sports event
+727,57,Male,relaxation,Meghalaya,16,business,₹50000,40269.64,36.543015,121.429477,23.001256,83.5393,1016180,615,299,hotel,₹100,train,₹1000,838.47,5036.78,vacation,sunny,art exhibition
+728,47,Non-binary,adventure,Assam,2,business,₹500,35144.48,28.72097,-49.8956943,17.794833,92.5155,523222,62,39,hostel,₹100,train,₹2000,891.6,6003.19,sightseeing,cloudy,art exhibition
+729,22,Female,adventure,Punjab,1,vacation,₹10000,46405.38,32.96037,21.9055846,23.600533,95.8566,423497,157,283,hostel,₹1000,train,₹100,761.33,5856.14,education,rainy,sports event
+730,18,Male,cultural,Himachal Pradesh,22,vacation,₹5000,11835.56,28.163819,-88.831192,13.899799,89.349,1468602,703,395,vacation rental,₹500,plane,₹100,408.32,953.74,sightseeing,rainy,sports event
+731,39,Female,relaxation,Rajasthan,14,business,₹500,3689.16,21.39333,114.182575,29.470099,83.5741,480663,297,493,hotel,₹500,train,₹500,879.43,4101.78,vacation,cloudy,sports event
+732,83,Polygender,adventure,Telangana,25,business,₹15000,36304.7,11.755262,37.40292,14.143573,94.4462,1211729,797,116,hotel,₹1000,train,₹500,314.27,4633.0,hiking,cloudy,art exhibition
+733,29,Female,adventure,Uttar Pradesh,3,vacation,₹500,49862.76,31.696617,139.3844092,21.958097,89.9676,1313101,374,503,hostel,₹500,plane,₹2000,936.75,5795.36,hiking,sunny,art exhibition
+734,76,Male,cultural,Maharashtra,18,vacation,₹1000,11747.09,29.453908,-8.8830265,8.92302,95.7035,151914,604,251,vacation rental,₹500,train,₹100,390.09,7876.2,vacation,cloudy,sports event
+735,63,Female,adventure,Punjab,12,family,₹50000,46580.28,16.757757,-0.3419882,22.591338,93.2661,798093,485,131,hotel,₹2000,plane,₹1000,605.61,7146.82,vacation,sunny,music festival
+736,50,Male,adventure,Meghalaya,24,family,₹50000,6229.28,22.39917,99.2272939,32.514933,87.799,1101982,465,260,vacation rental,₹2000,car,₹5000,77.06,4164.39,sightseeing,sunny,sports event
+737,75,Male,cultural,Rajasthan,16,business,₹35000,16790.69,19.071123,6.0280525,25.110503,91.1153,1373414,70,399,hostel,₹2000,plane,₹1000,860.2,8792.32,shopping,cloudy,music festival
+738,71,Female,adventure,Karnataka,12,vacation,₹10000,12794.48,16.673336,36.4158225,35.251967,74.6654,911693,162,738,hostel,₹2000,car,₹1000,821.86,9050.97,sightseeing,sunny,art exhibition
+739,54,Male,relaxation,Bihar,27,vacation,₹100,29857.21,21.638677,-57.2705691,16.159484,91.3259,391285,859,818,vacation rental,₹1000,plane,₹5000,622.24,5215.01,sightseeing,sunny,music festival
+740,28,Agender,adventure,Chhattisgarh,19,vacation,₹10000,5399.88,21.413032,-8.4907289,27.74698,89.7626,1184410,234,242,hotel,₹2000,car,₹5000,364.47,6145.28,hiking,rainy,sports event
+741,54,Female,cultural,Goa,5,vacation,₹25000,38042.61,9.333465,57.4796981,10.770664,93.0256,1246016,103,550,hostel,₹500,car,₹500,543.51,9981.09,shopping,cloudy,art exhibition
+742,29,Male,adventure,Arunachal Pradesh,4,business,₹35000,42500.46,33.862047,-71.8363794,18.173295,90.1614,520602,984,132,hostel,₹1000,train,₹2000,271.77,1458.81,sightseeing,sunny,art exhibition
+743,20,Female,cultural,Jharkhand,26,vacation,₹35000,25879.71,16.686898,-100.2602364,16.332116,80.4825,1203526,154,648,hotel,₹2000,train,₹2000,99.03,1777.55,vacation,cloudy,art exhibition
+744,32,Male,cultural,Himachal Pradesh,27,vacation,₹2000,15979.43,31.657964,121.1241334,16.123871,90.4307,261735,112,978,vacation rental,₹100,train,₹100,345.28,272.9,education,rainy,sports event
+745,60,Female,relaxation,Assam,11,family,₹5000,32394.75,33.862995,-46.5450499,31.20863,88.0232,173768,607,591,hotel,₹1000,train,₹1000,464.28,3910.51,education,cloudy,music festival
+746,30,Bigender,adventure,Maharashtra,1,business,₹2000,29282.19,11.654127,130.6026459,24.887645,71.0659,1192104,612,886,hostel,₹2000,train,₹500,734.54,6856.12,hiking,sunny,sports event
+747,43,Female,cultural,Punjab,13,vacation,₹100,32291.91,27.797219,100.825981,23.51089,79.1777,379584,226,32,hostel,₹100,plane,₹100,600.22,1326.94,shopping,sunny,sports event
+748,47,Male,relaxation,Sikkim,19,family,₹50000,26672.07,12.122579,120.047651,22.644256,91.5455,473062,929,671,vacation rental,₹500,car,₹1000,546.9,4675.91,vacation,sunny,music festival
+749,59,Female,relaxation,Manipur,6,family,₹2000,24017.34,10.971459,23.2352639,9.67088,81.2877,11307,985,727,hostel,₹1000,train,₹100,877.04,9135.4,shopping,cloudy,sports event
+750,51,Female,cultural,Nagaland,19,business,₹50000,29993.18,24.847401,22.7098053,14.827475,76.5103,421699,710,382,hotel,₹1000,car,₹100,312.99,236.96,hiking,sunny,sports event
+751,22,Female,adventure,Bihar,14,family,₹100,45840.07,30.397028,86.2970998,18.459268,82.5566,1335837,152,618,hotel,₹100,train,₹2000,458.61,3961.41,education,cloudy,art exhibition
+752,27,Male,relaxation,Uttar Pradesh,6,vacation,"",20435.25,9.835104,-73.4372336,31.378516,87.6852,29624,108,670,hotel,₹1000,plane,₹500,167.71,4148.73,education,cloudy,sports event
+753,48,Female,relaxation,Bihar,26,family,₹35000,48739.87,17.708162,-74.2932,8.513311,75.543,714735,802,920,hostel,₹1000,car,₹5000,956.27,5500.47,shopping,cloudy,sports event
+754,18,Female,cultural,Odisha,25,family,₹500,18853.42,12.568856,109.715304,35.677352,69.3949,105720,771,149,vacation rental,₹100,train,₹2000,479.03,5409.79,hiking,cloudy,sports event
+755,58,Female,relaxation,Kerala,26,vacation,₹10000,2992.72,16.561816,-43.2110663,17.037891,78.2135,1003285,597,710,hotel,₹100,plane,₹2000,287.72,9017.09,vacation,cloudy,art exhibition
+756,27,Female,cultural,Karnataka,16,vacation,₹500,2385.32,14.382989,55.8727412,9.498069,69.4407,1310261,171,556,hotel,₹500,car,₹100,293.98,6236.96,vacation,sunny,art exhibition
+757,19,Male,cultural,Kerala,23,business,₹50000,47143.46,35.357292,23.1369121,8.973162,94.7386,320086,718,603,hostel,₹500,train,₹2000,120.24,8659.68,sightseeing,rainy,art exhibition
+758,56,Male,cultural,Assam,20,family,₹35000,49786.36,20.528176,124.3654402,21.342391,80.0295,952816,615,506,hostel,₹2000,plane,₹500,991.66,3685.42,sightseeing,rainy,sports event
+759,40,Female,adventure,Tamil Nadu,14,business,₹10000,4267.46,22.754646,60.3414529,22.066986,92.0207,498186,710,101,hotel,₹1000,train,₹100,244.39,7506.93,education,rainy,art exhibition
+760,26,Male,cultural,Telangana,3,business,₹1000,45485.68,9.992723,27.3166945,9.023718,84.595,1496567,719,875,vacation rental,₹1000,plane,₹1000,281.65,7919.45,sightseeing,rainy,sports event
+761,70,Male,adventure,Arunachal Pradesh,3,business,₹35000,32805.66,15.138509,105.652983,24.687675,87.5977,167960,642,347,vacation rental,₹500,train,₹5000,59.57,1787.99,hiking,rainy,art exhibition
+762,80,Female,adventure,Uttar Pradesh,7,family,₹100,207.38,35.021937,13.0744097,20.91924,74.0942,542985,754,990,vacation rental,₹1000,car,₹1000,631.0,8030.55,hiking,cloudy,music festival
+763,65,Male,adventure,Rajasthan,29,family,₹10000,5739.99,12.542418,-66.054451,21.544049,85.8671,241152,324,893,hotel,₹1000,car,₹100,765.32,3502.49,hiking,cloudy,art exhibition
+764,62,Female,relaxation,Gujarat,28,business,₹10000,5191.61,24.541527,113.358579,8.778438,95.6893,612726,829,365,hotel,₹100,car,₹1000,652.75,1362.37,education,cloudy,sports event
+765,32,Male,adventure,Assam,3,business,₹1000,32969.82,9.06318,118.186288,10.813291,71.7845,1055050,417,593,hostel,₹500,train,₹5000,707.37,7139.84,education,cloudy,sports event
+766,45,Agender,cultural,Assam,21,vacation,₹1000,24434.15,13.383215,48.4692545,30.349058,84.4084,119748,807,552,hostel,₹1000,train,₹100,646.51,3170.26,education,rainy,sports event
+767,64,Genderfluid,relaxation,Himachal Pradesh,3,business,₹25000,32162.01,13.497418,12.9533224,32.470744,90.6945,627743,994,304,vacation rental,₹1000,car,₹1000,277.58,4640.99,sightseeing,sunny,music festival
+768,74,Polygender,adventure,Telangana,28,vacation,₹100,32335.79,18.982788,110.496593,13.017506,76.2754,1044674,507,529,hostel,₹1000,train,₹1000,998.2,3529.51,sightseeing,rainy,music festival
+769,40,Female,relaxation,Andhra Pradesh,13,business,₹1000,4410.09,29.010248,121.3345633,24.174189,75.7759,736763,795,870,vacation rental,₹100,plane,₹100,392.67,6521.85,education,sunny,music festival
+770,37,Male,cultural,Telangana,29,vacation,₹100,27886.28,24.021877,112.899762,20.067495,93.7544,705927,821,652,hotel,₹500,car,₹500,883.41,6830.21,education,rainy,art exhibition
+771,62,Agender,adventure,Bihar,21,family,₹25000,41884.98,32.733305,42.0289058,24.673065,70.2759,1451248,421,560,hotel,₹1000,plane,₹5000,726.1,1490.6,shopping,rainy,music festival
+772,31,Female,cultural,Kerala,14,vacation,₹500,30520.76,15.25472,48.4782419,11.957307,89.7501,1101889,393,718,hostel,₹2000,car,₹5000,729.04,9436.99,hiking,sunny,sports event
+773,37,Male,relaxation,Goa,18,business,₹25000,23.52,19.598275,111.9641728,26.697383,69.7164,754372,264,411,hostel,₹1000,train,₹500,934.74,8424.16,hiking,rainy,art exhibition
+774,77,Genderfluid,cultural,Kerala,6,vacation,₹5000,10259.65,33.12578,109.412626,14.115045,90.8734,727792,819,757,hotel,₹2000,car,₹2000,252.61,9080.58,hiking,sunny,sports event
+775,83,Male,adventure,Meghalaya,11,vacation,₹1000,12112.95,12.709016,124.815974,23.714687,89.8151,266459,719,701,hostel,₹1000,train,₹1000,459.0,2315.3,education,rainy,music festival
+776,38,Male,relaxation,Gujarat,16,family,₹1000,49451.91,26.923751,-97.5294628,12.141693,71.7536,928415,935,773,hotel,₹1000,train,₹500,841.02,8094.71,shopping,sunny,art exhibition
+777,80,Polygender,relaxation,Kerala,19,vacation,₹35000,1218.4,11.575341,15.8789679,16.68484,74.0576,951751,391,776,hotel,₹2000,car,₹100,312.53,9597.58,education,cloudy,music festival
+778,44,Female,relaxation,Jharkhand,18,family,₹25000,35186.75,29.766496,112.859759,22.735165,74.3963,67079,387,92,vacation rental,₹100,car,₹100,676.64,744.66,sightseeing,sunny,music festival
+779,59,Male,adventure,Madhya Pradesh,12,family,₹15000,32763.29,20.711559,106.3787583,17.411661,72.2523,1060740,863,139,hotel,₹100,plane,₹2000,605.96,5236.29,education,rainy,sports event
+780,42,Female,relaxation,Odisha,23,business,₹50000,39667.3,17.736625,118.17771,9.01149,78.8415,156752,475,190,vacation rental,₹2000,car,₹1000,499.8,5024.49,sightseeing,sunny,art exhibition
+781,45,Male,cultural,Maharashtra,19,family,₹1000,13086.37,29.115289,110.404001,10.484602,74.1774,1067546,652,893,hotel,₹100,plane,₹100,18.58,6288.87,hiking,rainy,music festival
+782,48,Male,cultural,Tamil Nadu,3,family,₹10000,1184.33,17.221549,41.6873842,8.322027,73.8874,277513,814,955,hotel,₹2000,train,₹5000,1.28,3107.26,shopping,cloudy,sports event
+783,79,Male,adventure,Meghalaya,22,business,₹5000,9887.09,28.273401,103.8832261,10.203659,75.6821,1466473,609,908,hotel,₹1000,car,₹500,969.54,1588.12,vacation,cloudy,music festival
+784,34,Non-binary,adventure,Goa,10,business,₹10000,28736.53,14.076562,120.882428,11.891868,73.5847,413875,524,856,hotel,₹2000,train,₹2000,918.85,4853.82,hiking,sunny,sports event
+785,44,Female,adventure,Kerala,14,family,₹1000,48212.87,24.12177,-57.8516627,32.863778,75.2374,1386761,553,72,vacation rental,₹2000,train,₹2000,319.34,5955.45,vacation,cloudy,art exhibition
+786,34,Female,cultural,Goa,18,business,₹15000,36095.35,19.099861,23.3268124,35.617927,95.6593,1126788,768,402,hostel,₹100,train,₹500,463.02,8617.1,sightseeing,rainy,music festival
+787,35,Genderfluid,cultural,Chhattisgarh,11,business,₹10000,42257.15,12.361095,22.0383248,17.326502,76.7851,338900,35,550,hotel,₹100,train,₹2000,245.92,7778.82,sightseeing,rainy,art exhibition
+788,71,Male,adventure,Punjab,24,family,₹2000,9572.12,34.231015,105.9200531,9.184966,85.7969,600954,148,157,hotel,₹100,train,₹1000,508.16,6831.4,education,rainy,music festival
+789,21,Female,adventure,Haryana,23,family,₹25000,43404.94,13.659711,113.6799766,26.832596,82.3294,360373,302,618,vacation rental,₹100,plane,₹500,418.26,1216.54,hiking,cloudy,art exhibition
+790,59,Male,adventure,Bihar,8,vacation,₹10000,23668.0,35.050727,19.446007,35.594971,88.2827,574851,170,423,hotel,₹500,train,₹5000,417.3,6738.67,sightseeing,sunny,art exhibition
+791,25,Male,relaxation,Madhya Pradesh,6,family,₹1000,26956.07,19.315266,104.626282,14.063422,75.7753,1444732,462,769,hostel,₹100,train,₹100,821.82,7740.76,education,sunny,music festival
+792,30,Female,adventure,Tamil Nadu,11,vacation,₹50000,19615.03,28.679673,121.293284,8.75554,91.2697,971125,968,978,vacation rental,₹1000,train,₹500,385.65,2479.49,vacation,sunny,art exhibition
+793,62,Polygender,cultural,Maharashtra,27,family,₹500,34203.29,25.114682,-87.9610905,32.036364,78.8032,1317289,607,998,hotel,₹500,plane,₹2000,978.72,270.03,hiking,cloudy,music festival
+794,19,Female,adventure,Uttar Pradesh,25,family,₹5000,41609.97,11.912504,110.6129124,22.520928,76.0521,1317042,600,591,hotel,₹500,train,₹5000,476.11,5873.42,vacation,rainy,music festival
+795,19,Polygender,adventure,Madhya Pradesh,20,business,₹35000,12077.08,12.265432,8.9245343,13.699736,77.2286,1329667,458,487,hotel,₹2000,train,₹2000,914.75,4361.35,vacation,sunny,art exhibition
+796,62,Bigender,relaxation,Assam,29,business,₹25000,48676.81,30.57754,105.6441852,27.188482,71.6469,1498585,427,229,vacation rental,₹2000,plane,₹2000,229.15,8248.56,vacation,cloudy,art exhibition
+797,51,Male,adventure,Karnataka,26,business,₹35000,46750.91,24.710862,37.3727638,18.623771,76.1724,644802,185,909,vacation rental,₹100,car,₹100,651.53,3394.93,shopping,sunny,music festival
+798,48,Female,relaxation,Sikkim,12,vacation,₹25000,19500.42,31.818714,121.017819,29.069377,96.7212,1284432,659,645,vacation rental,₹100,plane,₹5000,218.61,8561.7,vacation,sunny,music festival
+799,63,Male,adventure,Nagaland,28,business,₹10000,32094.05,8.461631,-40.4976324,16.715142,87.4349,1402720,222,430,hostel,₹500,car,₹1000,546.95,7475.19,education,sunny,art exhibition
+800,28,Female,relaxation,Tamil Nadu,27,business,₹1000,3701.08,15.80205,11.9417454,11.287122,86.2945,1449651,418,493,hotel,₹500,plane,₹1000,795.72,4382.4,shopping,cloudy,sports event
+801,69,Female,relaxation,Odisha,29,business,₹50000,3831.76,13.114903,120.851094,9.000772,74.6219,354363,886,391,vacation rental,₹100,train,₹1000,927.1,5874.62,shopping,sunny,sports event
+802,62,Male,relaxation,Punjab,28,family,₹35000,42675.2,16.567571,5.8978018,20.796452,81.0911,432513,326,597,hostel,₹1000,car,₹1000,745.85,4095.41,vacation,cloudy,art exhibition
+803,42,Female,cultural,Andhra Pradesh,21,vacation,₹25000,20929.02,9.751921,95.38872,8.663208,87.8419,882114,720,452,hotel,₹100,plane,₹1000,895.17,3090.66,shopping,sunny,art exhibition
+804,26,Male,cultural,Himachal Pradesh,11,family,₹1000,12051.13,26.254373,2.8002946,36.586157,96.3197,1420534,967,440,hotel,₹100,plane,₹100,443.74,3489.87,education,sunny,art exhibition
+805,33,Female,relaxation,Assam,18,family,₹100,48236.13,17.206564,30.3414908,17.310808,75.7752,36469,157,158,hotel,₹500,plane,₹1000,234.85,65.45,hiking,sunny,music festival
+806,22,Male,relaxation,Rajasthan,23,vacation,₹35000,46326.63,17.983887,48.329762,10.659941,81.9407,668739,500,261,hotel,₹1000,train,₹500,410.67,4040.25,sightseeing,cloudy,sports event
+807,45,Male,cultural,Sikkim,24,business,₹25000,22833.8,30.636607,36.5499837,34.98272,82.6345,632581,13,984,hostel,₹2000,train,₹100,225.21,424.39,hiking,sunny,sports event
+808,62,Female,relaxation,Jharkhand,30,business,₹100,43671.16,18.62606,-5.9885456,31.554814,71.8053,1161559,719,793,hostel,₹500,train,₹100,938.8,8732.45,sightseeing,sunny,sports event
+809,34,Female,cultural,Tamil Nadu,2,vacation,₹35000,36243.35,9.049668,126.5990916,35.078396,75.3706,740490,544,929,hotel,₹500,car,₹5000,890.85,3747.77,shopping,rainy,music festival
+810,39,Non-binary,relaxation,Tamil Nadu,22,family,₹2000,25604.01,36.133701,44.41454,30.571154,82.1102,298967,581,840,hostel,₹1000,plane,₹1000,203.68,8112.58,sightseeing,rainy,music festival
+811,66,Male,relaxation,Sikkim,9,family,₹35000,47824.23,31.396563,-70.4047314,31.922739,90.5325,964515,541,421,vacation rental,₹500,train,₹500,915.4,3897.21,shopping,rainy,art exhibition
+812,80,Polygender,relaxation,Mizoram,23,business,₹5000,42248.01,14.093508,140.297972,33.27812,87.9959,1098042,643,698,hostel,₹500,train,₹5000,332.42,1749.66,sightseeing,sunny,sports event
+813,69,Male,cultural,Arunachal Pradesh,12,business,"",45127.47,20.772,44.4252603,28.340177,91.3401,1492698,179,547,hotel,₹1000,train,₹1000,263.33,1300.25,sightseeing,sunny,sports event
+814,41,Male,cultural,Uttar Pradesh,30,vacation,₹1000,42838.82,23.207566,19.0438326,11.124374,91.0004,272548,610,110,hotel,₹2000,car,₹5000,7.17,9689.63,shopping,sunny,art exhibition
+815,64,Male,adventure,Rajasthan,26,vacation,₹15000,42507.2,20.497649,129.4828511,31.920487,71.6001,1233260,751,390,hotel,₹2000,plane,₹100,386.52,1462.06,shopping,rainy,music festival
+816,49,Male,cultural,Maharashtra,18,business,₹35000,5626.55,31.35035,106.9010694,35.438794,85.5906,878752,855,280,hostel,₹500,train,₹2000,981.04,42.9,education,rainy,sports event
+817,18,Male,relaxation,Andhra Pradesh,15,business,₹25000,43113.01,22.50509,1.206057,13.729798,76.2283,679651,766,836,hostel,₹2000,plane,₹100,643.06,3320.17,education,rainy,music festival
+818,49,Male,adventure,Goa,17,business,"",27801.09,32.964794,18.068622,21.331117,86.6808,801094,248,179,vacation rental,₹1000,car,₹500,651.93,5377.33,sightseeing,sunny,art exhibition
+819,56,Male,relaxation,Mizoram,28,vacation,₹25000,43542.77,13.664663,97.4110988,30.392473,91.4611,847750,916,144,hotel,₹1000,plane,₹100,740.57,1360.35,sightseeing,cloudy,art exhibition
+820,38,Male,adventure,Meghalaya,14,vacation,₹500,13856.63,31.943253,110.3919493,19.607864,86.2963,1161030,813,635,hostel,₹1000,train,₹500,917.41,1518.09,shopping,cloudy,sports event
+821,60,Male,adventure,Madhya Pradesh,30,business,₹1000,24454.25,12.585332,109.963338,26.484052,73.4429,978744,370,415,vacation rental,₹2000,train,₹5000,797.75,7846.17,education,sunny,sports event
+822,63,Male,relaxation,Assam,1,family,₹10000,13510.7,30.266627,5.6469613,10.654678,75.7965,1457493,71,918,hostel,₹500,train,₹100,764.9,3401.26,shopping,cloudy,sports event
+823,38,Genderfluid,relaxation,Meghalaya,26,family,₹5000,40630.47,14.546617,-67.826868,36.846795,80.8791,1076625,205,779,hotel,₹500,car,₹100,105.26,1753.86,vacation,rainy,art exhibition
+824,19,Female,adventure,Chhattisgarh,10,family,₹5000,12018.63,12.283387,20.9789037,35.917091,82.394,28195,374,331,hostel,₹2000,car,₹500,110.04,6594.15,hiking,rainy,art exhibition
+825,76,Male,relaxation,Nagaland,19,vacation,₹5000,3984.93,21.899829,-8.7370509,12.258362,84.7588,1126786,840,724,hotel,₹500,plane,₹1000,888.87,8113.38,shopping,cloudy,art exhibition
+826,70,Male,relaxation,Jharkhand,12,family,₹1000,1934.67,10.31005,20.3179338,14.597202,71.0424,259311,729,466,vacation rental,₹100,car,₹2000,98.21,620.1,sightseeing,rainy,sports event
+827,23,Female,adventure,Telangana,23,business,₹35000,27114.21,11.789598,73.2320957,25.499423,79.5123,550306,897,502,hotel,₹1000,plane,₹100,276.76,5076.22,sightseeing,sunny,sports event
+828,61,Male,relaxation,Chhattisgarh,22,family,₹1000,2089.29,22.9136,118.181531,9.745351,75.1822,425896,712,858,hostel,₹1000,car,₹1000,305.99,7092.1,shopping,cloudy,sports event
+829,61,Female,cultural,Sikkim,24,family,₹2000,35677.72,9.215866,95.2579968,33.714711,92.7764,119324,414,823,hostel,₹1000,train,₹500,58.32,513.85,hiking,cloudy,art exhibition
+830,64,Female,cultural,Sikkim,4,family,₹100,14068.03,14.597312,29.2916352,34.17624,69.0035,50599,136,138,hotel,₹2000,plane,₹500,466.38,1672.57,vacation,rainy,art exhibition
+831,40,Male,adventure,Chhattisgarh,11,vacation,₹35000,8150.49,15.371314,-25.6598704,19.587969,78.4156,105438,428,493,hotel,₹2000,car,₹5000,77.71,1379.08,education,rainy,art exhibition
+832,73,Female,adventure,Madhya Pradesh,27,vacation,₹35000,21358.44,17.722063,-9.3945817,30.573208,80.3172,938920,705,808,hostel,₹500,train,₹2000,122.91,5863.63,sightseeing,cloudy,music festival
+833,47,Bigender,relaxation,Mizoram,9,vacation,₹5000,11145.34,14.24109,100.309489,18.26245,86.7222,114278,477,295,vacation rental,₹500,plane,₹2000,458.54,9272.62,education,sunny,art exhibition
+834,58,Female,cultural,Tamil Nadu,17,business,₹35000,646.2,22.13282,120.2258,36.269261,82.4529,215180,991,86,hotel,₹500,plane,₹2000,882.15,1393.84,education,sunny,music festival
+835,73,Female,adventure,Tamil Nadu,6,family,₹100,13103.74,15.520655,-68.1434996,18.266802,93.1653,18919,740,550,hostel,₹2000,plane,₹100,920.56,6152.96,education,cloudy,sports event
+836,51,Male,relaxation,Himachal Pradesh,11,business,₹1000,49974.28,18.682755,8.4120775,23.673371,71.3712,1451945,616,137,hostel,₹1000,plane,₹100,450.14,7840.66,hiking,cloudy,art exhibition
+837,55,Male,relaxation,Meghalaya,18,family,₹5000,48838.13,17.82995,115.099494,11.449546,90.8531,1463108,533,481,vacation rental,₹500,train,₹100,610.08,8755.34,shopping,sunny,music festival
+838,54,Female,relaxation,Rajasthan,4,business,₹1000,32834.35,11.883588,37.4014986,32.28587,90.9629,893864,143,474,hotel,₹500,plane,₹2000,102.79,4669.64,education,rainy,sports event
+839,85,Female,cultural,Nagaland,14,vacation,"",24656.44,27.397923,11.5482426,21.892252,76.7683,281141,402,1000,hostel,₹100,car,₹2000,985.94,9590.21,education,cloudy,art exhibition
+840,60,Male,adventure,Haryana,23,family,₹2000,25724.01,36.219269,107.7251314,32.670027,95.9717,869012,95,57,hotel,₹1000,plane,₹100,102.87,5343.85,vacation,cloudy,music festival
+841,38,Male,adventure,Uttar Pradesh,10,business,₹50000,18119.09,16.794667,-63.2596263,20.556234,81.7036,713573,532,514,vacation rental,₹100,plane,₹1000,485.5,9776.13,shopping,sunny,sports event
+842,45,Male,adventure,Jharkhand,5,business,₹2000,32638.19,16.647832,-79.2420766,26.658711,77.2276,1391864,184,603,hotel,₹1000,plane,₹5000,867.05,6489.23,sightseeing,rainy,music festival
+843,47,Female,cultural,Odisha,13,vacation,₹5000,16280.2,10.176431,-7.8032048,34.930626,95.5562,362891,706,539,hostel,₹2000,train,₹500,275.91,2512.36,shopping,sunny,music festival
+844,24,Male,relaxation,Haryana,1,vacation,₹35000,47976.54,28.900294,23.7020975,34.475794,76.8688,633989,769,414,hostel,₹500,car,₹500,728.34,5582.46,education,rainy,sports event
+845,54,Male,cultural,Uttar Pradesh,26,family,₹100,39851.19,18.989112,114.668936,10.184994,96.6528,179464,658,326,vacation rental,₹100,car,₹500,442.86,1876.68,sightseeing,rainy,sports event
+846,19,Male,cultural,Jharkhand,19,business,₹50000,12754.29,12.478636,121.4371451,32.326817,87.2758,91519,201,447,vacation rental,₹1000,train,₹500,207.31,8204.58,shopping,rainy,art exhibition
+847,73,Male,relaxation,Andhra Pradesh,18,business,₹10000,40742.57,9.40069,101.1064003,18.327671,69.1788,104915,878,475,vacation rental,₹2000,car,₹1000,187.45,6182.86,vacation,cloudy,art exhibition
+848,48,Female,adventure,Andhra Pradesh,22,family,₹1000,35594.59,31.601679,118.6143878,35.849691,86.3415,671827,203,367,hostel,₹500,train,₹100,25.59,4664.07,sightseeing,cloudy,music festival
+849,48,Male,cultural,Bihar,27,vacation,₹35000,3492.39,25.315174,35.2590854,17.585813,94.5415,899387,765,403,hostel,₹1000,plane,₹1000,807.92,3789.71,sightseeing,cloudy,art exhibition
+850,75,Male,adventure,Kerala,23,vacation,"",19191.04,33.857863,-8.3815652,16.198305,74.1182,1395465,399,590,hostel,₹1000,train,₹500,715.52,4614.18,shopping,sunny,sports event
+851,85,Female,relaxation,Rajasthan,17,business,₹5000,3785.68,24.188156,-7.2626804,27.846936,84.1779,190961,777,426,vacation rental,₹500,train,₹100,648.47,6014.85,vacation,sunny,sports event
+852,52,Female,cultural,Punjab,21,family,₹15000,23062.85,26.354245,111.7242031,29.698279,71.1855,58752,79,293,hotel,₹1000,plane,₹100,931.76,8081.53,hiking,cloudy,music festival
+853,27,Polygender,relaxation,Karnataka,14,business,₹1000,42469.78,31.198749,24.4523968,28.22337,95.3445,387142,394,694,hostel,₹100,train,₹100,701.43,859.74,vacation,cloudy,music festival
+854,23,Male,relaxation,Nagaland,6,family,"",1032.38,22.637255,121.0504535,13.055668,82.8677,106920,153,774,hostel,₹100,car,₹1000,693.65,6773.4,shopping,rainy,music festival
+855,70,Female,adventure,Telangana,19,vacation,₹100,43376.59,29.790158,-58.4432039,36.445793,83.8949,1372135,329,744,hotel,₹2000,train,₹1000,966.93,1889.34,shopping,sunny,music festival
+856,81,Male,cultural,Mizoram,28,family,₹100,5884.38,13.469795,-106.5680459,25.268669,94.6591,120364,725,189,hotel,₹1000,plane,₹2000,773.18,1682.6,hiking,rainy,sports event
+857,58,Female,cultural,Bihar,10,business,₹1000,40549.46,26.055548,43.0973244,26.252484,87.6826,1422787,783,915,hotel,₹1000,train,₹1000,623.96,9674.56,education,cloudy,music festival
+858,56,Female,cultural,Karnataka,11,business,₹10000,32383.25,13.23398,120.780294,30.001008,97.332,1228374,680,849,hostel,₹100,train,₹2000,368.66,8921.32,education,sunny,music festival
+859,39,Female,cultural,Punjab,14,family,₹15000,46850.27,9.181506,20.2867074,27.232379,75.0717,1159276,121,523,hotel,₹2000,plane,₹2000,713.18,3272.5,vacation,sunny,music festival
+860,77,Female,relaxation,Tamil Nadu,10,business,"",16231.13,13.836234,116.1442241,13.821291,88.2439,123039,501,986,hotel,₹2000,car,₹500,925.11,1365.93,shopping,cloudy,art exhibition
+861,80,Bigender,adventure,Assam,15,family,₹5000,44169.34,29.88315,63.6101211,31.68645,87.8519,1352993,953,179,vacation rental,₹500,train,₹1000,344.1,5699.2,shopping,rainy,art exhibition
+862,52,Male,cultural,Kerala,21,vacation,₹5000,35041.43,11.916382,110.912619,25.096148,79.56,198096,154,917,vacation rental,₹2000,plane,₹1000,88.36,8237.76,sightseeing,rainy,music festival
+863,58,Female,relaxation,Manipur,7,vacation,₹500,13858.78,15.13792,20.3586957,11.429114,80.88,73109,605,522,hotel,₹500,car,₹5000,713.07,9750.33,hiking,sunny,sports event
+864,75,Female,cultural,Andhra Pradesh,29,vacation,₹2000,28380.46,19.787135,117.788836,24.85731,83.5808,869006,138,367,vacation rental,₹500,plane,₹1000,869.56,1747.77,shopping,rainy,sports event
+865,63,Male,relaxation,Punjab,4,business,₹500,44585.75,15.408093,120.997332,35.78716,85.4515,42797,971,240,vacation rental,₹100,train,₹5000,675.62,9730.32,shopping,rainy,art exhibition
+866,33,Polygender,adventure,Maharashtra,24,family,₹500,44606.88,11.56382,26.6700737,32.045323,83.1344,879523,149,267,hotel,₹2000,plane,₹100,880.54,995.41,vacation,rainy,music festival
+867,59,Female,relaxation,Arunachal Pradesh,27,business,₹500,5479.8,34.219754,16.5992505,12.35872,97.0141,1154633,137,268,vacation rental,₹1000,car,₹500,0.54,8573.85,education,cloudy,music festival
+868,34,Female,adventure,Himachal Pradesh,25,business,₹5000,42977.84,13.509695,-8.9485146,21.095305,83.2411,1485269,435,508,hostel,₹1000,train,₹2000,157.48,655.51,hiking,cloudy,art exhibition
+869,65,Female,adventure,Assam,28,family,₹1000,16893.64,9.825933,99.2342196,33.822723,73.7849,721317,643,254,vacation rental,₹2000,car,₹2000,137.76,1036.14,sightseeing,sunny,sports event
+870,68,Male,cultural,Tamil Nadu,5,family,₹50000,35261.28,20.938001,-73.9830029,10.552315,79.3016,1328858,97,395,hotel,₹1000,car,₹1000,714.1,9044.53,education,cloudy,music festival
+871,82,Male,relaxation,Chhattisgarh,27,vacation,₹100,14401.07,17.10356,24.28915,12.584651,89.5715,215515,664,606,hostel,₹1000,plane,₹5000,55.4,6182.96,shopping,rainy,art exhibition
+872,40,Male,relaxation,Meghalaya,17,vacation,₹50000,8498.8,12.164854,125.663981,36.091225,87.2376,310014,494,192,hotel,₹100,train,₹5000,764.0,5931.26,sightseeing,cloudy,art exhibition
+873,18,Female,cultural,Bihar,27,vacation,₹35000,29690.39,20.376235,20.3482376,24.653844,79.4846,616096,298,8,hotel,₹500,plane,₹5000,255.69,8982.74,hiking,cloudy,art exhibition
+874,76,Genderfluid,relaxation,Himachal Pradesh,29,vacation,₹35000,2751.78,8.85193,100.7830826,12.175048,94.5207,9283,47,166,vacation rental,₹1000,car,₹2000,965.5,3439.73,hiking,rainy,sports event
+875,37,Male,adventure,Tamil Nadu,14,family,₹500,31929.44,30.992122,-9.1706522,35.130284,77.792,1150449,743,494,hotel,₹100,car,₹100,331.38,1277.76,sightseeing,sunny,music festival
+876,48,Male,relaxation,Uttar Pradesh,2,family,₹35000,2065.12,9.207864,57.973082,11.842374,94.9365,1207433,97,105,vacation rental,₹100,plane,₹500,36.14,3440.24,hiking,sunny,sports event
+877,70,Male,relaxation,Manipur,19,vacation,₹50000,36358.42,11.366204,12.5742882,25.293918,72.1652,314758,807,167,vacation rental,₹2000,car,₹500,721.79,3314.24,sightseeing,cloudy,art exhibition
+878,75,Female,cultural,Karnataka,9,family,₹100,29406.92,17.296784,15.3858774,28.305815,95.1399,1382575,303,854,vacation rental,₹1000,plane,₹2000,463.88,2769.36,sightseeing,cloudy,sports event
+879,68,Female,cultural,Punjab,23,vacation,₹50000,49393.28,33.325534,109.599542,30.88185,73.7158,302425,819,636,hotel,₹2000,train,₹1000,85.81,9788.59,education,sunny,music festival
+880,69,Male,cultural,Bihar,28,business,₹35000,9263.96,10.390064,15.4233905,31.929776,69.6308,1128195,77,447,hotel,₹100,plane,₹100,865.1,1164.19,education,sunny,art exhibition
+881,63,Female,adventure,Rajasthan,20,business,₹50000,48056.06,21.75728,107.6940475,16.905763,96.3725,599302,816,666,vacation rental,₹500,train,₹500,531.88,8590.19,education,rainy,music festival
+882,53,Male,adventure,Kerala,7,business,₹100,46137.77,9.182667,17.7257496,30.438593,77.3937,402353,66,667,hotel,₹500,plane,₹100,484.26,3501.82,education,cloudy,art exhibition
+883,65,Female,relaxation,Andhra Pradesh,26,vacation,₹2000,3562.14,28.175706,139.250061,26.036425,88.5564,1169192,289,955,vacation rental,₹100,train,₹2000,244.02,2261.48,education,rainy,sports event
+884,27,Female,relaxation,Jharkhand,24,vacation,₹35000,8193.23,29.200468,106.8060388,27.881376,72.8349,882942,2,795,vacation rental,₹1000,train,₹1000,959.08,2889.93,hiking,sunny,music festival
+885,42,Genderqueer,adventure,Rajasthan,29,vacation,₹2000,20331.64,32.051248,-98.00156,25.631915,78.8294,310473,697,397,vacation rental,₹1000,train,₹500,314.15,9963.58,vacation,rainy,sports event
+886,29,Male,relaxation,Himachal Pradesh,16,business,₹35000,38455.9,34.367814,-119.8,27.964391,68.8313,103174,214,82,hotel,₹2000,train,₹5000,911.97,4220.62,education,sunny,art exhibition
+887,21,Male,adventure,Andhra Pradesh,23,vacation,₹25000,9157.85,36.013127,19.7556505,34.8249,69.1841,1287395,5,889,hotel,₹1000,plane,₹1000,887.63,7753.48,education,cloudy,art exhibition
+888,37,Male,cultural,Haryana,9,family,₹500,28552.22,29.688166,29.1224979,26.640328,77.4205,285134,653,953,hostel,₹2000,plane,₹100,622.09,6018.08,sightseeing,sunny,sports event
+889,49,Male,cultural,Odisha,18,vacation,₹100,3214.67,11.554253,124.9202302,20.188161,84.213,270662,590,362,hostel,₹500,car,₹100,343.28,2990.7,sightseeing,sunny,music festival
+890,68,Female,relaxation,Haryana,8,family,₹5000,2105.24,19.389709,107.913127,9.14685,92.8412,100447,491,717,hotel,₹2000,plane,₹100,919.86,8557.46,shopping,sunny,music festival
+891,81,Female,relaxation,Rajasthan,7,business,₹50000,9304.51,11.708759,34.6649001,22.440723,81.901,1269164,715,637,hotel,₹500,car,₹1000,736.4,8362.24,shopping,sunny,music festival
+892,34,Male,cultural,Maharashtra,20,vacation,₹15000,675.79,18.191782,134.1742831,29.343257,90.3579,1234130,577,241,hotel,₹500,plane,₹2000,975.79,5358.43,sightseeing,sunny,music festival
+893,68,Female,relaxation,Bihar,24,vacation,₹50000,44781.07,11.538543,121.1774182,14.506923,82.1099,194592,831,654,vacation rental,₹1000,train,₹1000,9.87,4869.13,shopping,rainy,music festival
+894,25,Male,adventure,Sikkim,24,vacation,₹15000,19159.16,32.844563,25.5058522,30.815292,85.7066,1230211,205,886,vacation rental,₹100,plane,₹500,258.61,2527.7,sightseeing,cloudy,art exhibition
+895,24,Female,relaxation,Sikkim,19,vacation,₹25000,44056.75,24.372266,-8.7836437,8.18445,86.1524,1349879,814,837,vacation rental,₹500,plane,₹100,760.55,3708.18,shopping,cloudy,music festival
+896,74,Male,adventure,Jharkhand,11,family,₹2000,32684.71,11.217461,-99.9792312,21.078522,78.6416,1129435,925,19,vacation rental,₹100,train,₹500,97.66,7483.6,sightseeing,sunny,sports event
+897,39,Male,adventure,Chhattisgarh,7,business,₹25000,10188.3,32.713541,0.9772874,10.882152,90.4106,207498,863,324,hotel,₹100,car,₹2000,266.41,6353.85,education,sunny,music festival
+898,75,Male,relaxation,Madhya Pradesh,28,family,₹15000,29891.36,13.004801,13.4676693,27.723521,71.5616,1422513,487,790,hostel,₹500,train,₹2000,575.92,9807.53,hiking,rainy,sports event
+899,77,Male,cultural,Meghalaya,26,business,₹1000,13213.38,34.590226,16.9124981,16.37801,79.4347,235398,983,763,hotel,₹2000,car,₹100,648.37,390.14,shopping,cloudy,music festival
+900,20,Male,adventure,Punjab,29,business,₹1000,44736.19,10.731078,121.532286,35.056459,96.6301,438958,305,869,hotel,₹1000,car,₹1000,588.67,1961.22,shopping,sunny,music festival
+901,61,Female,relaxation,Maharashtra,12,family,₹35000,40757.8,25.974184,101.0978724,30.702267,70.321,937319,622,476,hostel,₹1000,train,₹1000,369.14,5173.02,sightseeing,sunny,art exhibition
+902,53,Male,relaxation,Telangana,19,business,₹100,46925.53,26.422315,42.9934449,28.375919,73.1113,701415,390,541,hostel,₹100,car,₹5000,779.92,2972.12,sightseeing,sunny,music festival
+903,53,Male,cultural,Gujarat,13,vacation,"",13607.81,22.207428,114.150348,17.811911,79.5056,818590,436,242,hostel,₹500,train,₹2000,162.81,7520.6,shopping,sunny,art exhibition
+904,39,Female,cultural,Telangana,13,vacation,₹500,24531.8,27.735473,101.564635,32.586366,84.0531,448049,527,456,hostel,₹2000,car,₹500,883.49,4881.98,education,rainy,sports event
+905,39,Male,cultural,Madhya Pradesh,25,vacation,₹35000,46246.92,8.786646,106.27124,16.94764,86.3968,1456003,222,132,vacation rental,₹2000,train,₹500,51.4,9061.46,hiking,sunny,music festival
+906,73,Female,adventure,Mizoram,16,business,₹1000,41109.95,10.343047,171.596443,8.537882,79.6898,1337025,202,459,vacation rental,₹100,car,₹5000,852.47,5703.69,vacation,sunny,sports event
+907,45,Female,adventure,Himachal Pradesh,26,business,₹1000,47505.59,36.285932,-72.2867105,33.997595,86.0274,906443,789,209,hotel,₹100,train,₹500,1.55,3186.03,vacation,rainy,sports event
+908,51,Male,adventure,Odisha,17,vacation,₹35000,14895.0,26.6573,-81.734942,30.826391,77.5513,1274836,967,227,vacation rental,₹2000,train,₹5000,687.34,9896.26,education,rainy,art exhibition
+909,57,Female,relaxation,Chhattisgarh,29,vacation,₹2000,44973.08,20.668991,110.496593,13.794806,71.5968,1201188,319,977,hostel,₹1000,plane,₹5000,322.17,2855.84,shopping,cloudy,sports event
+910,30,Male,cultural,Mizoram,24,vacation,₹35000,22189.64,26.789218,-2.2508745,34.559721,96.6213,1457746,590,626,hostel,₹100,car,₹1000,816.31,4127.52,vacation,rainy,art exhibition
+911,43,Female,adventure,Jharkhand,30,business,₹35000,22127.35,13.0589,114.6702778,24.79,87.0425,764705,676,831,hotel,₹1000,car,₹100,751.53,9760.19,shopping,sunny,art exhibition
+912,25,Female,adventure,Telangana,20,family,₹50000,32803.86,10.748622,112.305145,18.105848,91.9993,79481,226,982,hostel,₹100,plane,₹2000,290.6,3613.03,vacation,cloudy,music festival
+913,30,Female,cultural,Maharashtra,2,vacation,₹500,12473.96,22.673545,112.274168,33.12509,86.5434,819785,971,632,hostel,₹1000,plane,₹1000,990.82,4217.69,hiking,rainy,art exhibition
+914,85,Male,adventure,Haryana,8,vacation,₹15000,35733.29,31.282458,44.2868976,22.598503,78.1376,19863,272,493,hotel,₹500,train,₹1000,497.92,7820.47,vacation,sunny,music festival
+915,28,Female,cultural,Arunachal Pradesh,13,business,₹100,31620.27,8.546144,-14.1001326,21.38185,88.5389,309811,17,872,hotel,₹100,train,₹2000,746.95,9388.94,sightseeing,cloudy,sports event
+916,20,Agender,relaxation,Tamil Nadu,14,business,₹2000,3439.99,23.995508,115.1859517,19.180017,79.2937,920481,352,725,hostel,₹1000,car,₹1000,913.83,6419.47,shopping,rainy,art exhibition
+917,59,Female,cultural,Telangana,6,business,₹15000,19954.41,15.495208,44.5128424,18.731813,97.2471,410897,908,785,vacation rental,₹2000,car,₹5000,764.56,9784.57,vacation,sunny,sports event
+918,51,Female,adventure,Assam,8,vacation,₹2000,30741.4,19.676096,-4.1020654,11.717602,92.3606,1084352,540,451,hotel,₹500,car,₹500,763.94,765.21,vacation,cloudy,music festival
+919,84,Male,cultural,Kerala,1,vacation,₹500,32132.15,15.136408,111.464,29.124279,68.974,1047917,300,340,vacation rental,₹100,train,₹500,160.37,2065.24,shopping,sunny,art exhibition
+920,18,Polygender,relaxation,Assam,3,business,₹5000,9253.0,15.610792,116.783833,31.968164,72.7914,1178078,500,953,hostel,₹100,car,₹1000,99.44,9514.13,vacation,cloudy,art exhibition
+921,33,Female,cultural,Odisha,13,family,"",37036.69,33.611735,99.2267999,10.649663,94.3503,1093512,86,775,vacation rental,₹1000,plane,₹100,506.52,8946.23,hiking,rainy,sports event
+922,43,Female,cultural,Meghalaya,11,family,₹10000,17342.59,24.700787,-80.5827272,19.962615,94.2043,142099,592,550,vacation rental,₹100,train,₹5000,564.84,5042.01,sightseeing,sunny,sports event
+923,33,Female,adventure,Andhra Pradesh,8,family,₹35000,42215.23,8.398373,139.8800727,14.19438,97.141,803399,902,809,vacation rental,₹100,car,₹2000,531.2,5960.2,shopping,cloudy,art exhibition
+924,54,Male,cultural,Rajasthan,23,vacation,₹100,31733.34,10.039098,121.1190338,32.069427,75.6226,947487,137,66,vacation rental,₹2000,car,₹1000,897.25,1184.8,hiking,cloudy,art exhibition
+925,51,Male,cultural,Himachal Pradesh,14,business,₹5000,11276.66,17.33735,10.1367166,26.722261,76.574,1387858,311,46,hotel,₹500,car,₹1000,179.22,5501.91,sightseeing,rainy,art exhibition
+926,40,Male,relaxation,Manipur,13,vacation,₹5000,26879.86,36.810077,-8.6888467,27.476044,84.1533,616096,41,265,hostel,₹100,plane,₹1000,768.83,1645.91,vacation,rainy,music festival
+927,23,Female,adventure,Arunachal Pradesh,14,family,₹500,5462.52,18.072618,-35.5876697,17.455732,80.684,709022,940,601,vacation rental,₹100,plane,₹5000,545.97,3798.63,shopping,sunny,music festival
+928,49,Female,adventure,Kerala,2,vacation,₹2000,30200.68,16.305124,19.491356,32.713223,77.0726,1064989,712,828,vacation rental,₹1000,car,₹5000,797.21,6289.98,shopping,sunny,music festival
+929,47,Male,cultural,Odisha,5,vacation,₹2000,25106.57,34.728968,-106.6611689,27.017477,75.5031,315495,93,490,hotel,₹1000,plane,₹5000,263.05,7013.86,sightseeing,cloudy,sports event
+930,47,Female,relaxation,Telangana,13,vacation,₹35000,23263.64,20.681303,120.477813,13.291236,82.0115,986114,986,685,vacation rental,₹2000,train,₹500,490.67,8179.76,sightseeing,sunny,sports event
+931,19,Female,cultural,Gujarat,20,business,₹100,44244.59,16.534334,15.7509093,30.068847,96.3946,154348,57,706,hotel,₹1000,train,₹2000,529.39,4949.0,hiking,cloudy,sports event
+932,65,Bigender,cultural,Telangana,20,business,₹35000,2314.39,24.822284,121.094913,17.890095,87.8872,1429117,226,672,hotel,₹100,plane,₹500,642.67,6466.6,shopping,rainy,sports event
+933,50,Female,adventure,Meghalaya,9,family,₹1000,18877.19,14.372633,-82.1604849,19.944858,86.9433,665761,534,78,hostel,₹1000,train,₹2000,174.31,5514.55,education,sunny,art exhibition
+934,40,Male,cultural,Goa,11,family,₹10000,12913.85,22.448808,117.032171,17.313914,86.7817,434157,13,628,hotel,₹500,plane,₹2000,195.69,8382.64,education,rainy,sports event
+935,79,Female,cultural,Sikkim,28,business,₹1000,42125.22,32.477614,100.5191452,10.894026,97.1624,635321,388,925,vacation rental,₹2000,car,₹500,229.55,4023.29,shopping,rainy,music festival
+936,65,Male,adventure,Punjab,3,business,₹25000,40514.73,32.635022,2.8830762,9.518202,86.8812,604327,99,398,hostel,₹500,car,₹1000,172.24,355.83,vacation,cloudy,art exhibition
+937,83,Male,adventure,Assam,8,business,"",21825.94,15.050706,121.0394028,33.232696,79.2777,1202259,257,833,hostel,₹2000,plane,₹500,122.81,8256.4,vacation,cloudy,art exhibition
+938,28,Male,cultural,Bihar,20,family,₹1000,45006.16,28.299801,16.5289486,26.710515,91.8103,248317,833,497,hostel,₹500,plane,₹5000,263.59,6123.12,hiking,sunny,art exhibition
+939,81,Female,adventure,Rajasthan,3,vacation,"",42875.88,32.510952,120.9495257,14.826801,95.6547,887511,690,61,hotel,₹500,car,₹2000,814.76,1314.12,hiking,rainy,art exhibition
+940,83,Bigender,relaxation,Andhra Pradesh,10,family,₹15000,11722.61,11.875051,49.9843941,24.310839,73.1269,202316,458,664,hotel,₹500,car,₹1000,808.84,8258.8,vacation,cloudy,music festival
+941,76,Female,relaxation,Manipur,29,vacation,₹50000,48821.13,22.079916,-102.9838564,36.899948,71.4077,10670,495,926,vacation rental,₹500,train,₹100,479.84,4384.22,vacation,sunny,sports event
+942,69,Female,relaxation,Chhattisgarh,16,family,₹15000,8976.29,10.878077,102.2575235,21.978296,80.8975,515021,423,575,hotel,₹1000,plane,₹5000,329.69,3943.14,hiking,cloudy,sports event
+943,61,Male,cultural,Uttar Pradesh,7,family,₹35000,36801.82,30.341827,10.5239867,26.234317,93.8826,1021170,867,934,hotel,₹100,train,₹5000,993.57,4608.59,education,sunny,sports event
+944,37,Polygender,cultural,Jharkhand,6,business,₹10000,1542.83,14.112352,107.0480378,13.023332,96.7786,108017,310,825,hotel,₹500,train,₹500,246.22,3324.16,shopping,cloudy,music festival
+945,37,Female,relaxation,Rajasthan,12,family,₹2000,13773.5,33.990837,-99.0806088,18.668338,89.8816,555099,481,26,hostel,₹2000,plane,₹5000,515.91,7229.0,sightseeing,sunny,music festival
+946,58,Female,relaxation,Uttar Pradesh,22,business,₹35000,25804.22,12.819934,106.720976,18.235768,77.5872,836083,762,716,hotel,₹1000,train,₹500,649.38,6184.16,hiking,rainy,art exhibition
+947,74,Male,adventure,Mizoram,7,business,₹25000,28628.21,22.913179,-2.7383235,26.801923,90.69,660473,13,914,hostel,₹500,car,₹100,508.21,3120.1,education,sunny,sports event
+948,61,Male,relaxation,Odisha,7,business,"",39052.92,26.530006,-71.2883704,12.900584,76.0666,582029,299,644,hostel,₹1000,plane,₹1000,224.45,9602.91,hiking,sunny,sports event
+949,51,Female,cultural,Bihar,23,business,₹10000,12168.12,10.053082,18.0684457,13.04432,92.8072,126107,964,377,hotel,₹100,plane,₹2000,691.89,7907.9,shopping,cloudy,sports event
+950,31,Male,adventure,Madhya Pradesh,30,vacation,₹2000,29841.84,19.511907,121.047062,32.059585,89.2228,210937,168,908,vacation rental,₹500,train,₹1000,115.02,3611.9,hiking,cloudy,art exhibition
+951,74,Polygender,cultural,Tamil Nadu,16,vacation,₹5000,6322.65,36.634987,33.0817144,36.469449,70.5914,1416529,138,152,hostel,₹1000,train,₹500,570.34,3144.74,hiking,sunny,music festival
+952,85,Male,cultural,Manipur,15,business,₹35000,34629.39,13.702874,32.6447001,35.498235,95.6522,1355301,784,241,hotel,₹100,plane,₹5000,224.89,7024.63,education,cloudy,music festival
+953,63,Polygender,cultural,Assam,26,vacation,₹35000,17973.97,34.920395,35.8960765,15.581667,88.5058,883759,604,815,vacation rental,₹2000,car,₹500,741.98,3557.32,vacation,sunny,music festival
+954,57,Female,adventure,Chhattisgarh,27,business,₹5000,3888.78,18.627261,113.106055,34.648533,76.2613,515381,360,388,hostel,₹500,train,₹5000,649.53,3752.49,sightseeing,cloudy,art exhibition
+955,67,Polygender,adventure,Meghalaya,23,business,₹10000,19187.2,36.788219,-91.2062,9.707744,85.8374,317631,49,346,hostel,₹100,train,₹500,930.6,7012.52,hiking,sunny,art exhibition
+956,34,Bigender,cultural,Goa,15,vacation,₹25000,19976.97,35.116675,20.57188,20.182646,82.2541,301786,280,733,hostel,₹100,train,₹500,140.54,7978.19,sightseeing,cloudy,music festival
+957,76,Female,adventure,Andhra Pradesh,18,business,₹1000,28246.76,34.739369,117.069202,19.630333,86.7173,1294673,106,380,vacation rental,₹100,train,₹1000,413.51,7958.68,education,rainy,sports event
+958,18,Male,relaxation,Haryana,25,vacation,₹35000,34641.79,8.146423,89.0076739,15.913581,75.7037,1229825,701,276,hotel,₹500,plane,₹2000,176.6,9649.17,sightseeing,cloudy,sports event
+959,68,Male,adventure,Mizoram,9,family,₹500,48211.69,25.752319,37.7470313,10.097785,94.0477,1432079,455,410,hotel,₹1000,train,₹2000,857.91,4954.21,shopping,sunny,art exhibition
+960,70,Male,adventure,Goa,9,business,₹50000,5454.95,35.897959,121.450653,14.473568,90.0915,10878,230,833,vacation rental,₹1000,plane,₹2000,888.17,3047.62,hiking,cloudy,music festival
+961,82,Male,relaxation,Bihar,21,family,₹50000,12212.18,29.560619,118.674614,34.915476,82.6671,1306027,985,410,hostel,₹500,car,₹500,762.3,4261.03,education,rainy,music festival
+962,68,Female,cultural,Haryana,18,business,₹5000,9858.62,21.488895,104.3016527,10.082968,92.6939,215435,345,282,hotel,₹1000,plane,₹1000,273.16,8066.56,sightseeing,sunny,art exhibition
+963,39,Polygender,cultural,Karnataka,13,vacation,₹35000,25876.91,16.554675,38.9204498,33.613317,78.3012,1380989,865,140,hotel,₹2000,plane,₹100,889.4,3524.96,education,rainy,music festival
+964,54,Male,adventure,Karnataka,25,vacation,"",9438.19,20.98147,127.1388684,33.037342,72.3392,417662,975,814,hotel,₹100,plane,₹5000,173.15,3137.46,sightseeing,cloudy,music festival
+965,55,Male,adventure,Maharashtra,15,business,₹35000,35283.27,27.069615,-8.5886477,30.162535,70.4995,1395354,610,108,hotel,₹100,car,₹2000,113.17,7541.45,sightseeing,cloudy,art exhibition
+966,66,Male,cultural,Karnataka,18,family,₹50000,32079.45,22.091721,46.0801697,33.541014,84.0338,648985,973,707,hotel,₹500,train,₹100,935.47,4068.87,vacation,sunny,music festival
+967,22,Genderqueer,relaxation,Sikkim,23,vacation,₹5000,16683.46,35.411442,112.626495,34.986663,96.6711,397752,152,981,vacation rental,₹2000,car,₹100,135.56,6867.81,sightseeing,rainy,art exhibition
+968,74,Female,adventure,Nagaland,6,vacation,₹100,31058.17,22.387559,20.1302301,19.05594,87.333,493522,978,248,hostel,₹500,plane,₹1000,342.05,5410.08,education,rainy,art exhibition
+969,47,Male,adventure,Goa,14,business,₹15000,12688.63,13.703483,-77.1470783,31.03678,69.805,71757,294,706,hostel,₹2000,train,₹500,572.04,2985.25,sightseeing,cloudy,music festival
+970,37,Female,relaxation,Manipur,24,family,₹35000,44785.68,22.900656,101.3431058,16.70561,74.1722,1126544,14,140,hotel,₹2000,train,₹5000,715.66,1292.43,shopping,sunny,music festival
+971,62,Female,relaxation,Rajasthan,17,family,₹50000,44817.38,8.809845,44.8841712,21.891911,89.6451,535212,198,157,hotel,₹500,train,₹100,799.71,5763.51,shopping,sunny,art exhibition
+972,46,Female,cultural,Mizoram,4,business,₹50000,12715.97,24.227306,122.207215,29.651063,81.4445,1492740,48,119,hotel,₹2000,car,₹5000,451.46,4801.21,hiking,rainy,music festival
+973,81,Male,relaxation,Mizoram,28,business,"",20480.88,21.298994,76.9262526,18.046199,86.4906,1192115,343,518,hostel,₹2000,car,₹500,83.96,2160.36,hiking,rainy,art exhibition
+974,24,Female,cultural,Karnataka,11,business,"",46789.26,36.73833,-65.3580411,18.163466,86.0869,28250,374,323,vacation rental,₹100,train,₹500,746.75,4556.93,vacation,cloudy,sports event
+975,77,Male,cultural,Sikkim,29,business,₹15000,24471.47,9.290621,27.4312339,31.277722,87.3284,1141936,415,590,vacation rental,₹500,train,₹1000,244.37,2841.26,hiking,cloudy,art exhibition
+976,49,Male,adventure,Gujarat,6,business,₹15000,3275.06,36.6299,22.4649083,35.498614,79.7696,239273,206,285,hostel,₹2000,train,₹2000,13.98,2363.6,vacation,rainy,music festival
+977,45,Male,cultural,Rajasthan,15,business,₹10000,7616.9,15.561455,-0.3513021,8.818783,78.5005,316254,395,411,hotel,₹100,train,₹500,984.16,1442.42,hiking,sunny,sports event
+978,23,Female,relaxation,Haryana,3,business,"",18123.48,26.033534,44.29966,11.811411,72.0349,1058133,955,134,vacation rental,₹500,car,₹5000,999.22,1808.68,education,sunny,art exhibition
+979,27,Male,relaxation,Uttar Pradesh,23,vacation,₹500,16562.92,10.942741,-89.4245627,9.582179,70.0966,109207,620,237,hostel,₹2000,train,₹500,961.3,7132.58,hiking,cloudy,music festival
+980,50,Male,cultural,Gujarat,21,business,₹2000,39282.56,22.698644,46.0788428,15.688833,96.0559,144853,599,620,vacation rental,₹1000,plane,₹5000,697.23,4664.46,sightseeing,rainy,sports event
+981,71,Female,cultural,Bihar,14,family,₹25000,35144.17,20.482665,116.0761121,36.419773,68.8354,1028244,865,198,hostel,₹500,car,₹500,27.66,1446.93,sightseeing,rainy,music festival
+982,21,Genderfluid,adventure,Karnataka,24,family,₹10000,48736.99,12.733179,77.1827834,19.089291,74.1385,33886,978,380,hostel,₹1000,train,₹5000,582.89,3364.75,vacation,rainy,art exhibition
+983,57,Female,adventure,Gujarat,29,business,₹500,20366.45,34.677143,119.135302,16.924204,71.976,810888,229,948,hotel,₹1000,train,₹2000,686.47,2626.78,vacation,rainy,music festival
+984,76,Female,cultural,Mizoram,2,business,₹15000,16004.99,27.069696,14.4319324,32.388376,85.889,1295552,550,230,hostel,₹100,train,₹2000,411.86,5044.31,vacation,cloudy,art exhibition
+985,26,Male,relaxation,Himachal Pradesh,4,vacation,₹2000,36860.09,16.427219,49.950331,36.414103,93.0015,104865,510,870,vacation rental,₹100,car,₹1000,15.82,8802.21,education,rainy,music festival
+986,76,Male,adventure,Jharkhand,5,business,₹35000,5486.89,35.510985,121.012257,36.370688,82.0814,678356,581,146,hostel,₹100,plane,₹5000,327.87,203.14,sightseeing,cloudy,art exhibition
+987,55,Male,adventure,Goa,9,vacation,₹50000,4626.69,29.90825,51.2946066,31.141748,71.7909,1412710,507,193,hotel,₹1000,train,₹2000,727.38,8734.21,hiking,sunny,art exhibition
+988,57,Genderfluid,relaxation,Manipur,10,family,₹35000,5255.08,21.1638,114.3727687,36.895959,74.8732,426038,130,80,vacation rental,₹2000,train,₹100,586.12,8098.15,shopping,sunny,music festival
+989,66,Male,adventure,Haryana,28,vacation,₹50000,38836.36,25.888828,35.032191,21.270784,89.6698,1110413,298,139,hostel,₹100,car,₹100,813.63,3019.34,shopping,cloudy,sports event
+990,82,Female,relaxation,Nagaland,14,vacation,₹100,3571.38,30.514485,118.796877,30.585778,77.0176,1466741,635,771,hostel,₹500,train,₹1000,525.82,2487.13,hiking,cloudy,sports event
+991,79,Male,cultural,Telangana,2,family,₹5000,32949.72,10.599542,-4.7497457,17.361155,74.2869,54572,147,671,hotel,₹500,car,₹5000,929.58,9996.53,education,sunny,art exhibition
+992,59,Male,cultural,Haryana,28,family,₹35000,20295.2,9.740494,109.735661,28.639186,75.9708,1403326,983,18,hotel,₹500,plane,₹500,811.57,1595.02,hiking,rainy,music festival
+993,47,Non-binary,cultural,Maharashtra,8,vacation,₹1000,11703.67,9.463406,57.6481549,34.297248,70.5377,468348,634,915,hostel,₹1000,car,₹100,927.53,788.41,hiking,sunny,sports event
+994,52,Non-binary,relaxation,Nagaland,21,vacation,"",2769.06,18.744404,69.37719,13.484453,76.084,1211759,647,139,vacation rental,₹100,train,₹2000,691.17,1796.19,education,rainy,art exhibition
+995,76,Female,relaxation,Nagaland,3,business,₹2000,20741.23,35.651829,59.4823216,29.47133,88.8949,1468651,459,137,hotel,₹500,train,₹500,951.28,9015.75,sightseeing,sunny,art exhibition
+996,28,Male,adventure,Karnataka,20,business,₹1000,16969.61,19.107326,-37.0520889,11.511262,84.3047,977909,142,612,hostel,₹1000,car,₹2000,113.99,5656.08,education,sunny,sports event
+997,38,Female,adventure,Gujarat,16,family,"",2102.55,23.253009,100.4846227,16.583796,96.4694,1400583,977,531,hostel,₹1000,plane,₹100,672.86,2362.42,hiking,sunny,sports event
+998,36,Male,adventure,Karnataka,1,business,₹35000,25643.48,9.149345,111.4931,24.222507,79.5007,503911,682,112,hotel,₹2000,plane,₹1000,857.22,6385.35,hiking,sunny,music festival
+999,33,Male,adventure,Manipur,12,business,₹2000,19100.94,8.693092,119.320063,28.195381,77.2858,9254,375,969,vacation rental,₹500,car,₹2000,931.03,2934.62,vacation,sunny,art exhibition
+1000,45,Female,cultural,Jharkhand,23,vacation,₹1000,42156.14,23.277397,96.5756695,10.401755,82.7418,233558,701,477,hostel,₹2000,train,₹1000,506.77,4389.68,hiking,sunny,art exhibition

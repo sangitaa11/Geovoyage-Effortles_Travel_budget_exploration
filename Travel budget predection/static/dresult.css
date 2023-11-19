@@ -1,0 +1,17 @@
+/* static/destinationresult.css */
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #28a745;
+}
+
+p {
+    font-size: 18px;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* You can add additional styling as needed */

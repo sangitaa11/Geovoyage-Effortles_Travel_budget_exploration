@@ -1,0 +1,13 @@
+<!-- main_options.html -->
+{% include 'partials/header.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='main_options.css') }}">
+<main>
+    <h1>Welcome to Travel Budget Prediction</h1>
+    <p>Choose an option below:</p>
+    <ul>
+        <li><a href="/get_budget">Get Budget Prediction</a></li>
+        <li><a href="/see_destination">See Destination</a></li>
+    </ul>
+</main>
+
+{% include 'partials/footer.html' %}

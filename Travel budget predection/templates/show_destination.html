@@ -1,0 +1,9 @@
+<!-- show_destination.html -->
+{% include 'partials/header.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='dresult.css') }}">
+<main>
+    <h1>Suggested Destination</h1>
+    <p>The suggested destination is: {{ suggested_destination }}</p>
+</main>
+
+{% include 'partials/footer.html' %}

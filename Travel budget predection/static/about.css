@@ -1,0 +1,16 @@
+/* static/about_us.css */
+main {
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #007bff;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+/* Add additional styles as needed */

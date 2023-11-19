@@ -1,0 +1,63 @@
+<!-- get_budget.html -->
+{% include 'partials/header.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='budgetform.css') }}">
+
+
+<main>
+    <h1>Get Budget</h1>
+    <form action="/predict_budget" method="post">
+        <!-- Include relevant input fields -->
+        <label for="age">Age:</label>
+        <input type="number" name="age" required>
+
+        <label for="duration">Duration:</label>
+        <input type="number" name="duration" required>
+
+        <label for="current_cost_of_living_index">Current Cost of Living Index:</label>
+        <input type="number" name="current_cost_of_living_index" required>
+
+        <label for="destination_cost_of_living_index">Destination Cost of Living Index:</label>
+        <input type="number" name="destination_cost_of_living_index" required>
+
+        <label for="accommodation_cost_per_night">Accommodation Cost per Night:</label>
+        <input type="number" name="accommodation_cost_per_night" required>
+
+        <label for="transportation_cost">Transportation Cost:</label>
+        <input type="number" name="transportation_cost" required>
+
+        <label for="daily_meal_expenses">Daily Meal Expenses:</label>
+        <input type="number" name="daily_meal_expenses" required>
+
+        <label for="gender">Gender:</label>
+        <select name="gender" required>
+            <option value="0">Female</option>
+            <option value="1">Male</option>
+        </select>
+
+        <label for="travel_preferences">Travel Preferences:</label>
+        <select name="travel_preferences" required>
+            <!-- Add options based on your dataset -->
+            <option value="0">Adventure</option>
+            <option value="1">Cultural</option>
+            <option value="2">relaxation</option>
+        </select>
+
+        <label for="purpose">Purpose:</label>
+        <select name="purpose" required>
+            <!-- Add options based on your dataset -->
+            <option value="0">Bussiness</option>
+            <option value="1">Vacation</option>
+            <option value="2">Family</option>
+        </select>
+
+        <label for="actual_expenses">Actual Expenses:</label>
+        <input type="number" name="actual_expenses" required>
+
+        <!-- Include other input fields as per your dataset -->
+
+        <button type="submit">Predict Budget</button>
+    </form>
+</main>
+
+
+

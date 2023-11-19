@@ -1,0 +1,12 @@
+<!-- templates/profile.html -->
+{% include 'partials/header.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='profile.css') }}">
+
+<main>
+    <h1>Profile</h1>
+    <p>Welcome, {{ user.username }}!</p>
+    <p>Email: {{ user.email }}</p>
+    <!-- Add more user details as needed -->
+</main>
+
+{% include 'partials/footer.html' %}

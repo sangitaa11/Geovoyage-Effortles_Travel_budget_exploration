@@ -1,0 +1,15 @@
+<!-- see_destination.html -->
+{% include 'partials/header.html' %}
+<link rel="stylesheet" href="{{ url_for('static', filename='destination.css') }}">
+
+<main>
+    <h1>See Destination</h1>
+    <form action="/suggest_destination" method="post">
+        <label for="budget">Enter your budget:</label>
+        <input type="number" name="budget" required>
+
+        <button type="submit">Get Destination</button>
+    </form>
+</main>
+
+{% include 'partials/footer.html' %}
