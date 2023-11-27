@@ -21,7 +21,7 @@ This Flask-based web application predicts travel budgets based on user input and
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/travel-budget-app.git
+   git clone https://github.com/sangitaa11/Geovoyage-Effortles_Travel_budget_exploration.git
    cd travel-budget-app
    ```
 
